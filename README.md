@@ -11,10 +11,17 @@ A professionally curated list of AI papers (with code if available) on **AI for 
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-# Table of Contents
 
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
+## Table of Contents
+
+- [2022 AI4TS Papers](#2022-AI4TS-Papers)
+  * [ICML 2022](#ICML-2022)
+  * [ICLR 2022](#ICLR-2022)
+
+- [2021 AI4TS Papers](#2021-AI4TS-Papers)
+  * [NeurIPS 2021](#NeurIPS-2021)
+  * [ICML 2022](#ICML-2021)
+  * [ICLR 2022](#ICLR-2021)
 
 
 
@@ -46,9 +53,15 @@ We will continue to update this list with newest resources. If you found any mis
 * Improving and Assessing Anomaly Detectors for Large-Scale Settings
 * Rethinking Graph Neural Networks for Anomaly Detection
 
+### ICLR 2022
+#### Time Series Forecasting
 
 
+## 2021 AI4TS Papers
+### NeurIPS 2021
+#### Time Series Forecasting
 
-## My first title
-Some text.
-## My second title
+### ICLR 2021
+#### Time Series Forecasting
+
+
