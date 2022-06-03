@@ -168,6 +168,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ### KDD 2021
 ### ICML 2021
 ### ICLR 2021
+### IJCAI 2021
+### AAAI 2021
 
 
 
