@@ -1,4 +1,4 @@
-# AI for Time Series (AI4TS) Papers and Tutorials
+# AI for Time Series (AI4TS) Papers, Tutorials, and Surveys
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -6,12 +6,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
-A professionally curated list of papers (with available code) and tutorials on **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences. 
+A professionally curated list of papers (with available code), tutorials, and surveys on **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. 
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
 - Data Mining: KDD, WWW/TheWebConf
-- Conventional AI: AAAI, IJCAI
+- Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
 - Misc: ICDM, WSDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV
 
@@ -20,7 +20,8 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 ## Table of Contents
-
+- [AI4TS Tutorials](#AI4TS-Tutorials)
+- [AI4TS Surveys](#AI4TS-Surveys)
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022)
   * [KDD 2022](#KDD-2022)
@@ -39,7 +40,30 @@ Hope this list would be helpful for researchers and engineers who are interested
 
 
 
-## 2022 AI4TS Papers
+## AI4TS Tutorials
+
+## AI4TS Surveys
+#### General Time Series Analysis
+* Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
+* Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
+* Survey and Evaluation of Causal Discovery Methods for Time Series, in *Journal of Artificial Intelligence Research* 2022. [\[paper\]](https://www.jair.org/index.php/jair/article/view/13428/26775)
+* Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
+
+#### Time Series Forecasting
+* Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
+* Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
+
+#### Time Series Anomaly Detection
+* A review on outlier/anomaly detection in time series data, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
+
+#### Time Series Classification
+* Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
+
+
+
+
+
+## AI4TS Papers 2022
 ### NeurIPS 2022
 come later
 ### KDD 2022
@@ -176,6 +200,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ### ICLR 2021
 ### IJCAI 2021
 ### AAAI 2021
+
+
 
 
 
