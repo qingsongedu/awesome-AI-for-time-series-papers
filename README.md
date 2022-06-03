@@ -26,6 +26,7 @@ Hope this list would be helpful for researchers and engineers who are interested
   * [KDD 2022](#KDD-2022)
   * [ICML 2022](#ICML-2022)
   * [ICLR 2022](#ICLR-2022)
+  * [IJCAI 2022](#IJCAI-2022)
   * [AAAI 2022](#AAAI-2022)
 
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
@@ -42,7 +43,7 @@ Hope this list would be helpful for researchers and engineers who are interested
 come later
 ### KDD 2022
 come later
-### ICML 2022
+### ICML 2022 (July 17-23)
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
 * TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) 
@@ -110,6 +111,28 @@ come later
 * Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
 
 
+<!--  [\[paper\]]() [\[official code\]]()  -->  
+### IJCAI 2022
+#### Time Series Forecasting
+* Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2204.13767)
+* Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts [\[paper\]](https://arxiv.org/abs/2111.03394) [\[official code\]](https://github.com/pratham16cse/aggforecaster)
+* Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting
+* DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data [\[paper\]](https://arxiv.org/abs/2205.02441) [\[official code\]](https://github.com/galib19/deepextrema-ijcai22-)
+* Memory Augmented State Space Model for Time Series Forecasting  
+* Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data 
+* Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention [\[paper\]](https://arxiv.org/abs/2204.11008) [\[official code\]](https://arxiv.org/abs/2204.11008)
+* FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
+
+#### Time Series Anomaly Detection
+* Neural Contextual Anomaly Detection for Time Series [\[paper\]](https://arxiv.org/abs/2107.07702)  
+* GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning  
+
+#### Time Series Classification
+* A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification [\[paper\]](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/gao_ijcai22.pdf)
+* T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
+
+
+
 ### AAAI 2022
 #### Time Series Forecasting
 * CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
@@ -122,7 +145,6 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn)
 * Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE)
 * STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN)
-
 
 #### Time Series Anomaly Detection
 * Towards a Rigorous Evaluation of Time-Series Anomaly Detection [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai2239)  
