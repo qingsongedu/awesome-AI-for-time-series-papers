@@ -35,7 +35,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [KDD 2022](#KDD-2022)
   * [AAAI 2022](#AAAI-2022)
   * [IJCAI 2022](#IJCAI-2022)
-  * [SIGMOD/VLDB/ICDE 2022](#SIGMOD/VLDB/ICDE -2022)
+  * [SIGMOD/VLDB/ICDE 2022](#SIGMOD/VLDB/ICDE-2022)
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
