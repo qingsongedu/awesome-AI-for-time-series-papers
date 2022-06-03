@@ -21,7 +21,7 @@ TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 ## Most Recent Update Note
-- [2022-06-02] Add papers accepted in ICML 2022!
+- [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
 
 ## Table of Contents
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
