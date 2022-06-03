@@ -66,7 +66,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, in *TIST* 2022. [\[paper\]](https://arxiv.org/abs/2008.08903)
 * Survey and Evaluation of Causal Discovery Methods for Time Series, in *JAIR* 2022. [\[paper\]](https://www.jair.org/index.php/jair/article/view/13428/26775)
-* A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, "NeurIPS Workshop" 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
+* A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, in *NeurIPS Workshop* 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
 
