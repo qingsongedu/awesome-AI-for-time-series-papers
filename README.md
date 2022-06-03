@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals after 2018**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
+A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals mainly after 2020**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
@@ -19,6 +19,9 @@ The top journals including (mainly for survey papers):
 TPAMI, TKDE, TNNLS, TITS, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+
+## Most Recent Update Note
+- [2022-06-02] Add papers accepted in ICML 2022!
 
 ## Table of Contents
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
@@ -41,18 +44,26 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [AAAI 2021](#AAAI-2021)
   * [IJCAI 2021](#IJCAI-2021)
 
-## Main Update Note
-- [2022-06-02] Add papers accepted in ICML 2022!
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
+
+* Robust Time Series Analysis and Applications: An Industrial Perspective, in *KDD* 2022. [\[Link\]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
+* Time Series in Healthcare: Challenges and Solutions, in *AAAI* 2022. [\[Link\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
+* Robust Time Series Analysis: from Theory to Applications in the AI Era, in *IJCAI* 2022. [\[Link\]](https://sites.google.com/site/qingsongwen8/tutorials)
+* Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
+* Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
+* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
+* Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
+
+
+
 
 ### AI4TS Surveys
 #### General Time Series Analysis
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
 * Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
-* Spatio-temporal data mining: A survey of problems and methods, in *CSUR* 2018. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3161602)
 * Survey and Evaluation of Causal Discovery Methods for Time Series, in *JAIR* 2022. [\[paper\]](https://www.jair.org/index.php/jair/article/view/13428/26775)
 * A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, "NeurIPS Workshop" 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
@@ -73,10 +84,6 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 #### Time Series Classification/Clustering
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 * Approaches and Applications of Early Classification of Time Series: A Review, in *IEEE Transactions on Artificial Intelligence* 2020. [\[paper\]](https://arxiv.org/abs/2005.02595)
-
-
-
-
 
 
 ## AI4TS Papers 2022
