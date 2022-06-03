@@ -24,7 +24,7 @@ Hope this list would be helpful for researchers and engineers who are interested
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022)
   * [KDD 2022](#KDD-2022)
-  * [ICML 2022 July 17-23](#ICML-2022-July-17-23)
+  * [ICML 2022](#ICML-2022)
   * [ICLR 2022](#ICLR-2022)
   * [IJCAI 2022](#IJCAI-2022)
   * [AAAI 2022](#AAAI-2022)
@@ -34,7 +34,8 @@ Hope this list would be helpful for researchers and engineers who are interested
   * [KDD 2021](#KDD-2021)
   * [ICML 2021](#ICML-2021)
   * [ICLR 2021](#ICLR-2021)
-
+  * [IJCAI 2021](#IJCAI-2021)
+  * [AAAI 2021](#AAAI-2021)
 
 
 
@@ -43,7 +44,7 @@ Hope this list would be helpful for researchers and engineers who are interested
 come later
 ### KDD 2022
 come later
-### ICML 2022 July 17-23
+### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
 * TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) 
