@@ -26,6 +26,7 @@ Hope this list would be helpful for researchers and engineers who are interested
   * [KDD 2022](#KDD-2022)
   * [ICML 2022](#ICML-2022)
   * [ICLR 2022](#ICLR-2022)
+  * [AAAI 2022](#AAAI-2022)
 
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
@@ -109,7 +110,35 @@ come later
 * Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
 
 
-<!--  [\[paper\]]() [\[official code\]]().  -->  
+### AAAI 2022
+#### Time Series Forecasting
+* CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
+* Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8424)
+* PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi7128)
+* LIMREF: Local Interpretable Model Agnostic Rule-Based Explanations for Forecasting, with an Application to
+Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi8802)  
+* Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration [\[paper\]](https://arxiv.org/abs/2110.05196) [\[official code\]](https://github.com/Sijie-umn/SSF-MIP)
+* CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi6475)
+* Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn)
+* Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE)
+* STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN)
+
+
+#### Time Series Anomaly Detection
+* Towards a Rigorous Evaluation of Time-Series Anomaly Detection [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai2239)  
+* AnomalyKiTS-Anomaly Detection Toolkit for Time Series [\[Demo paper\]](https://aaai-2022.virtualchair.net/poster_dm318) 
+
+#### Other Time Series Analysis
+* TS2Vec: Towards Universal Representation of Time Series [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8809) [\[official code\]](https://github.com/yuezhihan/ts2vec)
+* I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai10930)  
+* Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai4151)  
+* Conditional Loss and Deep Euler Scheme for Time Series Generation [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai12878)  
+* Clustering Interval-Censored Time-Series for Disease Phenotyping [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai12517)  
+
+
+
+
+<!--  [\[paper\]]() [\[official code\]]()  -->  
 ## AI4TS Papers 2021 
 
 ### NeurIPS 2021
