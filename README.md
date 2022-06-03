@@ -6,46 +6,48 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals after 2018**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. 
+A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals after 2018**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
-- Data Mining: KDD, WWW/TheWebConf
+- Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: ICDM, WSDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV
+- Misc: WWW/TheWebConf, WSDM, ICDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV, etc.
 
 The top journals including (mainly for survey papers):
-- TPAMI, TKDE, TNNLS, TITS, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
+TPAMI, TKDE, TNNLS, TITS, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
-
 ## Table of Contents
-- [AI4TS Tutorials](#AI4TS-Tutorials)
-- [AI4TS Surveys](#AI4TS-Surveys)
+- [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
+  * [AI4TS Tutorials](#AI4TS-Tutorials)
+  * [AI4TS Surveys](#AI4TS-Surveys)
+ 
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022)
-  * [KDD 2022](#KDD-2022)
   * [ICML 2022](#ICML-2022)
   * [ICLR 2022](#ICLR-2022)
-  * [IJCAI 2022](#IJCAI-2022)
+  * [KDD 2022](#KDD-2022)
   * [AAAI 2022](#AAAI-2022)
-
+  * [IJCAI 2022](#IJCAI-2022)
+ 
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
-  * [KDD 2021](#KDD-2021)
   * [ICML 2021](#ICML-2021)
   * [ICLR 2021](#ICLR-2021)
-  * [IJCAI 2021](#IJCAI-2021)
+  * [KDD 2021](#KDD-2021)
   * [AAAI 2021](#AAAI-2021)
+  * [IJCAI 2021](#IJCAI-2021)
 
+## Main Update Note
+- [2022-06-02] Add papers accepted in ICML 2022!
 
+## AI4TS Tutorials and Surveys
+### AI4TS Tutorials
 
-## AI4TS Tutorials
-
-## AI4TS Surveys
+### AI4TS Surveys
 #### General Time Series Analysis
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
@@ -80,8 +82,6 @@ Hope this list would be helpful for researchers and engineers who are interested
 ## AI4TS Papers 2022
 ### NeurIPS 2022
 come later
-### KDD 2022
-come later
 ### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
@@ -109,7 +109,8 @@ come later
 * FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers
 * Improving and Assessing Anomaly Detectors for Large-Scale Settings
 
-
+### KDD 2022
+come later
 
 
 ### ICLR 2022
@@ -150,31 +151,6 @@ come later
 * Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
 
 
-<!--  [\[paper\]]() [\[official code\]]()  -->  
-### IJCAI 2022
-#### Time Series Tutorial
-* Robust Time Series Analysis: from Theory to Applications in the AI Era [\[Website\]](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
-
-#### Time Series Forecasting
-* Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2204.13767)
-* Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts [\[paper\]](https://arxiv.org/abs/2111.03394) [\[official code\]](https://github.com/pratham16cse/aggforecaster)
-* Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting
-* DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data [\[paper\]](https://arxiv.org/abs/2205.02441) [\[official code\]](https://github.com/galib19/deepextrema-ijcai22-)
-* Memory Augmented State Space Model for Time Series Forecasting  
-* Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data 
-* Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention [\[paper\]](https://arxiv.org/abs/2204.11008) [\[official code\]](https://arxiv.org/abs/2204.11008)
-* FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
-
-#### Time Series Anomaly Detection
-* Neural Contextual Anomaly Detection for Time Series [\[paper\]](https://arxiv.org/abs/2107.07702)  
-* GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning  
-
-#### Time Series Classification
-* A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification [\[paper\]](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/gao_ijcai22.pdf)
-* T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
-
-
-
 ### AAAI 2022
 #### Time Series Tutorial
 * Time Series in Healthcare: Challenges and Solutions [\[Website\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
@@ -204,17 +180,40 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 
+<!--  [\[paper\]]() [\[official code\]]()  -->  
+### IJCAI 2022
+#### Time Series Tutorial
+* Robust Time Series Analysis: from Theory to Applications in the AI Era [\[Website\]](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
+
+#### Time Series Forecasting
+* Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2204.13767)
+* Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts [\[paper\]](https://arxiv.org/abs/2111.03394) [\[official code\]](https://github.com/pratham16cse/aggforecaster)
+* Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting
+* DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data [\[paper\]](https://arxiv.org/abs/2205.02441) [\[official code\]](https://github.com/galib19/deepextrema-ijcai22-)
+* Memory Augmented State Space Model for Time Series Forecasting  
+* Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data 
+* Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention [\[paper\]](https://arxiv.org/abs/2204.11008) [\[official code\]](https://arxiv.org/abs/2204.11008)
+* FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting
+
+#### Time Series Anomaly Detection
+* Neural Contextual Anomaly Detection for Time Series [\[paper\]](https://arxiv.org/abs/2107.07702)  
+* GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning  
+
+#### Time Series Classification
+* A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification [\[paper\]](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/gao_ijcai22.pdf)
+* T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
+
+
 
 <!--  [\[paper\]]() [\[official code\]]()  -->  
 ## AI4TS Papers 2021 
 
 ### NeurIPS 2021
-### KDD 2021
 ### ICML 2021
 ### ICLR 2021
-### IJCAI 2021
+### KDD 2021
 ### AAAI 2021
-
+### IJCAI 2021
 
 
 
