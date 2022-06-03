@@ -1,4 +1,4 @@
-# AI for Time Series Analysis (AI4TS) Papers
+# AI for Time Series Analysis (AI4TS) Papers and Tutorials
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
-A professionally curated list of papers (with available code) on **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences. 
+A professionally curated list of papers (with available code) and tutorials on **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences. 
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
