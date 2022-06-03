@@ -13,7 +13,7 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, WSDM, ICDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV, etc.
+- Misc: WWW, AISTAT, ICDM, SIGIR, CIKM, WSDM, ICASSP, ATC, CVPR, ICCV, etc.
 
 The top journals including (mainly for survey papers):
 TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
@@ -238,13 +238,20 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2109.07438) [\[official code\]](https://github.com/adityalab/camul)
 * Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3512056)  
 * RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph, WWW'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3485447.3511974) 
+* Robust Probabilistic Time Series Forecasting, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2202.11910) [\[official code\]](https://github.com/tetrzim/robust-probabilistic-forecasting) 
+* Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2111.06581)
 
 
 #### Time Series Anomaly Detection
+* Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2202.07586) [\[official code\]](https://github.com/cchallu/dghl)
 * A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3511984) 
 
 
 #### Other Time Series Analysis
+* Decoupling Local and Global Representations of Time Series, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2202.02262) [\[official code\]](https://github.com/googleinterns/local_global_ts_representation)
+* LIMESegment: Meaningful, Realistic Time Series Explanations, AISTATS'22. [\[paper\]](https://proceedings.mlr.press/v151/sivill22a.html)
+* Using time-series privileged information for provably efficient learning of prediction models, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2110.14993) [\[official code\]](https://github.com/RickardKarl/LearningUsingPrivilegedTimeSeries)
+* Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation, AISTATS'22. [\[paper\]]() [\[official code\]](https://arxiv.org/abs/2202.11585)
 * EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2204.08771) 
 
 ## AI4TS Papers 2021 
