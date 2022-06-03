@@ -236,7 +236,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [\[paper\]](https://openreview.net/forum?id=A_Aeb-XLozL) [\[official code\]](https://github.com/SamsungLabs/Drop-DTW) 
 
 
-<!--  [\[paper\]]() [\[official code\]]()  -->  
+
 ### ICML 2021
 #### Time Series Forecasting
 * Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2101.12072) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts)
@@ -258,7 +258,21 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Whittle Networks: A Deep Likelihood Model for Time Series [\[paper\]](https://proceedings.mlr.press/v139/yu21c.html) [\[official code\]](https://github.com/ml-research/WhittleNetworks)
 * Necessary and sufficient conditions for causal feature selection in time series with latent common causes [\[paper\]](http://proceedings.mlr.press/v139/mastakouri21a.html)  
 
+
+<!--  [\[paper\]]() [\[official code\]]()  -->  
+
 ### ICLR 2021
+#### Time Series Forecasting
+* Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows [\[paper\]](https://openreview.net/forum?id=WiGQBFuVRv) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts) 
+* Discrete Graph Structure Learning for Forecasting Multiple Time Series [\[paper\]](https://openreview.net/forum?id=WEHSlH5mOk) [\[official code\]](https://github.com/chaoshangcs/GTS)
+
+#### Other Time Series Analysis
+* Clairvoyance: A Pipeline Toolkit for Medical Time Series [\[paper\]](https://openreview.net/forum?id=xnC8YwKUE3k) [\[official code\]](https://github.com/vanderschaarlab/clairvoyance)
+* Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [\[paper\]](https://openreview.net/forum?id=8qDwejCuCN) [\[official code\]](https://github.com/sanatonek/TNC_representation_learning)
+* Multi-Time Attention Networks for Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=4c0J6lwQ4_) [\[official code\]](https://github.com/reml-lab/mTAN)
+* Generative Time-series Modeling with Fourier Flows [\[paper\]](https://openreview.net/forum?id=PpshD0AXfA) [\[official code\]](https://github.com/ahmedmalaa/Fourier-flows)
+* Neural ODE Processes [\[paper\]](https://openreview.net/forum?id=27acGyyI1BY) [\[official code\]](https://github.com/crisbodnar/ndp) 
+* Learning Continuous-Time Dynamics by Stochastic Differential Networks [\[paper\]](https://openreview.net/forum?id=U850oxFSKmN) [\[official code\]]() 
 
 
 ### KDD 2021
