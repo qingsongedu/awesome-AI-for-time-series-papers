@@ -35,6 +35,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [KDD 2022](#KDD-2022)
   * [AAAI 2022](#AAAI-2022)
   * [IJCAI 2022](#IJCAI-2022)
+  * [SIGMOD/VLDB/ICDE 2022](#SIGMOD/VLDB/ICDE -2022)
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
@@ -204,6 +205,31 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Classification
 * A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification [\[paper\]](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/gao_ijcai22.pdf)
 * T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
+
+
+
+<!--  [\[paper\]]() [\[official code\]]()  -->  
+### SIGMOD/VLDB/ICDE 2022
+#### Time Series Forecasting
+* METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p224-cui.pdf) [\[official code\]](https://zheng-kai.com/code/metro_single_s.zip) 
+* AutoCTS: Automated Correlated Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p971-wu.pdf)
+* Towards Spatio-Temporal Aware Traffic Time Series Forecasting, ICDE'22. [\[paper\]](https://arxiv.org/abs/2203.15737) [\[official code\]](https://github.com/razvanc92/st-wa) 
+
+
+#### Time Series Anomaly Detection
+* TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, VLDB'22. [\[paper\]](https://arxiv.org/abs/2201.07284) [\[official code\]](https://github.com/imperial-qore/tranad)
+* Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p611-chaves.pdf)
+* Robust and Explainable Autoencoders for Time Series Outlier Detection, ICDE'22. [\[paper\]](https://arxiv.org/abs/2204.03341)
+* Anomaly Detection in Time Series with Robust Variational Quasi-Recurrent Autoencoders, ICDE'22.  
+
+#### Time Series Classification
+* IPS: Instance Profile for Shapelet Discovery for Time Series Classification, ICDE'22. [\[paper\]](https://personal.ntu.edu.sg/assourav/papers/ICDE-22-IPS.pdf)
+* Towards Backdoor Attack on Deep Learning based Time Series Classification, ICDE'22. [\[paper\]]()
+
+#### Other Time Series Analysis
+* OnlineSTL: Scaling Time Series Decomposition by 100x, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p1417-mishra.pdf) 
+* Learning Evolvable Time-series Shapelets, ICDE'22.  
+
 
 
 
