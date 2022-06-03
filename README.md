@@ -6,27 +6,39 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
+A professionally curated list of papers (with available code) on **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences. 
 
-A professionally curated list of AI papers (with code if available) on **AI for Time Series Analysis (AI4TS)**, which aims to comprehensively and systematically summarize the most recent (SOTA) advances of time series papers in **Top AI Conferences** to the best of our knowledge.
+The top conferences including:
+- Machine Learning: NeurIPS, ICML, ICLR
+- Data Mining: KDD, WWW/TheWebConf
+- Conventional AI: AAAI, IJCAI
+- Data Management: SIGMOD, VLDB, ICDE
+- Misc: ICDM, WSDM, SIGIR, CIKM, ICASSP, ATC, CVPR, ICCV
 
-We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
+Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 ## Table of Contents
 
-- [2022 AI4TS Papers](#2022-AI4TS-Papers)
-  * [ICML 2022](#ICML2022)
+- [AI4TS Papers 2022](#AI4TS-Papers-2022)
+  * [NeurIPS 2022](#NeurIPS-2022)
+  * [KDD 2022](#KDD-2022)
+  * [ICML 2022](#ICML-2022)
   * [ICLR 2022](#ICLR-2022)
 
-- [2021 AI4TS Papers](#2021-AI4TS-Papers)
+- [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
-  * [ICML 2022](#ICML-2021)
-  * [ICLR 2022](#ICLR-2021)
+  * [KDD 2021](#KDD-2021)
+  * [ICML 2021](#ICML-2021)
+  * [ICLR 2021](#ICLR-2021)
 
 
 
 
 ## 2022 AI4TS Papers
+### NeurIPS 2022
+### KDD 2022
 ### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
@@ -57,11 +69,13 @@ We will continue to update this list with newest resources. If you found any mis
 #### Time Series Forecasting
 
 
-## 2021 AI4TS Papers
-### NeurIPS 2021
-#### Time Series Forecasting
 
+## AI4TS Papers 2021 
+### NeurIPS 2021
+### KDD 2021
+### ICML 2021
 ### ICLR 2021
-#### Time Series Forecasting
+
+
 
 
