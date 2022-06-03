@@ -1,4 +1,4 @@
-# AI for Time Series Analysis (AI4TS) Papers and Tutorials
+# AI for Time Series (AI4TS) Papers and Tutorials
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
