@@ -35,7 +35,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [KDD 2022](#KDD-2022)
   * [AAAI 2022](#AAAI-2022)
   * [IJCAI 2022](#IJCAI-2022)
-  * [SIGMOD/VLDB/ICDE 2022](#SIGMOD/VLDB/ICDE-2022)
+  * [SIGMOD VLDB ICDE 2022](#SIGMOD-VLDB-ICDE-2022)
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
@@ -209,7 +209,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 <!--  [\[paper\]]() [\[official code\]]()  -->  
-### SIGMOD/VLDB/ICDE 2022
+### SIGMOD VLDB ICDE 2022
 #### Time Series Forecasting
 * METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p224-cui.pdf) [\[official code\]](https://zheng-kai.com/code/metro_single_s.zip) 
 * AutoCTS: Automated Correlated Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p971-wu.pdf)
