@@ -13,7 +13,7 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW/TheWebConf, WSDM, ICDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV, etc.
+- Misc: WWW, WSDM, ICDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV, etc.
 
 The top journals including (mainly for survey papers):
 TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
@@ -36,6 +36,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [AAAI 2022](#AAAI-2022)
   * [IJCAI 2022](#IJCAI-2022)
   * [SIGMOD VLDB ICDE 2022](#SIGMOD-VLDB-ICDE-2022)
+  * [Misc 2022](#Misc-2022)
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021)
@@ -231,8 +232,20 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Learning Evolvable Time-series Shapelets, ICDE'22.  
 
 
+<!--  [\[paper\]]() [\[official code\]]()  -->  
+### Misc 2022
+#### Time Series Forecasting
+* CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2109.07438) [\[official code\]](https://github.com/adityalab/camul)
+* Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3512056)  
+* RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph, WWW'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3485447.3511974) 
 
 
+#### Time Series Anomaly Detection
+* A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3511984) 
+
+
+#### Other Time Series Analysis
+* EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2204.08771) 
 
 ## AI4TS Papers 2021 
 
