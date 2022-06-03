@@ -15,7 +15,7 @@ We will continue to update this list with newest resources. If you found any mis
 ## Table of Contents
 
 - [2022 AI4TS Papers](#2022-AI4TS-Papers)
-  * [ICML 2022](#ICML-2022)
+  * [ICML 2022](#ICML2022)
   * [ICLR 2022](#ICLR-2022)
 
 - [2021 AI4TS Papers](#2021-AI4TS-Papers)
