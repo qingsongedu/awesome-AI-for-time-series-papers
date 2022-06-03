@@ -13,7 +13,7 @@ The top conferences including:
 - Data Mining: KDD, WWW/TheWebConf
 - Conventional AI: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: ICDM, WSDM, SIGIR, CIKM, ICASSP, ATC, CVPR, ICCV
+- Misc: ICDM, WSDM, SIGIR, CIKM, ICASSP, AISTAT, ATC, CVPR, ICCV
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -38,7 +38,9 @@ Hope this list would be helpful for researchers and engineers who are interested
 
 ## 2022 AI4TS Papers
 ### NeurIPS 2022
+come later
 ### KDD 2022
+come later
 ### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
@@ -54,23 +56,62 @@ Hope this list would be helpful for researchers and engineers who are interested
 * Adaptive Conformal Predictions for Time Series [\[paper\]](https://arxiv.org/abs/2202.07282) [\[official code\]](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 * Modeling Irregular Time Series with Continuous Recurrent Units [\[paper\]](https://arxiv.org/abs/2111.11344) 
 * Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion [\[paper\]](https://arxiv.org/abs/2202.04770) 
+* Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922)
 * Utilizing Expert Features for Contrastive Learning of Time-Series Representations
 * Learning of Cluster-based Feature Importance for Electronic Health Record Time-series
-* Reconstructing nonlinear dynamical systems from multi-modal time series
+
 
 #### Other Related Papers
+* Rethinking Graph Neural Networks for Anomaly Detection [\[paper\]](https://arxiv.org/abs/2205.15508) [\[official code\]](https://github.com/squareroot3/rethinking-anomaly-detection)
+* Causal structure-based root cause analysis of outliers [\[paper\]](https://arxiv.org/abs/1912.02724)
+* Latent Outlier Exposure for Anomaly Detection with Contaminated Data [\[paper\]](https://arxiv.org/abs/2202.08088)
 * FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers
-* Causal structure-based root cause analysis of outliers
-* Latent Outlier Exposure for Anomaly Detection with Contaminated Data [Link]
 * Improving and Assessing Anomaly Detectors for Large-Scale Settings
-* Rethinking Graph Neural Networks for Anomaly Detection
+
+
+
 
 ### ICLR 2022
 #### Time Series Forecasting
+* Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer)
+* DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=AJAR-JgNw__) [\[official code\]](https://github.com/weifantt/depts)
+* CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=PilZY3omXV2) [\[official code\]](https://github.com/salesforce/CoST)
+* Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [\[paper\]](https://openreview.net/forum?id=cGDAkQo1C0p) [\[official code\]](https://github.com/ts-kim/RevIN)
+* TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting [\[paper\]](https://openreview.net/forum?id=wv6g8fWLX2q) [\[official code\]](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0)
+* Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future [\[paper\]](https://openreview.net/forum?id=L01Nn_VJ9i) [\[official code\]](https://github.com/AdityaLab/Back2Future)
+* On the benefits of maximum likelihood estimation for Regression and Forecasting [\[paper\]](https://openreview.net/forum?id=zrW-LVXj2k1)
+* Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting [\[paper\]](https://openreview.net/forum?id=wwDg3bbYBIq) [\[official code\]](https://github.com/hyunwookl/pm-memnet)
 
 
+#### Time Series Anomaly Detection
+* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [\[paper\]](https://openreview.net/forum?id=LzQQ89U1qm_) [\[official code\]](https://github.com/thuml/Anomaly-Transformer)
+* Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series [\[paper\]](https://openreview.net/forum?id=45L_dgP48Vd) [\[official code\]](https://github.com/enyandai/ganf)
 
+#### Time Series Classification
+* T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis [\[paper\]](https://openreview.net/forum?id=U4uFaLyg7PV)
+* Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification [\[paper\]](https://openreview.net/forum?id=PDYs7Z2XFGv)
+
+
+#### Other Time Series Analysis
+* Graph-Guided Network for Irregularly Sampled Multivariate Time Series [\[paper\]](https://openreview.net/forum?id=Kwm8I7dU-l5)
+* Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3)
+* Transformer Embeddings of Irregularly Spaced Events and Their Participants [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H)
+* Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks [\[paper\]](https://openreview.net/forum?id=kOu3-S3wJ7)
+* PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w)
+* Huber Additive Models for Non-stationary Time Series Analysis [\[paper\]](https://openreview.net/forum?id=9kpuB2bgnim)
+* LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations [\[paper\]](https://openreview.net/forum?id=fCG75wd39ze)
+* Imbedding Deep Neural Networks [\[paper\]](https://openreview.net/forum?id=yKIAXjkJc2F)
+* Coherence-based Label Propagation over Time Series for Accelerated Active Learning [\[paper\]](https://openreview.net/forum?id=gjNcH0hj0LM)
+* Long Expressive Memory for Sequence Modeling [\[paper\]](https://openreview.net/forum?id=vwj6aUeocyf)
+* Autoregressive Quantile Flows for Predictive Uncertainty Estimation [\[paper\]](https://openreview.net/forum?id=z1-I6rOKv1S)
+* Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks [\[paper\]](https://openreview.net/forum?id=HFmAukZ-k-2)
+* Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification [\[paper\]](https://openreview.net/forum?id=p3DKPQ7uaAi)
+* Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
+
+
+<!--  [\[paper\]]() [\[official code\]]().  -->  
 ## AI4TS Papers 2021 
+
 ### NeurIPS 2021
 ### KDD 2021
 ### ICML 2021
