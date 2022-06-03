@@ -60,7 +60,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 
 ### AI4TS Surveys
-#### General Time Series Analysis
+#### General Time Series Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
 * Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
@@ -70,19 +70,19 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
 
-#### Time Series Forecasting
+#### Time Series Forecasting Survey
 * Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
 * Deep Learning on Traffic Prediction: Methods, Analysis, and Future Directions, in *TITS* 2022. [\[paper\]](https://arxiv.org/abs/2004.08555)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
 
-#### Time Series Anomaly Detection
+#### Time Series Anomaly Detection Survey
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
 * Anomaly detection for IoT time-series data: A survey, in *IEEE Internet of Things Journal* 2019. [\[paper\]](https://eprints.keele.ac.uk/7576/1/08926446.pdf)
 * A Survey of AIOps Methods for Failure Management, in *TIST* 2021. [\[paper\]](https://jorge-cardoso.github.io/publications/Papers/JA-2021-025-Survey_AIOps_Methods_for_Failure_Management.pdf)
 * Sequential (quickest) change detection: Classical results and new directions, in *IEEE Journal on Selected Areas in Information Theory* 2021. [\[paper\]](https://arxiv.org/abs/2104.04186)
  
  
-#### Time Series Classification
+#### Time Series Classification Survey
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 * Approaches and Applications of Early Classification of Time Series: A Review, in *IEEE Transactions on Artificial Intelligence* 2020. [\[paper\]](https://arxiv.org/abs/2005.02595)
 
@@ -211,6 +211,34 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ## AI4TS Papers 2021 
 
 ### NeurIPS 2021
+#### Time Series Forecasting
+* Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting [\[paper\]](https://arxiv.org/abs/2106.13008) [\[official code\]](https://github.com/thuml/autoformer)
+* MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data [\[paper\]](https://arxiv.org/abs/2110.14354) 
+* Conformal Time-Series Forecasting [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) [\[official code\]](https://github.com/kamilest/conformal-rnn)
+* Probabilistic Forecasting: A Level-Set Approach [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/32b127307a606effdcc8e51f60a45922-Abstract.html) 
+* Topological Attention for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2107.09031) 
+* When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting [\[paper\]](https://arxiv.org/abs/2106.03904) [\[official code\]](https://github.com/AdityaLab/EpiFNP)
+
+#### Time Series Anomaly Detection
+* Online false discovery rate control for anomaly detection in time series [\[paper\]](https://arxiv.org/abs/2112.03196)  
+* Detecting Anomalous Event Sequences with Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2106.04465) 
+
+#### Other Time Series Analysis
+* Probabilistic Transformer For Time Series Analysis [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/c68bd9055776bf38d8fc43c0ed283678-Abstract.html) 
+* Shifted Chunk Transformer for Spatio-Temporal Representational Learning [\[paper\]](https://arxiv.org/abs/2108.11575) 
+* Deep Explicit Duration Switching Models for Time Series [\[paper\]](https://openreview.net/forum?id=LaM6G4yrMy0) [\[official code\]](https://github.com/abdulfatir/REDSDS)
+* Time-series Generation by Contrastive Imitation [\[paper\]](https://openreview.net/forum?id=RHZs3GqLBwg)  
+* CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [\[paper\]](https://arxiv.org/abs/2107.03502) [\[official code\]](https://github.com/ermongroup/csdi)
+* Adjusting for Autocorrelated Errors in Neural Networks for Time Series [\[paper\]](https://arxiv.org/abs/2101.12578) [\[official code\]](https://github.com/Daikon-Sun/AdjustAutocorrelation)
+* SSMF: Shifting Seasonal Matrix Factorization [\[paper\]](https://arxiv.org/abs/2110.12763) [\[official code\]](https://github.com/kokikwbt/ssmf)
+* Coresets for Time Series Clustering [\[paper\]](https://arxiv.org/abs/2110.15263)  
+* Neural Flows: Efficient Alternative to Neural ODEs [\[paper\]](https://arxiv.org/abs/2110.13040) [\[official code\]](https://github.com/mbilos/neural-flows-experiments)
+* Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [\[paper\]](https://openreview.net/forum?id=A_Aeb-XLozL) [\[official code\]](https://github.com/SamsungLabs/Drop-DTW) 
+
+
+
+
+
 ### ICML 2021
 ### ICLR 2021
 ### KDD 2021
