@@ -160,9 +160,6 @@ come later
 
 
 ### AAAI 2022
-#### Time Series Tutorial
-* Time Series in Healthcare: Challenges and Solutions [\[Website\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
-
 #### Time Series Forecasting
 * CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
 * Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8424)
@@ -190,9 +187,6 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 <!--  [\[paper\]]() [\[official code\]]()  -->  
 ### IJCAI 2022
-#### Time Series Tutorial
-* Robust Time Series Analysis: from Theory to Applications in the AI Era [\[Website\]](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
-
 #### Time Series Forecasting
 * Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2204.13767)
 * Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts [\[paper\]](https://arxiv.org/abs/2111.03394) [\[official code\]](https://github.com/pratham16cse/aggforecaster)
