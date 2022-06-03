@@ -24,7 +24,7 @@ Hope this list would be helpful for researchers and engineers who are interested
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022)
   * [KDD 2022](#KDD-2022)
-  * [ICML 2022](#ICML-2022)
+  * [ICML 2022 (July 17-23)](#ICML-2022-(July-17-23))
   * [ICLR 2022](#ICLR-2022)
   * [IJCAI 2022](#IJCAI-2022)
   * [AAAI 2022](#AAAI-2022)
