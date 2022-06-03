@@ -15,8 +15,8 @@ We will continue to update this list with newest resources. If you found any mis
 ## 2022 AI4TS Papers
 ### ICML 2022
 #### Time Series Forecasting
-* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
-* TACTiS: Transformer-Attentional Copulas for Time Series, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2202.03528) 
+* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
+* TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) 
 * Domain Adaptation for Time Series Forecasting via Attention Sharing [\[paper\]](https://arxiv.org/abs/2102.06828) 
 * Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes
 * DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting
