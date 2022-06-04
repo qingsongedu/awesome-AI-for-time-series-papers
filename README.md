@@ -40,10 +40,10 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [Misc 2021](#Misc-2021)
 
 - [AI4TS Papers 201X-2020](#AI4TS-Papers-201X-2020)
-  * [NeurIPS](#NeurIPS), [ICML](#ICML), [ICLR](#ICLR)
-  * [KDD 2021](#KDD-2021), [AAAI 2021](#AAAI-2021), [IJCAI 2021](#IJCAI-2021)
-  * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
-  * [Misc 2021](#Misc-2021)
+  * [NeurIPS 201X-2020](#NeurIPS-201X-2020), [ICML 201X-2020](#ICML-201X-2020), [ICLR 201X-2020](#ICLR-201X-2020)
+  * [KDD 201X-2020](#KDD-201X-2020), [AAAI 201X-2020](#AAAI-201X-2020), [IJCAI 201X-2020](#IJCAI-201X-2020)
+  * [SIGMOD VLDB ICDE 201X-2020](#SIGMOD-VLDB-ICDE-201X-2020)
+  * [Misc 201X-2020](#Misc-201X-2020)
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
@@ -451,4 +451,57 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 ## AI4TS Papers 201X-2020
+
+
+
+<!--    , NeurIPS'21. [\[paper\]]() [\[official code\]]()   --> 
+### NeurIPS 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### ICML 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### ICLR 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### KDD 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### AAAI 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### IJCAI 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
+### Misc 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+
+
 
