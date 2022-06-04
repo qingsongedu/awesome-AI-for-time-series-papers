@@ -112,17 +112,6 @@ come later
 * Learning of Cluster-based Feature Importance for Electronic Health Record Time-series
 
 
-#### Other Related Papers
-* Rethinking Graph Neural Networks for Anomaly Detection [\[paper\]](https://arxiv.org/abs/2205.15508) [\[official code\]](https://github.com/squareroot3/rethinking-anomaly-detection)
-* Causal structure-based root cause analysis of outliers [\[paper\]](https://arxiv.org/abs/1912.02724)
-* Latent Outlier Exposure for Anomaly Detection with Contaminated Data [\[paper\]](https://arxiv.org/abs/2202.08088)
-* FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers
-* Improving and Assessing Anomaly Detectors for Large-Scale Settings
-
-### KDD 2022
-come later
-
-
 ### ICLR 2022
 #### Time Series Forecasting
 * Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer)
@@ -161,6 +150,9 @@ come later
 * Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
 
 
+### KDD 2022
+come later
+
 ### AAAI 2022
 #### Time Series Forecasting
 * CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
@@ -186,8 +178,6 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Clustering Interval-Censored Time-Series for Disease Phenotyping [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai12517)  
 
 
-
-<!--  [\[paper\]]() [\[official code\]]()  -->  
 ### IJCAI 2022
 #### Time Series Forecasting
 * Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2204.13767)
@@ -208,8 +198,6 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
 
 
-
-<!--  [\[paper\]]() [\[official code\]]()  -->  
 ### SIGMOD VLDB ICDE 2022
 #### Time Series Forecasting
 * METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p224-cui.pdf) [\[official code\]](https://zheng-kai.com/code/metro_single_s.zip) 
@@ -253,6 +241,10 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Using time-series privileged information for provably efficient learning of prediction models, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2110.14993) [\[official code\]](https://github.com/RickardKarl/LearningUsingPrivilegedTimeSeries)
 * Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation, AISTATS'22. [\[paper\]]() [\[official code\]](https://arxiv.org/abs/2202.11585)
 * EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2204.08771) 
+
+
+
+
 
 ## AI4TS Papers 2021 
 
@@ -305,10 +297,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Necessary and sufficient conditions for causal feature selection in time series with latent common causes [\[paper\]](http://proceedings.mlr.press/v139/mastakouri21a.html)  
 
 
-<!--  [\[paper\]]() [\[official code\]]()  -->  
-
 ### ICLR 2021
-#### Time Series Forecasting
+
 * Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows [\[paper\]](https://openreview.net/forum?id=WiGQBFuVRv) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts) 
 * Discrete Graph Structure Learning for Forecasting Multiple Time Series [\[paper\]](https://openreview.net/forum?id=WEHSlH5mOk) [\[official code\]](https://github.com/chaoshangcs/GTS)
 
@@ -320,10 +310,45 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Neural ODE Processes [\[paper\]](https://openreview.net/forum?id=27acGyyI1BY) [\[official code\]](https://github.com/crisbodnar/ndp) 
 * Learning Continuous-Time Dynamics by Stochastic Differential Networks [\[paper\]](https://openreview.net/forum?id=U850oxFSKmN) [\[official code\]]() 
 
-
+<!--  [\[paper\]]() [\[official code\]]()  -->  
 ### KDD 2021
+#### Time Series Forecasting
+* ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467330) [\[official code\]](https://github.com/JLDeng/ST-Norm)
+* Graph Deep Factors for Forecasting with Applications to Cloud Resource Allocation [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467357)  
+* Quantifying Uncertainty in Deep Spatiotemporal Forecasting [\[paper\]](https://arxiv.org/abs/2105.11982) 
+* Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting [\[paper\]](https://arxiv.org/abs/2106.12931) [\[official code\]](https://github.com/square-coder/STGODE)
+* TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467236)  
+* Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467275) 
+
+
+#### Time Series Anomaly Detection
+* Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding [\[paper\]](https://netman.aiops.org/wp-content/uploads/2021/08/KDD21_InterFusion_Li.pdf) [\[official code\]](https://github.com/zhhlee/InterFusion)
+* Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174) [\[official code\]](https://github.com/eBay/RANSynCoders)
+* Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering [\[paper\]](https://arxiv.org/abs/2106.07992) [\[official code\]](https://arxiv.org/abs/2106.07992)
+* Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection [\[paper\]](https://arxiv.org/abs/2008.13361) [\[official code\]](https://github.com/wzwtrevor/Multi-Scale-One-Class-Recurrent-Neural-Networks)
+
+#### Other Time Series Analysis
+* Representation Learning of Multivariate Time Series using a Transformer Framework [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer)
+* Causal and Interpretable Rules for Time Series Analysis [\[paper\]](https://josselin-garnier.org/wp-content/uploads/2021/10/kdd21.pdf)  
+* MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification [\[paper\]](https://arxiv.org/abs/2012.08791) [\[official code\]](https://github.com/angus924/minirocket)
+* Statistical models coupling allows for complex localmultivariate time series analysis [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467362)
+* Fast and Accurate Partial Fourier Transform for Time Series Data [\[paper\]](https://jungijang.github.io/resources/2021/KDD/pft.pdf) [\[official code\]](https://github.com/snudatalab/PFT)
+
 ### AAAI 2021
+#### Time Series Forecasting
+* 
+#### Time Series Anomaly Detection
+* 
+#### Time Series Classification
+* 
+#### Other Time Series Analysis
+* 
+
 ### IJCAI 2021
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
+#### Other Time Series Analysis
 
 
 
