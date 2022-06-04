@@ -446,26 +446,35 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 (TBD)
 
 
-<!--    , NeurIPS'18. [\[paper\]]() [\[official code\]]()   -->  
+<!--    , NeurIPS'19. [\[paper\]]() [\[official code\]]()   -->  
 ### NeurIPS 201X-2020
 
 #### General Time Series Analysis
 
-
+* Unsupervised Scalable Representation Learning for Multivariate Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()
+* Time-series Generative Adversarial Networks, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * 
 #### Time Series Forecasting
 
+* Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Deep State Space Models for Time Series Forecasting, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction, NeurIPS'16. [\[paper\]]() [\[official code\]]()
 
 #### Time Series Anomaly Detection
 
-
+* PIDForest: Anomaly Detection via Partial Identification, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Precision and Recall for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 
 #### Time Series Classification
+* Shallow RNN: Accurate Time-series Classification on Resource Constrained Devices, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+#### Time Series Clustering
+* Learning Representations for Time Series Clustering, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* Learning low-dimensional state embeddings and metastable clusters from time series data, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 
 #### Time Series Imputation
 * BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
@@ -473,7 +482,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 #### Neural xDE
 
-
+* GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series 
+* Latent Ordinary Differential Equations for Irregularly-Sampled Time Series 
 * Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]]() [\[official code\]]()  
 *
 <!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
