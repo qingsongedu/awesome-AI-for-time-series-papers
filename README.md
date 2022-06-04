@@ -56,6 +56,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond, *NeurIPS* 2020. [\[Link\]](http://implicit-layers-tutorial.org/)
 * Machine Learning with Signal Processing, *ICML* 2020. [\[Link\]](https://users.aalto.fi/~asolin/teaching/#tutorials)
 * Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
+* Building Forecasting Solutions Using Open-Source and Azure Machine Learning, in *KDD* 2020. [\[Link\]](https://chenhuims.github.io/forecasting/)
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
 * Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
 * Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
@@ -527,14 +528,36 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 <!--    , KDD'20. [\[paper\]]() [\[official code\]]()   -->  
 ### KDD 201X-2020
-(TBD)
 #### General Time Series Analysis
+* Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]]() [\[official code\]]()
+* Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [\[paper\]]() [\[official code\]]()
+* Online Amnestic DTW to allow Real-Time Golden Batch Monitoring, KDD'19. [\[paper\]]() [\[official code\]]()
+* Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis, KDD'18. [\[paper\]]() [\[official code\]]()
+* Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data, KDD'17. [\[paper\]]() [\[official code\]]()
+
+
 #### Time Series Forecasting
+* Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]]() [\[official code\]]()
+* Attention based Multi-Modal New Product Sales Time-series Forecasting, KDD'20. [\[paper\]]() [\[official code\]]()
+* Forecasting the Evolution of Hydropower Generation, KDD'20. [\[paper\]]() [\[official code\]]()
+* Modeling Extreme Events in Time Series Prediction, KDD'19. [\[paper\]]() [\[official code\]]()
+* Multi-Horizon Time Series Forecasting with Temporal Attention Learning, KDD'19. [\[paper\]]() [\[official code\]]()
+* Regularized Regression for Hierarchical Forecasting Without Unbiasedness Conditions, KDD'19. [\[paper\]]() [\[official code\]]()
+* Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units, KDD'19. [\[paper\]]() [\[official code\]]()
+* Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [\[paper\]]() [\[official code\]]()
+* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]]() [\[official code\]]()
+
 #### Time Series Anomaly Detection
-#### Time Series Classification
+* USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]]() [\[official code\]]()
+* Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]]() [\[official code\]]()
+* Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]]() [\[official code\]]()
+* An adaptive approach for anomaly detector selection and fine-tuning in time series, KDD'19. [\[paper\]]() [\[official code\]]()
+* Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]]() [\[official code\]]()
+
 
 <!--    , AAAI'20. [\[paper\]]() [\[official code\]]()   -->  
 ### AAAI 201X-2020
+(TBD)
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
