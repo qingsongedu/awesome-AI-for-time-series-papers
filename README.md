@@ -61,9 +61,6 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
 
 
-
-
-
 ### AI4TS Surveys
 #### General Time Series Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
@@ -82,14 +79,11 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * A brief history of forecasting competitions, in *IJF* 2020. [\[paper\]](https://www.monash.edu/business/ebs/our-research/publications/ebs/wp03-2019.pdf)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
 
-
-
 #### Time Series Anomaly Detection Survey
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
 * Anomaly detection for IoT time-series data: A survey, in *IEEE Internet of Things Journal* 2019. [\[paper\]](https://eprints.keele.ac.uk/7576/1/08926446.pdf)
 * A Survey of AIOps Methods for Failure Management, in *TIST* 2021. [\[paper\]](https://jorge-cardoso.github.io/publications/Papers/JA-2021-025-Survey_AIOps_Methods_for_Failure_Management.pdf)
 * Sequential (quickest) change detection: Classical results and new directions, in *IEEE Journal on Selected Areas in Information Theory* 2021. [\[paper\]](https://arxiv.org/abs/2104.04186)
- 
  
 #### Time Series Classification Survey
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
@@ -98,7 +92,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 ## AI4TS Papers 2022
 ### NeurIPS 2022
-come later
+Not yet announced
 ### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
@@ -117,7 +111,6 @@ come later
 * Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922)
 * Utilizing Expert Features for Contrastive Learning of Time-Series Representations
 * Learning of Cluster-based Feature Importance for Electronic Health Record Time-series
-
 
 ### ICLR 2022
 #### Time Series Forecasting
@@ -139,7 +132,6 @@ come later
 * T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis [\[paper\]](https://openreview.net/forum?id=U4uFaLyg7PV)
 * Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification [\[paper\]](https://openreview.net/forum?id=PDYs7Z2XFGv)
 
-
 #### Other Time Series Analysis
 * Graph-Guided Network for Irregularly Sampled Multivariate Time Series [\[paper\]](https://openreview.net/forum?id=Kwm8I7dU-l5)
 * Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3)
@@ -158,7 +150,7 @@ come later
 
 
 ### KDD 2022
-come later
+Not yet announced
 
 ### AAAI 2022
 #### Time Series Forecasting
@@ -451,7 +443,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 ## AI4TS Papers 201X-2020 Selected
-
+(TBD)
 
 
 <!--    , NeurIPS'21. [\[paper\]]() [\[official code\]]()   --> 
