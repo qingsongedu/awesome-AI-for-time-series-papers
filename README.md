@@ -516,14 +516,18 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Coherent Probabilistic Forecasts for Hierarchical Time Series, ICML'17. [\[paper\]]() [\[official code\]]()
 
 ### ICLR 201X-2020
-(TBD)
 #### General Time Series Analysis
+* Interpolation-Prediction Networks for Irregularly Sampled Time Series, ICLR'19. [\[paper\]](https://openreview.net/forum?id=r1efr3C9Ym) [\[official code\]](https://github.com/mlds-lab/interp-net)
+* SOM-VAE: Interpretable Discrete Representation Learning on Time Series, ICLR'19. [\[paper\]](https://openreview.net/forum?id=rygjcsR9Y7) [\[official code\]](https://github.com/ratschlab/SOM-VAE)
+
 #### Time Series Forecasting
-#### Time Series Anomaly Detection
-#### Time Series Classification
+* N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, ICLR'20. [\[paper\]](https://openreview.net/forum?id=r1ecqn4YwB) [\[official code\]](https://github.com/ElementAI/N-BEATS)
+* Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=SJiHXGWAZ) [\[official code\]](https://github.com/liyaguang/DCRNN) 
+* Automatically Inferring Data Quality for Spatiotemporal Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[official code\]]() 
 
 <!--    , KDD'20. [\[paper\]]() [\[official code\]]()   -->  
 ### KDD 201X-2020
+(TBD)
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
