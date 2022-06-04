@@ -552,6 +552,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]]() [\[official code\]]()
 * Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]]() [\[official code\]]()
 * An adaptive approach for anomaly detector selection and fine-tuning in time series, KDD'19. [\[paper\]]() [\[official code\]]()
+* Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [\[paper\]]() [\[official code\]]()
 * Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]]() [\[official code\]]()
 
 
