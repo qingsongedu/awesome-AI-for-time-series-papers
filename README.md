@@ -13,7 +13,7 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, AISTAT, ICDM, SIGIR, CIKM, WSDM, ICASSP, ATC, CVPR, ICCV, etc.
+- Misc: WWW, AISTAT, WSDM, CIKM, ICDM, ICASSP, SIGIR, etc.
 
 The top journals including (mainly for survey papers):
 TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
@@ -47,8 +47,13 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Robust Time Series Analysis: from Theory to Applications in the AI Era, in *IJCAI* 2022. [\[Link\]](https://sites.google.com/site/qingsongwen8/tutorials)
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
+* Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond, *NeurIPS* 2020. [\[Link\]](http://implicit-layers-tutorial.org/)
+* Machine Learning with Signal Processing, *ICML* 2020. [\[Link\]](https://users.aalto.fi/~asolin/teaching/#tutorials)
 * Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
+* Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
+* Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
+
 
 
 
@@ -267,6 +272,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * SSMF: Shifting Seasonal Matrix Factorization [\[paper\]](https://arxiv.org/abs/2110.12763) [\[official code\]](https://github.com/kokikwbt/ssmf)
 * Coresets for Time Series Clustering [\[paper\]](https://arxiv.org/abs/2110.15263)  
 * Neural Flows: Efficient Alternative to Neural ODEs [\[paper\]](https://arxiv.org/abs/2110.13040) [\[official code\]](https://github.com/mbilos/neural-flows-experiments)
+* Spatio-Temporal Variational Gaussian Processes [\[paper\]](https://arxiv.org/pdf/2111.01732.pdf) [\[official code\]](https://github.com/aaltoml/spatio-temporal-gps)
 * Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [\[paper\]](https://openreview.net/forum?id=A_Aeb-XLozL) [\[official code\]](https://github.com/SamsungLabs/Drop-DTW) 
 
 
@@ -400,11 +406,38 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p294-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/orbits)
 * Missing Value Imputation on Multidimensional Time Series, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p2533-bansal.pdf) 
 
-<!--  [\[paper\]]() [\[official code\]]()  --> 
+<!--    , WSDM'21. [\[paper\]]() [\[official code\]]()   --> 
 ### Misc 2021
 #### Time Series Forecasting
+* DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities, WWW'21. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449983) [\[official code\]](https://github.com/ElmiSay/DeepFEC)
+* AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph, WWW'21. [\[paper\]](http://panzheyi.cc/publication/pan2021autostg/paper.pdf) [\[official code\]](https://github.com/panzheyi/AutoSTG)
+* REST: Reciprocal Framework for Spatiotemporal-coupled Predictions, WWW'21. [\[paper\]](https://s2.smu.edu/~jiazhang/Papers/JiaZhang-WWW2021-REST.pdf)
+* Simultaneously Reconciled Quantile Forecasting of Hierarchically Related Time Series, AISTATS'21. [\[paper\]](http://proceedings.mlr.press/v130/han21a/han21a.pdf)  
+* SSDNet: State Space Decomposition Neural Network for Time Series Forecasting, ICDM'21. [\[paper\]](https://arxiv.org/abs/2112.10251)  
+* AdaRNN: Adaptive Learning and Forecasting of Time Series, CIKM'21. [\[paper\]](https://arxiv.org/abs/2108.04443) [\[official code\]](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn)
+* Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction, CIKM'21. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482271)  
+* Long Horizon Forecasting With Temporal Point Processes, WSDM'21. [\[paper\]](https://arxiv.org/abs/2101.02815) [\[official code\]](https://github.com/pratham16cse/DualTPP)
+* Time-Series Event Prediction with Evolutionary State Graph, WSDM'21. [\[paper\]](https://arxiv.org/abs/1905.05006) [\[official code\]](https://github.com/VachelHU/EvoNet).
+
 #### Time Series Anomaly Detection
+* SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs, WWW'21. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3442381.3450013) 
+* Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding, WWW'21. [\[paper\]](https://arxiv.org/abs/2011.14097) [\[official code\]](https://github.com/cruiseresearchgroup/TSCP2)
+* FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection, WSDM'21. [\[paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823) 
+
+
+
 #### Other Time Series Analysis
+* Network of Tensor Time Series, WWW'21. [\[paper\]](https://arxiv.org/abs/2102.07736) [\[official code\]](https://github.com/baoyujing/NET3)
+* Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series, WWW'21. [\[paper\]](https://arxiv.org/abs/2102.07289) [\[official code\]](https://github.com/alasdairtran/radflow)
+* SrVARM: State Regularized Vector Autoregressive Model for Joint Learning of Hidden State Transitions and State-Dependent Inter-Variable Dependencies from Multi-variate Time Series, WWW'21. [\[paper\]](https://faculty.ist.psu.edu/vhonavar/Papers/SRVARM.pdf)  
+* Deep Fourier Kernel for Self-Attentive Point Processes, AISTATS'21. [\[paper\]](https://proceedings.mlr.press/v130/zhu21b.html)
+* Differentiable Divergences Between Time Series, AISTATS'21. [\[paper\]](https://arxiv.org/abs/2010.08354) [\[official code\]](https://github.com/google-research/soft-dtw-divergences) 
+* Aligning Time Series on Incomparable Spaces, AISTATS'21. [\[paper\]](https://arxiv.org/abs/2006.12648) [\[official code\]](https://github.com/samcohen16/Aligning-Time-Series) 
+* Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions, ICDM'21. [\[paper\]](https://arxiv.org/abs/2203.06852)  
+* Towards Generating Real-World Time Series Data, ICDM'21. [\[paper\]](https://arxiv.org/abs/2111.08386) [\[official code\]](https://github.com/acphile/RTSGAN)
+* Learning Saliency Maps to Explain Deep Time Series Classifiers, CIKM'21. [\[paper\]](https://kingspp.github.io/publications/) [\[official code\]](https://github.com/kingspp/timeseries-explain)
+* Actionable Insights in Urban Multivariate Time-series, CIKM'21. [\[paper\]](https://people.cs.vt.edu/anikat1/publications/ratss-cikm2021.pdf) 
+* Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Informative Time Intervals, WSDM'21. [\[paper\]](https://arxiv.org/abs/2011.11631)  
 
 
 
