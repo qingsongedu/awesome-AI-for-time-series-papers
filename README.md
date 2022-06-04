@@ -310,7 +310,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Neural ODE Processes [\[paper\]](https://openreview.net/forum?id=27acGyyI1BY) [\[official code\]](https://github.com/crisbodnar/ndp) 
 * Learning Continuous-Time Dynamics by Stochastic Differential Networks [\[paper\]](https://openreview.net/forum?id=U850oxFSKmN) [\[official code\]]() 
 
-<!--  [\[paper\]]() [\[official code\]]()  -->  
+ 
 ### KDD 2021
 #### Time Series Forecasting
 * ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467330) [\[official code\]](https://github.com/JLDeng/ST-Norm)
@@ -334,15 +334,41 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Statistical models coupling allows for complex localmultivariate time series analysis [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467362)
 * Fast and Accurate Partial Fourier Transform for Time Series Data [\[paper\]](https://jungijang.github.io/resources/2021/KDD/pft.pdf) [\[official code\]](https://github.com/snudatalab/PFT)
 
+<!--  [\[paper\]]() [\[official code\]]()  --> 
 ### AAAI 2021
-#### Time Series Forecasting
-* 
+#### Time Series Forecasting 
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2012.07436) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) 
+* Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2009.05135) [\[official code\]](https://github.com/ostadabbas/DSARF)
+* Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series [\[paper\]](https://arxiv.org/abs/2103.02164) [\[official code\]](https://github.com/thuwuyinjun/DGM2)
+* Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2101.10460)  
+* Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting [\[paper\]](https://arxiv.org/abs/2102.00431)  
+* Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2002.02887) 
+* Attentive Neural Point Processes for Event Forecasting [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16929) [\[official code\]](https://github.com/guyulongcs/AAAI2021_ANPP) 
+* Forecasting Reservoir Inflow via Recurrent Neural ODEs [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17763)  
+* Hierarchical Graph Convolution Network for Traffic Forecasting [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16088) 
+* Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network [\[paper\]](https://arxiv.org/abs/2110.04038) [\[official code\]](https://github.com/jillbetty001/ST-GDN) 
+* Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting [\[paper\]](https://arxiv.org/abs/2012.09641) [\[official code\]](https://github.com/MengzhangLI/STFGNN) 
+* FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting [\[paper\]](https://arxiv.org/abs/2007.15531) [\[official code\]](https://github.com/boreshkinai/fc-gaga) 
+* Fairness in Forecasting and Learning Linear Dynamical Systems [\[paper\]](https://arxiv.org/abs/2006.07315) 
+* A Multi-Step-Ahead Markov Conditional Forward Model with Cube Perturbations for Extreme Weather Forecasting [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16856)  
+* Sub-Seasonal Climate Forecasting via Machine Learning: Challenges, Analysis, and Advances [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16090)  
+
 #### Time Series Anomaly Detection
-* 
+* Graph Neural Network-Based Anomaly Detection in Multivariate Time Series [\[paper\]](https://arxiv.org/abs/2106.06947) [\[official code\]](https://github.com/d-ailin/GDN) 
+* Time Series Anomaly Detection with Multiresolution Ensemble Decoding [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17152)  
+* Outlier Impact Characterization for Time Series Data [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17379) 
+
 #### Time Series Classification
-* 
+* Correlative Channel-Aware Fusion for Multi-View Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16830/16637)
+* Learnable Dynamic Temporal Pooling for Time Series Classification [\[paper\]](https://arxiv.org/abs/2104.02577) [\[official code\]](https://github.com/donalee/DTW-Pool)
+* ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018) 
+* Joint-Label Learning by Dual Augmentation for Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17071)  
+
 #### Other Time Series Analysis
-* 
+*  Time Series Domain Adaptation via Sparse Associative Structure Alignment [\[paper\]](https://arxiv.org/abs/2012.11797) [\[official code\]](https://github.com/DMIRLAB-Group/SASA)
+*  Learning Representations for Incomplete Time Series Clustering [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17070)  
+*  Generative Semi-Supervised Learning for Multivariate Time Series Imputation [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17086) [\[official code\]](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) 
+*  Second Order Techniques for Learning Time-Series with Structural Breaks [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17117)  
 
 ### IJCAI 2021
 #### Time Series Forecasting
