@@ -13,10 +13,10 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, AISTAT, WSDM, CIKM, ICDM, ICASSP, SIGIR, etc.
+- Misc: WWW, AISTAT, WSDM, CIKM, ICDM, SIGIR, etc.
 
 The top journals including (mainly for survey papers):
-TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, arXiv(selected), etc.
+TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, IJF, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -35,6 +35,12 @@ If you found any missed resources (paper/code) or errors, please feel free to op
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
   * [NeurIPS 2021](#NeurIPS-2021), [ICML 2021](#ICML-2021), [ICLR 2021](#ICLR-2021)
+  * [KDD 2021](#KDD-2021), [AAAI 2021](#AAAI-2021), [IJCAI 2021](#IJCAI-2021)
+  * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
+  * [Misc 2021](#Misc-2021)
+
+- [AI4TS Papers 2020 and Before](#AI4TS-Papers-2020-and-Before)
+  * [NeurIPS](#NeurIPS), [ICML (#ICML), [ICLR](#ICLR)
   * [KDD 2021](#KDD-2021), [AAAI 2021](#AAAI-2021), [IJCAI 2021](#IJCAI-2021)
   * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
   * [Misc 2021](#Misc-2021)
@@ -70,9 +76,13 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
 
 #### Time Series Forecasting Survey
+* Forecasting: theory and practice, in *IJF* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 * Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
 * Deep Learning on Traffic Prediction: Methods, Analysis, and Future Directions, in *TITS* 2022. [\[paper\]](https://arxiv.org/abs/2004.08555)
+* A brief history of forecasting competitions, in *IJF* 2020. [\[paper\]](https://www.monash.edu/business/ebs/our-research/publications/ebs/wp03-2019.pdf)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
+
+
 
 #### Time Series Anomaly Detection Survey
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
