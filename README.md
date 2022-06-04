@@ -45,7 +45,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [KDD 2021](#KDD-2021)
   * [AAAI 2021](#AAAI-2021)
   * [IJCAI 2021](#IJCAI-2021)
-
+  * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
@@ -371,7 +371,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 *  Second Order Techniques for Learning Time-Series with Structural Breaks [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17117)  
 
 
-<!--  [\[paper\]]() [\[official code\]]()  --> 
+
 ### IJCAI 2021
 #### Time Series Forecasting
 * Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting [\[paper\]](https://www.ijcai.org/proceedings/2021/397)  
@@ -387,6 +387,19 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data [\[paper\]](https://arxiv.org/abs/2105.00412)   
 
 
+<!--  [\[paper\]]() [\[official code\]]()  --> 
+### SIGMOD VLDB ICDE 2021
+#### Time Series Forecasting
+* AutoAI-TS:AutoAI for Time Series Forecasting, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2102.12347)  
+* FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data [\[paper\]](http://vldb.org/pvldb/vol14/p721-ding.pdf) 
+* SAND: Streaming Subsequence Anomaly Detection [\[paper\]]() [\[official code\]]()
 
+#### Time Series Anomaly Detection
+* Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series [\[paper\]](https://arxiv.org/abs/2010.05073) [\[official code\]](https://github.com/exathlonbenchmark/exathlon)
+* SAND: Streaming Subsequence Anomaly Detection [\[paper\]](http://vldb.org/pvldb/vol14/p1717-boniol.pdf)  
 
+#### Other Time Series Analysis
+* RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2002.09535) [\[code\]](https://github.com/ariaghora/robust-period)
+* ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams [\[paper\]](http://vldb.org/pvldb/vol14/p294-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/orbits)
+* Missing Value Imputation on Multidimensional Time Series [\[paper\]](http://vldb.org/pvldb/vol14/p2533-bansal.pdf) 
 
