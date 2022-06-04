@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
 
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)** at the **Top AI Conferences and Journals mainly after 2020**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
+A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals mainly after 2020**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
@@ -39,7 +39,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
   * [Misc 2021](#Misc-2021)
 
-- [AI4TS Papers 201X-2020](#AI4TS-Papers-201X-2020)
+- [AI4TS Papers 201X-2020 Selected](#AI4TS-Papers-201X-2020-Selected)
   * [NeurIPS 201X-2020](#NeurIPS-201X-2020), [ICML 201X-2020](#ICML-201X-2020), [ICLR 201X-2020](#ICLR-201X-2020)
   * [KDD 201X-2020](#KDD-201X-2020), [AAAI 201X-2020](#AAAI-201X-2020), [IJCAI 201X-2020](#IJCAI-201X-2020)
   * [SIGMOD VLDB ICDE 201X-2020](#SIGMOD-VLDB-ICDE-201X-2020)
@@ -450,7 +450,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Informative Time Intervals, WSDM'21. [\[paper\]](https://arxiv.org/abs/2011.11631)  
 
 
-## AI4TS Papers 201X-2020
+## AI4TS Papers 201X-2020 Selected
 
 
 
