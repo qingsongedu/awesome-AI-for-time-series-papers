@@ -334,7 +334,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Statistical models coupling allows for complex localmultivariate time series analysis [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467362)
 * Fast and Accurate Partial Fourier Transform for Time Series Data [\[paper\]](https://jungijang.github.io/resources/2021/KDD/pft.pdf) [\[official code\]](https://github.com/snudatalab/PFT)
 
-<!--  [\[paper\]]() [\[official code\]]()  --> 
+
 ### AAAI 2021
 #### Time Series Forecasting 
 * Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2012.07436) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) 
@@ -370,11 +370,20 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 *  Generative Semi-Supervised Learning for Multivariate Time Series Imputation [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17086) [\[official code\]](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) 
 *  Second Order Techniques for Learning Time-Series with Structural Breaks [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17117)  
 
+
+<!--  [\[paper\]]() [\[official code\]]()  --> 
 ### IJCAI 2021
 #### Time Series Forecasting
-#### Time Series Anomaly Detection
-#### Time Series Classification
+* Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting [\[paper\]](https://www.ijcai.org/proceedings/2021/397)  
+* Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks [\[paper\]](https://www.ijcai.org/proceedings/2021/374)  
+* Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction [\[paper\]](https://www.ijcai.org/proceedings/2021/0508.pdf) 
+* TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning [\[paper\]](https://arxiv.org/abs/2106.06273) [\[official code\]](https://arxiv.org/abs/2106.06273) 
+
 #### Other Time Series Analysis
+* Time-Series Representation Learning via Temporal and Contextual Contrasting [\[paper\]](https://arxiv.org/abs/2106.14112) [\[official code\]](https://arxiv.org/abs/2106.14112) 
+* Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation [\[paper\]](https://www.ijcai.org/proceedings/2021/378) [\[official code\]](https://github.com/jarheadjoe/Adv-spec-ker-matching) 
+* Time-Aware Multi-Scale RNNs for Time Series Modeling [\[paper\]](https://www.ijcai.org/proceedings/2021/315)  
+* TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data [\[paper\]](https://arxiv.org/abs/2105.00412)   
 
 
 
