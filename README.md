@@ -446,13 +446,36 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 (TBD)
 
 
-<!--    , NeurIPS'20. [\[paper\]]() [\[official code\]]()   -->  
+<!--    , NeurIPS'18. [\[paper\]]() [\[official code\]]()   -->  
 ### NeurIPS 201X-2020
+
 #### General Time Series Analysis
+
+
+* Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* 
 #### Time Series Forecasting
+
+* Deep State Space Models for Time Series Forecasting, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction, NeurIPS'16. [\[paper\]]() [\[official code\]]()
+
 #### Time Series Anomaly Detection
+
+
+* Precision and Recall for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+
 #### Time Series Classification
 
+#### Time Series Imputation
+* BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+
+#### Neural xDE
+
+
+* Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]]() [\[official code\]]()  
+*
 <!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
 ### ICML 201X-2020
 #### General Time Series Analysis
@@ -495,7 +518,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-<!--    , WWW'20. [\[paper\]]() [\[official code\]]()   --> 
+<!--    , Misc'20. [\[paper\]]() [\[official code\]]()   --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
