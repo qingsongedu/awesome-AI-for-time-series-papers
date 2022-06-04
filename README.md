@@ -380,6 +380,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning [\[paper\]](https://arxiv.org/abs/2106.06273) [\[official code\]](https://arxiv.org/abs/2106.06273) 
 
 #### Other Time Series Analysis
+* Time Series Data Augmentation for Deep Learning: A Survey [\[paper\]](https://arxiv.org/abs/2002.12478) 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting [\[paper\]](https://arxiv.org/abs/2106.14112) [\[official code\]](https://arxiv.org/abs/2106.14112) 
 * Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation [\[paper\]](https://www.ijcai.org/proceedings/2021/378) [\[official code\]](https://github.com/jarheadjoe/Adv-spec-ker-matching) 
 * Time-Aware Multi-Scale RNNs for Time Series Modeling [\[paper\]](https://www.ijcai.org/proceedings/2021/315)  
