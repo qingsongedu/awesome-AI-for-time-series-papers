@@ -446,11 +446,15 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 (TBD)
 
 
-<!--    , NeurIPS'19. [\[paper\]]() [\[official code\]]()   -->  
+<!--    , NeurIPS'20. [\[paper\]]() [\[official code\]]()   -->  
 ### NeurIPS 201X-2020
 
 #### General Time Series Analysis
 
+* Normalizing Kalman Filters for Multivariate Time Series Analysis, NeurIPS'20. [\[paper\]]() [\[official code\]]()
+* High-recall causal discovery for autocorrelated time series with latent confounders, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Benchmarking Deep Learning Interpretability in Time Series Predictions, NeurIPS'20. [\[paper\]]() [\[official code\]]()
+* What went wrong and when? Instance-wise feature importance for time-series black-box models, NeurIPS'20. [\[paper\]]() [\[official code\]]()
 * Unsupervised Scalable Representation Learning for Multivariate Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()
 * Time-series Generative Adversarial Networks, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
@@ -458,7 +462,12 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * 
 #### Time Series Forecasting
-
+* Adversarial Sparse Transformer for Time Series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Deep Rao-Blackwellised Particle Filters for Time Series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Probabilistic Time Series Forecasting with Shape and Temporal Diversity, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
+* Interpretable Sequence Learning for Covid-19 Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]()
 * Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
@@ -466,7 +475,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction, NeurIPS'16. [\[paper\]]() [\[official code\]]()
 
 #### Time Series Anomaly Detection
-
+* Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network, NeurIPS'20. [\[paper\]]() [\[official code\]]()
 * PIDForest: Anomaly Detection via Partial Identification, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Precision and Recall for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 
@@ -480,12 +489,12 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 
-#### Neural xDE
-
-* GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series 
-* Latent Ordinary Differential Equations for Irregularly-Sampled Time Series 
+#### Time Series Neural xDE
+* Neural Controlled Differential Equations for Irregular Time Series, NeurIPS'20. [\[paper\]]() [\[official code\]]()  
+* GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()  
+* Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()  
 * Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]]() [\[official code\]]()  
-*
+
 <!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
 ### ICML 201X-2020
 #### General Time Series Analysis
