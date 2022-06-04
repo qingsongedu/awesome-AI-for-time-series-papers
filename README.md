@@ -529,7 +529,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 <!--    , KDD'20. [\[paper\]]() [\[official code\]]()   -->  
 ### KDD 201X-2020
 #### General Time Series Analysis
-* Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]]() [\[official code\]]()
+* Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]](https://www.researchgate.net/profile/Qingsong-Wen/publication/343780200_Fast_RobustSTL_Efficient_and_Robust_Seasonal-Trend_Decomposition_for_Time_Series_with_Complex_Patterns/links/614b9828a3df59440ba498b3/Fast-RobustSTL-Efficient-and-Robust-Seasonal-Trend-Decomposition-for-Time-Series-with-Complex-Patterns.pdf) [\[code\]](https://github.com/ariaghora/fast-robust-stl)
 * Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [\[paper\]]() [\[official code\]]()
 * Online Amnestic DTW to allow Real-Time Golden Batch Monitoring, KDD'19. [\[paper\]]() [\[official code\]]()
 * Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis, KDD'18. [\[paper\]]() [\[official code\]]()
@@ -537,7 +537,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 #### Time Series Forecasting
-* Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]]() [\[official code\]]()
+* Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.11650) [\[official code\]](https://github.com/nnzhan/MTGNN)
 * Attention based Multi-Modal New Product Sales Time-series Forecasting, KDD'20. [\[paper\]]() [\[official code\]]()
 * Forecasting the Evolution of Hydropower Generation, KDD'20. [\[paper\]]() [\[official code\]]()
 * Modeling Extreme Events in Time Series Prediction, KDD'19. [\[paper\]]() [\[official code\]]()
@@ -548,7 +548,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]]() [\[official code\]]()
 
 #### Time Series Anomaly Detection
-* USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]]() [\[official code\]]()
+* USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) [\[official code\]](https://github.com/manigalati/usad)
+* RobustTAD: Robust Time Series Anomaly Detection via Decomposition and Convolutional Neural Networks, KDD'20 MiLeTS. [\[paper\]](https://arxiv.org/abs/2002.09545)
 * Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]]() [\[official code\]]()
 * Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]]() [\[official code\]]()
 * An adaptive approach for anomaly detector selection and fine-tuning in time series, KDD'19. [\[paper\]]() [\[official code\]]()
