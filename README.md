@@ -392,15 +392,16 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ### SIGMOD VLDB ICDE 2021
 #### Time Series Forecasting
 * AutoAI-TS:AutoAI for Time Series Forecasting, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2102.12347)  
-* FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data [\[paper\]](http://vldb.org/pvldb/vol14/p721-ding.pdf) 
-* SAND: Streaming Subsequence Anomaly Detection [\[paper\]]() [\[official code\]]()
+* FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p721-ding.pdf)
+* EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting, ICDE'21. [\[paper\]](https://ieeexplore.ieee.org/document/9458855) [\[slides\]](https://pdfs.semanticscholar.org/3cb0/6f67fbfcf3c2dac32c02248a03eb84cc246d.pdf)  
+* An Effective Joint Prediction Model for Travel Demands and Traffic Flows, ICDE'21. [\[paper\]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde21-traffic.pdf)  
 
 #### Time Series Anomaly Detection
-* Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series [\[paper\]](https://arxiv.org/abs/2010.05073) [\[official code\]](https://github.com/exathlonbenchmark/exathlon)
-* SAND: Streaming Subsequence Anomaly Detection [\[paper\]](http://vldb.org/pvldb/vol14/p1717-boniol.pdf)  
+* Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series, VLDB'21. [\[paper\]](https://arxiv.org/abs/2010.05073) [\[official code\]](https://github.com/exathlonbenchmark/exathlon)
+* SAND: Streaming Subsequence Anomaly Detection, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p1717-boniol.pdf)  
 
 #### Other Time Series Analysis
 * RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2002.09535) [\[code\]](https://github.com/ariaghora/robust-period)
-* ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams [\[paper\]](http://vldb.org/pvldb/vol14/p294-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/orbits)
-* Missing Value Imputation on Multidimensional Time Series [\[paper\]](http://vldb.org/pvldb/vol14/p2533-bansal.pdf) 
+* ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p294-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/orbits)
+* Missing Value Imputation on Multidimensional Time Series, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p2533-bansal.pdf) 
 
