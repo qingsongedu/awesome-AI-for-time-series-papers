@@ -39,7 +39,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
   * [Misc 2021](#Misc-2021)
 
-- [AI4TS Papers 2020/201X](#AI4TS-Papers-2020//201X)
+- [AI4TS Papers 201X-2020](#AI4TS-Papers-201X-2020)
   * [NeurIPS](#NeurIPS), [ICML](#ICML), [ICLR](#ICLR)
   * [KDD 2021](#KDD-2021), [AAAI 2021](#AAAI-2021), [IJCAI 2021](#IJCAI-2021)
   * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
@@ -450,5 +450,5 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Informative Time Intervals, WSDM'21. [\[paper\]](https://arxiv.org/abs/2011.11631)  
 
 
-## AI4TS Papers 2020/201X 
+## AI4TS Papers 201X-2020
 
