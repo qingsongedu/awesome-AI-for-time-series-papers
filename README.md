@@ -443,10 +443,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 ## AI4TS Papers 201X-2020 Selected
-(TBD)
 
-
-<!--    , NeurIPS'20. [\[paper\]]() [\[official code\]]()   -->  
 ### NeurIPS 201X-2020
 
 #### General Time Series Analysis
@@ -460,7 +457,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 * Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
-* 
+
 #### Time Series Forecasting
 * Adversarial Sparse Transformer for Time Series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
 * Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
@@ -497,13 +494,29 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 <!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
 ### ICML 201X-2020
-#### General Time Series Analysis
-#### Time Series Forecasting
-#### Time Series Anomaly Detection
-#### Time Series Classification
 
-<!--    , ICLR'20. [\[paper\]]() [\[official code\]]()   -->  
+#### General Time Series Analysis
+* Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML'20. [\[paper\]]() [\[official code\]]()
+* Spectral Subsampling MCMC for Stationary Time Series, ICML'20. [\[paper\]]() [\[official code\]]()
+* Learnable Group Transform For Time-Series, ICML'20. [\[paper\]]() [\[official code\]]()
+* Set Functions for Time Series, ICML'20. [\[paper\]]() [\[official code\]]()
+* Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders, ICML'20. [\[paper\]]() [\[official code\]]()
+* Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models, ICML'19. [\[paper\]]() [\[official code\]]()
+* Discovering Latent Covariance Structures for Multiple Time Series, ICML'19. [\[paper\]]() [\[official code\]]()
+* Autoregressive convolutional neural networks for asynchronous time series, ICML'18. [\[paper\]]() [\[official code\]]()
+* Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series, ICML'18. [\[paper\]]() [\[official code\]]()
+* Soft-DTW: a Differentiable Loss Function for Time-Series, ICML'17. [\[paper\]]() [\[official code\]]()
+
+
+#### Time Series Forecasting
+* Forecasting Sequential Data Using Consistent Koopman Autoencoders, ICML'20. [\[paper\]]() [\[official code\]]()
+* Adversarial Attacks on Probabilistic Autoregressive Forecasting Models, ICML'20. [\[paper\]]() [\[official code\]]()
+* Influenza Forecasting Framework based on Gaussian Processes, ICML'20. [\[paper\]]() [\[official code\]]()
+* Deep Factors for Forecasting, ICML'19. [\[paper\]]() [\[official code\]]()
+* Coherent Probabilistic Forecasts for Hierarchical Time Series, ICML'17. [\[paper\]]() [\[official code\]]()
+
 ### ICLR 201X-2020
+(TBD)
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
