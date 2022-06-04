@@ -28,23 +28,16 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [AI4TS Tutorials](#AI4TS-Tutorials),     [AI4TS Surveys](#AI4TS-Surveys)
  
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
-  * [NeurIPS 2022](#NeurIPS-2022)
-  * [ICML 2022](#ICML-2022)
-  * [ICLR 2022](#ICLR-2022)
-  * [KDD 2022](#KDD-2022)
-  * [AAAI 2022](#AAAI-2022)
-  * [IJCAI 2022](#IJCAI-2022)
+  * [NeurIPS 2022](#NeurIPS-2022), [ICML 2022](#ICML-2022), [ICLR 2022](#ICLR-2022)
+  * [KDD 2022](#KDD-2022), [AAAI 2022](#AAAI-2022), [IJCAI 2022](#IJCAI-2022)
   * [SIGMOD VLDB ICDE 2022](#SIGMOD-VLDB-ICDE-2022)
   * [Misc 2022](#Misc-2022)
  
 - [AI4TS Papers 2021](#AI4TS-Papers-2021)
-  * [NeurIPS 2021](#NeurIPS-2021)
-  * [ICML 2021](#ICML-2021)
-  * [ICLR 2021](#ICLR-2021)
-  * [KDD 2021](#KDD-2021)
-  * [AAAI 2021](#AAAI-2021)
-  * [IJCAI 2021](#IJCAI-2021)
+  * [NeurIPS 2021](#NeurIPS-2021), [ICML 2021](#ICML-2021), [ICLR 2021](#ICLR-2021)
+  * [KDD 2021](#KDD-2021), [AAAI 2021](#AAAI-2021), [IJCAI 2021](#IJCAI-2021)
   * [SIGMOD VLDB ICDE 2021](#SIGMOD-VLDB-ICDE-2021)
+  * [Misc 2021](#Misc-2021)
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
@@ -403,4 +396,12 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2002.09535) [\[code\]](https://github.com/ariaghora/robust-period)
 * ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p294-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/orbits)
 * Missing Value Imputation on Multidimensional Time Series, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p2533-bansal.pdf) 
+
+<!--  [\[paper\]]() [\[official code\]]()  --> 
+### Misc 2021
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Other Time Series Analysis
+
+
 
