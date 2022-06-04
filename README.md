@@ -446,49 +446,56 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 (TBD)
 
 
-<!--    , NeurIPS'21. [\[paper\]]() [\[official code\]]()   --> 
+<!--    , NeurIPS'20. [\[paper\]]() [\[official code\]]()   -->  
 ### NeurIPS 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-
+<!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
 ### ICML 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-
+<!--    , ICLR'20. [\[paper\]]() [\[official code\]]()   -->  
 ### ICLR 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-
+<!--    , KDD'20. [\[paper\]]() [\[official code\]]()   -->  
 ### KDD 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-
+<!--    , AAAI'20. [\[paper\]]() [\[official code\]]()   -->  
 ### AAAI 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
-
+<!--    , IJCAI'20. [\[paper\]]() [\[official code\]]()   --> 
 ### IJCAI 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
 
+<!--    , VLDB'20. [\[paper\]]() [\[official code\]]()   --> 
+### SIGMOD VLDB ICDE 201X-2020
+#### General Time Series Analysis
+#### Time Series Forecasting
+#### Time Series Anomaly Detection
+#### Time Series Classification
 
+<!--    , WWW'20. [\[paper\]]() [\[official code\]]()   --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
 #### Time Series Forecasting
