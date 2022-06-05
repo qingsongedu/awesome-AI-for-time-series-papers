@@ -454,53 +454,51 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 ### NeurIPS 201X-2020
 
-#### General Time Series Analysis
-
-* Normalizing Kalman Filters for Multivariate Time Series Analysis, NeurIPS'20. [\[paper\]]() [\[official code\]]()
-* High-recall causal discovery for autocorrelated time series with latent confounders, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Benchmarking Deep Learning Interpretability in Time Series Predictions, NeurIPS'20. [\[paper\]]() [\[official code\]]()
-* What went wrong and when? Instance-wise feature importance for time-series black-box models, NeurIPS'20. [\[paper\]]() [\[official code\]]()
-* Unsupervised Scalable Representation Learning for Multivariate Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()
-* Time-series Generative Adversarial Networks, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
-* Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
-
 #### Time Series Forecasting
-* Adversarial Sparse Transformer for Time Series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Deep Rao-Blackwellised Particle Filters for Time Series Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Probabilistic Time Series Forecasting with Shape and Temporal Diversity, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]() 
-* Interpretable Sequence Learning for Covid-19 Forecasting, NeurIPS'20. [\[paper\]]() [\[official code\]]()
-* Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* Deep State Space Models for Time Series Forecasting, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
-* Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction, NeurIPS'16. [\[paper\]]() [\[official code\]]()
+* Adversarial Sparse Transformer for Time Series Forecasting, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc//paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) [\[official code\]](https://github.com/hihihihiwsf/AST) 
+* Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2103.07719) [\[official code\]](https://github.com/microsoft/StemGNN) 
+* Deep Rao-Blackwellised Particle Filters for Time Series Forecasting, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) 
+* Probabilistic Time Series Forecasting with Shape and Temporal Diversity, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2010.07349) [\[official code\]](https://github.com/vincent-leguen/STRIPE) 
+* Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2007.02842) [\[official code\]](https://github.com/LeiBAI/AGCRN) 
+* Interpretable Sequence Learning for Covid-19 Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2008.00646) 
+* Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1907.00235) [\[code\]](https://github.com/mlpotter/Transformer_Time_Series) 
+* Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1905.03806) [\[official code\]](https://github.com/rajatsen91/deepglo) 
+* High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1910.03002) [\[official code\]](https://github.com/mbohlkeschneider/gluon-ts) 
+* Deep State Space Models for Time Series Forecasting, NeurIPS'18. [\[paper\]](https://proceedings.neurips.cc/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html)  
+* Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction, NeurIPS'16. [\[paper\]](https://papers.nips.cc/paper/2016/hash/85422afb467e9456013a2a51d4dff702-Abstract.html)  
 
 #### Time Series Anomaly Detection
-* Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network, NeurIPS'20. [\[paper\]]() [\[official code\]]()
-* PIDForest: Anomaly Detection via Partial Identification, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* Precision and Recall for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html)  
+* PIDForest: Anomaly Detection via Partial Identification, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1912.03582) [\[official code\]](https://github.com/vatsalsharan/pidforest) 
+* Precision and Recall for Time Series, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1803.03639) [\[official code\]](https://github.com/IntelLabs/TSAD-Evaluator) 
 
 #### Time Series Classification
-* Shallow RNN: Accurate Time-series Classification on Resource Constrained Devices, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* Shallow RNN: Accurate Time-series Classification on Resource Constrained Devices, NeurIPS'19. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/76d7c0780ceb8fbf964c102ebc16d75f-Abstract.html)  
 #### Time Series Clustering
-* Learning Representations for Time Series Clustering, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
-* Learning low-dimensional state embeddings and metastable clusters from time series data, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
+* Learning Representations for Time Series Clustering, NeurIPS'19. [\[paper\]](https://papers.nips.cc/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html) [\[official code\]](https://github.com/qianlima-lab/DTCR) 
+* Learning low-dimensional state embeddings and metastable clusters from time series data, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1906.00302)
 
 #### Time Series Imputation
 * NAOMI: Non-autoregressive multiresolution sequence imputation, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1901.10946) [\[official code\]](https://github.com/felixykliu/NAOMI) 
-* BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
-* Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
+* BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1805.10572) [\[official code\]](https://github.com/caow13/BRITS) 
+* Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [\[paper\]](https://papers.nips.cc/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html) [\[official code\]](https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks) 
 
 #### Time Series Neural xDE
-* Neural Controlled Differential Equations for Irregular Time Series, NeurIPS'20. [\[paper\]]() [\[official code\]]()  
-* GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()  
-* Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()  
-* Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]]() [\[official code\]]()  
+* Neural Controlled Differential Equations for Irregular Time Series, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[official code\]](https://github.com/patrick-kidger/NeuralCDE)  
+* GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1905.12374) [\[official code\]](https://github.com/edebrouwer/gru_ode_bayes)  
+* Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1907.03907) [\[official code\]](https://github.com/YuliaRubanova/latent_ode)  
+* Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[official code\]](https://github.com/rtqichen/torchdiffeq)  
 
+#### General Time Series Analysis 
+* High-recall causal discovery for autocorrelated time series with latent confounders, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/94e70705efae423efda1088614128d0b-Abstract.html) [\[paper2\]](https://arxiv.org/abs/2007.01884) [\[official code\]](https://github.com/jakobrunge/tigramite) 
+* Benchmarking Deep Learning Interpretability in Time Series Predictions, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2010.13924) [\[official code\]](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark)
+* What went wrong and when? Instance-wise feature importance for time-series black-box models, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2003.02821) [\[official code\]]()
+* Normalizing Kalman Filters for Multivariate Time Series Analysis, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html)
+* Unsupervised Scalable Representation Learning for Multivariate Time Series, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1901.10738) [\[official code\]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
+* Time-series Generative Adversarial Networks, NeurIPS'19. [\[paper\]](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) [\[official code\]](https://github.com/jsyoon0823/TimeGAN) 
+* U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1910.11162) [\[official code\]](https://github.com/perslev/U-Time) 
+* Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1810.10107)
+* Safe Active Learning for Time-Series Modeling with Gaussian Processes, NeurIPS'18. [\[paper\]](https://proceedings.neurips.cc/paper/2018/hash/b197ffdef2ddc3308584dce7afa3661b-Abstract.html)  
  
 ### ICML 201X-2020
 
