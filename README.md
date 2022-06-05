@@ -534,11 +534,11 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
  
 ### KDD 201X-2020
-(TBD...)
+
 #### General Time Series Analysis
 * Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]](https://www.researchgate.net/profile/Qingsong-Wen/publication/343780200_Fast_RobustSTL_Efficient_and_Robust_Seasonal-Trend_Decomposition_for_Time_Series_with_Complex_Patterns/links/614b9828a3df59440ba498b3/Fast-RobustSTL-Efficient-and-Robust-Seasonal-Trend-Decomposition-for-Time-Series-with-Complex-Patterns.pdf) [\[code\]](https://github.com/ariaghora/fast-robust-stl)
-* Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [\[paper\]]() [\[official code\]]()
-* Online Amnestic DTW to allow Real-Time Golden Batch Monitoring, KDD'19. [\[paper\]]() [\[official code\]]()
+* Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.10996) [\[official code\]](https://github.com/floft/codats)
+* Online Amnestic DTW to allow Real-Time Golden Batch Monitoring, KDD'19. [\[paper\]](https://dl.acm.org/doi/10.1145/3292500.3330650) 
 * Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis, KDD'18. [\[paper\]]() [\[official code\]]()
 * Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data, KDD'17. [\[paper\]]() [\[official code\]]()
 
@@ -566,7 +566,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
  
 ### AAAI 201X-2020
-
+(TBD...)
 #### General Time Series Analysis
 * Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets, AAAI'20. [\[paper\]]() [\[official code\]]() 
 * DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series, AAAI'20. [\[paper\]]() [\[official code\]]()
