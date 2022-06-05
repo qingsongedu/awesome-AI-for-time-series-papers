@@ -297,6 +297,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Other Time Series Analysis
 * Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
 * Neural Rough Differential Equations for Long Time Series [\[paper\]](https://arxiv.org/abs/2009.08295) [\[official code\]](https://github.com/jambo6/neuralRDEs)
+* Neural Spatio-Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2011.04583) [\[official code\]](https://github.com/facebookresearch/neural_stpp)
+* Learning Neural Event Functions for Ordinary Differential Equations [\[paper\]](https://arxiv.org/abs/2011.03902) [\[official code\]](https://github.com/rtqichen/torchdiffeq)
 * Approximation Theory of Convolutional Architectures for Time Series Modelling [\[paper\]](https://arxiv.org/abs/2107.09355) 
 * Whittle Networks: A Deep Likelihood Model for Time Series [\[paper\]](https://proceedings.mlr.press/v139/yu21c.html) [\[official code\]](https://github.com/ml-research/WhittleNetworks)
 * Necessary and sufficient conditions for causal feature selection in time series with latent common causes [\[paper\]](http://proceedings.mlr.press/v139/mastakouri21a.html)  
@@ -484,6 +486,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Learning low-dimensional state embeddings and metastable clusters from time series data, NeurIPS'19. [\[paper\]]() [\[official code\]]() 
 
 #### Time Series Imputation
+* NAOMI: Non-autoregressive multiresolution sequence imputation, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1901.10946) [\[official code\]](https://github.com/felixykliu/NAOMI) 
 * BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 * Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [\[paper\]]() [\[official code\]]() 
 
@@ -557,20 +560,65 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]]() [\[official code\]]()
 
 
-<!--    , AAAI'20. [\[paper\]]() [\[official code\]]()   -->  
+<!--    , AAAI'19. [\[paper\]]() [\[official code\]]()   -->  
 ### AAAI 201X-2020
-(TBD)
-#### General Time Series Analysis
-#### Time Series Forecasting
-#### Time Series Anomaly Detection
-#### Time Series Classification
 
-<!--    , IJCAI'20. [\[paper\]]() [\[official code\]]()   --> 
+#### General Time Series Analysis
+* Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series, AAAI'20. [\[paper\]]() [\[official code\]]()
+* Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Relation Inference among Sensor Time Series in Smart Buildings with Metric Learning, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* TapNet: Multivariate Time Series Classification with Attentional Prototype Network, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* RobustSTL: A Robust Seasonal-Trend Decomposition Procedure for Long Time Series, AAAI'19. [\[paper\]]() [\[official code\]]()
+* Estimating the Causal Effect from Partially Observed Time Series, AAAI'19. [\[paper\]]() [\[official code\]]()
+* Adversarial Unsupervised Representation Learning for Activity Time-Series, AAAI'19. [\[paper\]]() [\[official code\]]()
+* Fourier Feature Approximations for Periodic Kernels in Time-Series Modelling, AAAI'18. [\[paper\]]() [\[official code\]]()
+
+#### Time Series Forecasting
+* Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Self-Attention ConvLSTM for Spatiotemporal Prediction, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI'20. [\[paper\]]() [\[official code\]]() 
+* Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting, AAAI'19. [\[paper\]]() [\[official code\]]() 
+* Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
+* Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
+* MRes-RGNN: A Novel Deep Learning based Framework for Traffic Prediction
+* DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis
+* Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting
+* Learning Heterogeneous Spatial-Temporal Representation for Bike-sharing Demand Prediction
+* Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting
+
+
+#### Time Series Anomaly Detection
+* A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data, AAAI'19. [\[paper\]]() [\[official code\]]()
+* Non-parametric Outliers Detection in Multiple Time Series A Case Study: Power Grid Data Analysis, AAAI'18. [\[paper\]]() [\[official code\]]()
+
+
+<!--    , IJCAI'19. [\[paper\]]() [\[official code\]]()   --> 
 ### IJCAI 201X-2020
 #### General Time Series Analysis
+* RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]]() [\[official code\]]()
+* E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation, IJCAI'19. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
+* A new attention mechanism to classify multivariate time series, IJCAI'20. [\[paper\]]() [\[official code\]]()
 #### Time Series Forecasting
+* LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks, IJCAI'20. [\[paper\]]() [\[official code\]]()
+* PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction, IJCAI'20. [\[paper\]]() [\[official code\]]()
+* Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction, IJCAI'20. [\[paper\]]() [\[official code\]]()
+* Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting, IJCAI'19. [\[paper\]](https://arxiv.org/abs/2102.00397)
+* Explainable Deep Neural Networks for Multivariate Time Series Predictions, IJCAI'19. [\[paper\]]() [\[official code\]]()
+* A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction, IJCAI'17. [\[paper\]](https://arxiv.org/abs/1704.02971) [\[code\]](https://paperswithcode.com/paper/a-dual-stage-attention-based-recurrent-neural)
 #### Time Series Anomaly Detection
-#### Time Series Classification
+* BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series, IJCAI'19. [\[paper\]]() [\[official code\]]() 
+* Outlier Detection for Time Series with Recurrent Autoencoder Ensembles, IJCAI'19. [\[paper\]]() [\[official code\]]() 
+#### Time Series Clustering
+* Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest, IJCAI'19. [\[paper\]]() [\[official code\]]()
+* Similarity Preserving Representation Learning for Time Series Clustering, IJCAI'19. [\[paper\]]() [\[official code\]]()
+
+
 
 <!--    , VLDB'20. [\[paper\]]() [\[official code\]]()   --> 
 ### SIGMOD VLDB ICDE 201X-2020
@@ -582,6 +630,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 <!--    , Misc'20. [\[paper\]]() [\[official code\]]()   --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
+* GP-VAE: Deep probabilistic time series imputation, AISTATS'20. [\[paper\]](https://arxiv.org/abs/1907.04155) [\[official code\]](https://github.com/ratschlab/GP-VAE)
 #### Time Series Forecasting
 #### Time Series Anomaly Detection
 #### Time Series Classification
