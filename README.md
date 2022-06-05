@@ -503,24 +503,24 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ### ICML 201X-2020
 
 #### General Time Series Analysis
-* Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML'20. [\[paper\]]() [\[official code\]]()
-* Spectral Subsampling MCMC for Stationary Time Series, ICML'20. [\[paper\]]() [\[official code\]]()
-* Learnable Group Transform For Time-Series, ICML'20. [\[paper\]]() [\[official code\]]()
-* Set Functions for Time Series, ICML'20. [\[paper\]]() [\[official code\]]()
-* Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders, ICML'20. [\[paper\]]() [\[official code\]]()
-* Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models, ICML'19. [\[paper\]]() [\[official code\]]()
-* Discovering Latent Covariance Structures for Multiple Time Series, ICML'19. [\[paper\]]() [\[official code\]]()
-* Autoregressive convolutional neural networks for asynchronous time series, ICML'18. [\[paper\]]() [\[official code\]]()
-* Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series, ICML'18. [\[paper\]]() [\[official code\]]()
-* Soft-DTW: a Differentiable Loss Function for Time-Series, ICML'17. [\[paper\]]() [\[official code\]]()
+* Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML'20. [\[paper\]](https://arxiv.org/abs/2008.07599) [\[official code\]](https://github.com/steveli/partial-encoder-decoder)
+* Set Functions for Time Series, ICML'20. [\[paper\]](https://arxiv.org/abs/1909.12064) [\[official code\]](https://github.com/BorgwardtLab/Set_Functions_for_Time_Series)
+* Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders, ICML'20. [\[paper\]](https://arxiv.org/abs/1902.00450) [\[official code\]](https://github.com/ioanabica/Time-Series-Deconfounder)
+* Spectral Subsampling MCMC for Stationary Time Series, ICML'20. [\[paper\]](https://proceedings.mlr.press/v119/salomone20a.html)  
+* Learnable Group Transform For Time-Series, ICML'20. [\[paper\]](https://proceedings.mlr.press/v119/cosentino20a.html) 
+* Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models, ICML'19. [\[paper\]](https://arxiv.org/abs/1905.10857) [\[official code\]](https://github.com/Biwei-Huang/Causal-discovery-and-forecasting-in-nonstationary-environments)
+* Discovering Latent Covariance Structures for Multiple Time Series, ICML'19. [\[paper\]](https://arxiv.org/abs/1703.09528) 
+* Autoregressive convolutional neural networks for asynchronous time series, ICML'18. [\[paper\]](https://arxiv.org/abs/1703.04122) [\[official code\]](https://github.com/mbinkowski/nntimeseries)
+* Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series, ICML'18. [\[paper\]](https://proceedings.mlr.press/v80/che18a.html)  
+* Soft-DTW: a Differentiable Loss Function for Time-Series, ICML'17. [\[paper\]](https://arxiv.org/abs/1703.01541) [\[official code\]](https://github.com/mblondel/soft-dtw)
 
 
 #### Time Series Forecasting
-* Forecasting Sequential Data Using Consistent Koopman Autoencoders, ICML'20. [\[paper\]]() [\[official code\]]()
-* Adversarial Attacks on Probabilistic Autoregressive Forecasting Models, ICML'20. [\[paper\]]() [\[official code\]]()
-* Influenza Forecasting Framework based on Gaussian Processes, ICML'20. [\[paper\]]() [\[official code\]]()
-* Deep Factors for Forecasting, ICML'19. [\[paper\]]() [\[official code\]]()
-* Coherent Probabilistic Forecasts for Hierarchical Time Series, ICML'17. [\[paper\]]() [\[official code\]]()
+* Forecasting Sequential Data Using Consistent Koopman Autoencoders, ICML'20. [\[paper\]](https://arxiv.org/abs/2003.02236) [\[official code\]](https://github.com/erichson/koopmanAE)
+* Adversarial Attacks on Probabilistic Autoregressive Forecasting Models, ICML'20. [\[paper\]](https://arxiv.org/abs/2003.03778) [\[official code\]](https://github.com/eth-sri/probabilistic-forecasts-attacks)
+* Influenza Forecasting Framework based on Gaussian Processes, ICML'20. [\[paper\]](http://proceedings.mlr.press/v119/zimmer20a.html) 
+* Deep Factors for Forecasting, ICML'19. [\[paper\]](https://arxiv.org/abs/1905.12417)  
+* Coherent Probabilistic Forecasts for Hierarchical Time Series, ICML'17. [\[paper\]](https://proceedings.mlr.press/v70/taieb17a.html) 
 
 ### ICLR 201X-2020
 #### General Time Series Analysis
