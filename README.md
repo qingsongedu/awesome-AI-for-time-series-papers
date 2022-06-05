@@ -219,6 +219,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 #### Other Time Series Analysis
 * OnlineSTL: Scaling Time Series Decomposition by 100x, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p1417-mishra.pdf) 
+* Efficient temporal pattern mining in big time series using mutual information, VLDB'22. [\[paper\]](https://arxiv.org/abs/2010.03653)
 * Learning Evolvable Time-series Shapelets, ICDE'22.  
 
 
@@ -340,6 +341,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification [\[paper\]](https://arxiv.org/abs/2012.08791) [\[official code\]](https://github.com/angus924/minirocket)
 * Statistical models coupling allows for complex localmultivariate time series analysis [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467362)
 * Fast and Accurate Partial Fourier Transform for Time Series Data [\[paper\]](https://jungijang.github.io/resources/2021/KDD/pft.pdf) [\[official code\]](https://github.com/snudatalab/PFT)
+* Deep Learning Embeddings for Data Series Similarity Search [\[paper\]](https://qtwang.github.io/assets/pdf/kdd21-seanet.pdf) [\[link\]](https://qtwang.github.io/kdd21-seanet)
 
 
 ### AAAI 2021
@@ -399,9 +401,10 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Forecasting
 * AutoAI-TS:AutoAI for Time Series Forecasting, SIGMOD'21. [\[paper\]](https://arxiv.org/abs/2102.12347)  
 * FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p721-ding.pdf)
+* MDTP: a multi-source deep traffic prediction framework over spatio-temporal trajectory data, VLDB'21. [\[paper\]]()
 * EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting, ICDE'21. [\[paper\]](https://ieeexplore.ieee.org/document/9458855) [\[slides\]](https://pdfs.semanticscholar.org/3cb0/6f67fbfcf3c2dac32c02248a03eb84cc246d.pdf)  
 * An Effective Joint Prediction Model for Travel Demands and Traffic Flows, ICDE'21. [\[paper\]](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde21-traffic.pdf)  
-
+ 
 #### Time Series Anomaly Detection
 * Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series, VLDB'21. [\[paper\]](https://arxiv.org/abs/2010.05073) [\[official code\]](https://github.com/exathlonbenchmark/exathlon)
 * SAND: Streaming Subsequence Anomaly Detection, VLDB'21. [\[paper\]](http://vldb.org/pvldb/vol14/p1717-boniol.pdf)  
@@ -631,9 +634,19 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 <!--    , VLDB'20. [\[paper\]]() [\[official code\]]()   --> 
 ### SIGMOD VLDB ICDE 201X-2020
 #### General Time Series Analysis
-#### Time Series Forecasting
+* Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures, SIGMOD'20. [\[paper\]]() [\[official code\]]() 
+* Database Workload Capacity Planning using Time Series Analysis and Machine Learning, SIGMOD'20. [\[paper\]]() [\[official code\]]() 
+* Mind the gap: an experimental evaluation of imputation of missing values techniques in time series, VLDB'20. [\[paper\]]() [\[official code\]]() 
+* Active Model Selection for Positive Unlabeled Time Series Classification, ICDE'20. [\[paper\]]()
+* ExplainIt! -- A declarative root-cause analysis engine for time series data, SIGMOD'19. [\[paper\]]() [\[official code\]]() 
+* Cleanits: A Data Cleaning System for Industrial Time Series, VLDB'19. [\[paper\]]() [\[official code\]]() 
+* Matrix Profile X: VALMOD - Scalable Discovery of Variable-Length Motifs in Data Series, SIGMOD'18. [\[paper\]](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod18-valmod.pdf) 
+* Effective Temporal Dependence Discovery in Time Series Data, VLDB'18. [\[paper\]]() [\[official code\]]() 
+
 #### Time Series Anomaly Detection
-#### Time Series Classification
+* Series2Graph: graph-based subsequence anomaly detection for time series, VLDB'20. [\[paper\]]() [\[official code\]]() 
+* Neighbor Profile: Bagging Nearest Neighbors for Unsupervised Time Series Mining, ICDE'20. [\[paper\]](https://www.researchgate.net/profile/Yuanduo-He/publication/340663191_Neighbor_Profile_Bagging_Nearest_Neighbors_for_Unsupervised_Time_Series_Mining/links/5e97d607a6fdcca7891c2a0b/Neighbor-Profile-Bagging-Nearest-Neighbors-for-Unsupervised-Time-Series-Mining.pdf)  
+* User-driven error detection for time series with events, ICDE'20. [\[paper\]](https://www.eurecom.fr/en/publication/6192/download/data-publi-6192.pdf)
 
 <!--    , Misc'20. [\[paper\]]() [\[official code\]]()   --> 
 ### Misc 201X-2020
