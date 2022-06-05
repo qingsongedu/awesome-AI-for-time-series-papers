@@ -13,7 +13,7 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, AISTAT, WSDM, CIKM, ICDM, SIGIR, etc.
+- Misc: WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc.
 
 The top journals including (mainly for survey papers):
 TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, IJF, arXiv(selected), etc.
@@ -227,7 +227,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 ### Misc 2022
 #### Time Series Forecasting
 * CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting, WWW'22. [\[paper\]](https://arxiv.org/abs/2109.07438) [\[official code\]](https://github.com/adityalab/camul)
-* Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3512056)  
+* Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction, WWW'22. [\[paper\]](https://web.archive.org/web/20220426115606id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512056)  
 * RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph, WWW'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3485447.3511974) 
 * Robust Probabilistic Time Series Forecasting, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2202.11910) [\[official code\]](https://github.com/tetrzim/robust-probabilistic-forecasting) 
 * Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2111.06581)
@@ -424,6 +424,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * SSDNet: State Space Decomposition Neural Network for Time Series Forecasting, ICDM'21. [\[paper\]](https://arxiv.org/abs/2112.10251)  
 * AdaRNN: Adaptive Learning and Forecasting of Time Series, CIKM'21. [\[paper\]](https://arxiv.org/abs/2108.04443) [\[official code\]](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn)
 * Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction, CIKM'21. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482271)  
+* Stock Trend Prediction with Multi-Granularity Data: A Contrastive Learning Approach with Adaptive Fusion, CIKM'21. [\[paper\]](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2021/Min-Hou-CIKM.pdf)  
 * Long Horizon Forecasting With Temporal Point Processes, WSDM'21. [\[paper\]](https://arxiv.org/abs/2101.02815) [\[official code\]](https://github.com/pratham16cse/DualTPP)
 * Time-Series Event Prediction with Evolutionary State Graph, WSDM'21. [\[paper\]](https://arxiv.org/abs/1905.05006) [\[official code\]](https://github.com/VachelHU/EvoNet).
 
@@ -431,6 +432,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs, WWW'21. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3442381.3450013) 
 * Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding, WWW'21. [\[paper\]](https://arxiv.org/abs/2011.14097) [\[official code\]](https://github.com/cruiseresearchgroup/TSCP2)
 * FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection, WSDM'21. [\[paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823) 
+* Weakly Supervised Temporal Anomaly Segmentation with Dynamic Time Warping, ICCV'21. [\[paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823) [\[official code\]](https://github.com/donalee/wetas)
 
 
 
@@ -499,7 +501,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [\[paper\]]() [\[official code\]]()  
 * Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]]() [\[official code\]]()  
 
-<!--    , ICML'20. [\[paper\]]() [\[official code\]]()   -->  
+ 
 ### ICML 201X-2020
 
 #### General Time Series Analysis
@@ -532,7 +534,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=SJiHXGWAZ) [\[official code\]](https://github.com/liyaguang/DCRNN) 
 * Automatically Inferring Data Quality for Spatiotemporal Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[official code\]]() 
 
-<!--    , KDD'20. [\[paper\]]() [\[official code\]]()   -->  
+ 
 ### KDD 201X-2020
 #### General Time Series Analysis
 * Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]](https://www.researchgate.net/profile/Qingsong-Wen/publication/343780200_Fast_RobustSTL_Efficient_and_Robust_Seasonal-Trend_Decomposition_for_Time_Series_with_Complex_Patterns/links/614b9828a3df59440ba498b3/Fast-RobustSTL-Efficient-and-Robust-Seasonal-Trend-Decomposition-for-Time-Series-with-Complex-Patterns.pdf) [\[code\]](https://github.com/ariaghora/fast-robust-stl)
@@ -563,7 +565,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]]() [\[official code\]]()
 
 
-<!--    , AAAI'19. [\[paper\]]() [\[official code\]]()   -->  
+ 
 ### AAAI 201X-2020
 
 #### General Time Series Analysis
@@ -601,7 +603,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Non-parametric Outliers Detection in Multiple Time Series A Case Study: Power Grid Data Analysis, AAAI'18. [\[paper\]]() [\[official code\]]()
 
 
-<!--    , IJCAI'18. [\[paper\]]() [\[official code\]]()   --> 
+ 
 ### IJCAI 201X-2020
 #### General Time Series Analysis
 * RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]]() [\[official code\]]()
@@ -631,7 +633,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Classification
 * A new attention mechanism to classify multivariate time series, IJCAI'20. [\[paper\]]() [\[official code\]]()
 
-<!--    , VLDB'20. [\[paper\]]() [\[official code\]]()   --> 
+ 
 ### SIGMOD VLDB ICDE 201X-2020
 #### General Time Series Analysis
 * Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures, SIGMOD'20. [\[paper\]]() [\[official code\]]() 
@@ -646,15 +648,39 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Anomaly Detection
 * Series2Graph: graph-based subsequence anomaly detection for time series, VLDB'20. [\[paper\]]() [\[official code\]]() 
 * Neighbor Profile: Bagging Nearest Neighbors for Unsupervised Time Series Mining, ICDE'20. [\[paper\]](https://www.researchgate.net/profile/Yuanduo-He/publication/340663191_Neighbor_Profile_Bagging_Nearest_Neighbors_for_Unsupervised_Time_Series_Mining/links/5e97d607a6fdcca7891c2a0b/Neighbor-Profile-Bagging-Nearest-Neighbors-for-Unsupervised-Time-Series-Mining.pdf)  
+* Automated Anomaly Detection in Large Sequences, ICDE'20. [\[paper\]](https://helios2.mi.parisdescartes.fr/~themisp/publications/icde20-norm.pdf) [\[official code\]](https://helios2.mi.parisdescartes.fr/~themisp/norm/) 
 * User-driven error detection for time series with events, ICDE'20. [\[paper\]](https://www.eurecom.fr/en/publication/6192/download/data-publi-6192.pdf)
 
-<!--    , Misc'20. [\[paper\]]() [\[official code\]]()   --> 
+
+<!--    , Misc'20. [\[paper\]]() [\[official code\]]()   WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc. --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
+* STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks, WWW'19. [\[paper\]]()
 * GP-VAE: Deep probabilistic time series imputation, AISTATS'20. [\[paper\]](https://arxiv.org/abs/1907.04155) [\[official code\]](https://github.com/ratschlab/GP-VAE)
+* DYNOTEARS: Structure Learning from Time-Series Data, AISTATS'20. [\[paper\]]()
+* Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer, CIKM'20. [\[paper\]]()
+* Order-Preserving Metric Learning for Mining Multivariate Time Series, ICDM'20. [\[paper\]](https://par.nsf.gov/servlets/purl/10233687)
+* Learning Periods from Incomplete Multivariate Time Series, ICDM'20. [\[paper\]](http://www.cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf)
+* Foundations of Sequence-to-Sequence Modeling for Time Series, AISTATS'19. [\[paper\]]()
+
 #### Time Series Forecasting
+* Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting, WWW'20. [\[paper\]](https://dl.acm.org/doi/10.1145/3366423.3380296)
+* HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction, WWW'20. [\[paper\]](https://www.researchgate.net/publication/340385140_HTML_Hierarchical_Transformer-based_Multi-task_Learning_for_Volatility_Prediction) [\[official code\]](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction)
+* Traffic Flow Prediction via Spatial Temporal Graph Neural Network, WWW'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380186)
+* Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems, WWW'20. [\[paper\]](https://uconnuclab.github.io/publications/2020/Conference/he-www-2020-a.pdf) 
+* Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting, WWW'20. [\[paper\]](https://par.nsf.gov/servlets/purl/10161328)
+* Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting, ICDM'20. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9338303)
+* Probabilistic Forecasting with Spline Quantile Function RNNs, AISTATS'19. [\[paper\]]()
+* DSANet: Dual self-attention network for multivariate time series forecasting, CIKM'19. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)
+* RESTFul: Resolution-Aware Forecasting of Behavioral Time Series Data, CIKM'18. [\[paper\]]()
+* Forecasting Wavelet Transformed Time Series with Attentive Neural Networks, ICDM'18. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8595010)
+* A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic, SIGIR'18. [\[paper\]](https://people.cs.pitt.edu/~milos/research/2018/SIGIR_18_Liu_Hierarchical_Seasonal_TS.pdf)
+* Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks, SIGIR'18. [\[paper\]](https://arxiv.org/abs/1703.07015) [\[official code\]](https://github.com/laiguokun/LSTNet) 
+
 #### Time Series Anomaly Detection
-#### Time Series Classification
+* Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [\[paper\]](https://arxiv.org/abs/2009.02040) [\[code\]](https://github.com/ML4ITS/mtad-gat-pytorch)
+* MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives, ICDM'20. [\[paper\]](https://www.cs.ucr.edu/~eamonn/MERLIN_Long_version_for_website.pdf) [\[official code\]](https://sites.google.com/view/merlin-find-anomalies/MERLIN) 
+* Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [\[paper\]]()
 
 
 
