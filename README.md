@@ -539,29 +539,28 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [\[paper\]](https://www.researchgate.net/profile/Qingsong-Wen/publication/343780200_Fast_RobustSTL_Efficient_and_Robust_Seasonal-Trend_Decomposition_for_Time_Series_with_Complex_Patterns/links/614b9828a3df59440ba498b3/Fast-RobustSTL-Efficient-and-Robust-Seasonal-Trend-Decomposition-for-Time-Series-with-Complex-Patterns.pdf) [\[code\]](https://github.com/ariaghora/fast-robust-stl)
 * Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.10996) [\[official code\]](https://github.com/floft/codats)
 * Online Amnestic DTW to allow Real-Time Golden Batch Monitoring, KDD'19. [\[paper\]](https://dl.acm.org/doi/10.1145/3292500.3330650) 
-* Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis, KDD'18. [\[paper\]]() [\[official code\]]()
-* Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data, KDD'17. [\[paper\]]() [\[official code\]]()
+* Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis, KDD'18. [\[paper\]](https://arxiv.org/abs/1806.08946)  
+* Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data, KDD'17. [\[paper\]](https://arxiv.org/abs/1706.03161) 
 
 
 #### Time Series Forecasting
 * Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.11650) [\[official code\]](https://github.com/nnzhan/MTGNN)
-* Attention based Multi-Modal New Product Sales Time-series Forecasting, KDD'20. [\[paper\]]() [\[official code\]]()
-* Forecasting the Evolution of Hydropower Generation, KDD'20. [\[paper\]]() [\[official code\]]()
-* Modeling Extreme Events in Time Series Prediction, KDD'19. [\[paper\]]() [\[official code\]]()
-* Multi-Horizon Time Series Forecasting with Temporal Attention Learning, KDD'19. [\[paper\]]() [\[official code\]]()
-* Regularized Regression for Hierarchical Forecasting Without Unbiasedness Conditions, KDD'19. [\[paper\]]() [\[official code\]]()
-* Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units, KDD'19. [\[paper\]]() [\[official code\]]()
-* Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [\[paper\]]() [\[official code\]]()
-* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]]() [\[official code\]]()
+* Attention based Multi-Modal New Product Sales Time-series Forecasting, KDD'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3394486.3403362)
+* Forecasting the Evolution of Hydropower Generation, KDD'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3394486.3403337)
+* Modeling Extreme Events in Time Series Prediction, KDD'19. [\[paper\]](http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf)  
+* Multi-Horizon Time Series Forecasting with Temporal Attention Learning, KDD'19. [\[paper\]](https://dl.acm.org/doi/10.1145/3292500.3330662)
+* Regularized Regression for Hierarchical Forecasting Without Unbiasedness Conditions, KDD'19. [\[paper\]](https://souhaib-bentaieb.com/papers/2019_kdd_hts_reg.pdf)
+* Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units, KDD'19. [\[paper\]](https://arxiv.org/abs/1906.09926) [\[official code\]](https://github.com/pratham16/ARU)
+* Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [\[paper\]](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/PUBLICATIONS/kdd19-orbitmap.pdf) [\[official code\]](https://github.com/yasuko-matsubara/orbitmap)
+* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [\[official code\]](https://github.com/z331565360/State-Frequency-Memory-stock-prediction)
 
 #### Time Series Anomaly Detection
 * USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) [\[official code\]](https://github.com/manigalati/usad)
 * RobustTAD: Robust Time Series Anomaly Detection via Decomposition and Convolutional Neural Networks, KDD'20 MiLeTS. [\[paper\]](https://arxiv.org/abs/2002.09545)
-* Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]]() [\[official code\]]()
-* Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]]() [\[official code\]]()
-* An adaptive approach for anomaly detector selection and fine-tuning in time series, KDD'19. [\[paper\]]() [\[official code\]]()
-* Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [\[paper\]]() [\[official code\]]()
-* Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]]() [\[official code\]]()
+* Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]](https://netman.aiops.org/wp-content/uploads/2019/08/OmniAnomaly_camera-ready.pdf) [\[official code\]](https://github.com/NetManAIOps/OmniAnomaly)
+* Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]](https://arxiv.org/abs/1906.03821) 
+* Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [\[paper\]](https://arxiv.org/abs/1802.04431) [\[official code\]](https://github.com/khundman/telemanom)
+* Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]](https://hal.archives-ouvertes.fr/hal-01640325/document)
 
 
  
