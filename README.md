@@ -640,17 +640,17 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
  
 ### SIGMOD VLDB ICDE 201X-2020
 #### General Time Series Analysis
-* Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures, SIGMOD'20. [\[paper\]]() [\[official code\]]() 
-* Database Workload Capacity Planning using Time Series Analysis and Machine Learning, SIGMOD'20. [\[paper\]]() [\[official code\]]() 
-* Mind the gap: an experimental evaluation of imputation of missing values techniques in time series, VLDB'20. [\[paper\]]() [\[official code\]]() 
-* Active Model Selection for Positive Unlabeled Time Series Classification, ICDE'20. [\[paper\]]()
-* ExplainIt! -- A declarative root-cause analysis engine for time series data, SIGMOD'19. [\[paper\]]() [\[official code\]]() 
-* Cleanits: A Data Cleaning System for Industrial Time Series, VLDB'19. [\[paper\]]() [\[official code\]]() 
+* Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures, SIGMOD'20. [\[paper\]](http://people.cs.uchicago.edu/~jopa/Papers/PaparrizosSIGMOD2020.pdf) [\[official code\]](https://github.com/johnpaparrizos/TSDistEval) 
+* Database Workload Capacity Planning using Time Series Analysis and Machine Learning, SIGMOD'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3318464.3386140) 
+* Mind the gap: an experimental evaluation of imputation of missing values techniques in time series, VLDB'20. [\[paper\]](http://www.vldb.org/pvldb/vol13/p768-khayati.pdf) [\[official code\]](https://github.com/eXascaleInfolab/bench-vldb20) 
+* Active Model Selection for Positive Unlabeled Time Series Classification, ICDE'20. [\[paper\]](https://ieeexplore.ieee.org/document/9101367) [\[official code\]](https://github.com/sliang11/Active-Model-Selection-for-PUTSC) 
+* ExplainIt! -- A declarative root-cause analysis engine for time series data, SIGMOD'19. [\[paper\]](https://arxiv.org/abs/1903.08132) 
+* Cleanits: A Data Cleaning System for Industrial Time Series, VLDB'19. [\[paper\]](https://vldb.org/pvldb/vol12/p1786-ding.pdf) 
 * Matrix Profile X: VALMOD - Scalable Discovery of Variable-Length Motifs in Data Series, SIGMOD'18. [\[paper\]](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod18-valmod.pdf) 
-* Effective Temporal Dependence Discovery in Time Series Data, VLDB'18. [\[paper\]]() [\[official code\]]() 
+* Effective Temporal Dependence Discovery in Time Series Data, VLDB'18. [\[paper\]](https://vldb.org/pvldb/vol11/p893-cai.pdf) 
 
 #### Time Series Anomaly Detection
-* Series2Graph: graph-based subsequence anomaly detection for time series, VLDB'20. [\[paper\]]() [\[official code\]]() 
+* Series2Graph: graph-based subsequence anomaly detection for time series, VLDB'20. [\[paper\]](http://www.vldb.org/pvldb/vol13/p1821-boniol.pdf) [\[official code\]](https://helios2.mi.parisdescartes.fr/~themisp/series2graph/) 
 * Neighbor Profile: Bagging Nearest Neighbors for Unsupervised Time Series Mining, ICDE'20. [\[paper\]](https://www.researchgate.net/profile/Yuanduo-He/publication/340663191_Neighbor_Profile_Bagging_Nearest_Neighbors_for_Unsupervised_Time_Series_Mining/links/5e97d607a6fdcca7891c2a0b/Neighbor-Profile-Bagging-Nearest-Neighbors-for-Unsupervised-Time-Series-Mining.pdf)  
 * Automated Anomaly Detection in Large Sequences, ICDE'20. [\[paper\]](https://helios2.mi.parisdescartes.fr/~themisp/publications/icde20-norm.pdf) [\[official code\]](https://helios2.mi.parisdescartes.fr/~themisp/norm/) 
 * User-driven error detection for time series with events, ICDE'20. [\[paper\]](https://www.eurecom.fr/en/publication/6192/download/data-publi-6192.pdf)
