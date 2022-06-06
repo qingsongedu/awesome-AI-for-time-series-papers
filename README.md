@@ -565,44 +565,43 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
  
 ### AAAI 201X-2020
-(TBD...)
+
 #### General Time Series Analysis
-* Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series, AAAI'20. [\[paper\]]() [\[official code\]]()
-* Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Relation Inference among Sensor Time Series in Smart Buildings with Metric Learning, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* TapNet: Multivariate Time Series Classification with Attentional Prototype Network, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* RobustSTL: A Robust Seasonal-Trend Decomposition Procedure for Long Time Series, AAAI'19. [\[paper\]]() [\[official code\]]()
-* Estimating the Causal Effect from Partially Observed Time Series, AAAI'19. [\[paper\]]() [\[official code\]]()
-* Adversarial Unsupervised Representation Learning for Activity Time-Series, AAAI'19. [\[paper\]]() [\[official code\]]()
-* Fourier Feature Approximations for Periodic Kernels in Time-Series Modelling, AAAI'18. [\[paper\]]() [\[official code\]]()
+* Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets, AAAI'20. [\[paper\]](https://arxiv.org/abs/1911.04143) [\[official code\]](https://github.com/petecheng/Time2Graph) 
+* DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5440)
+* Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5496) [\[official code\]](https://github.com/DerronXu/DeepTrends) 
+* Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, AAAI'20. [\[paper\]](https://arxiv.org/abs/1905.13570) [\[official code\]](https://github.com/ztangent/multimodal-dmm) 
+* Relation Inference among Sensor Time Series in Smart Buildings with Metric Learning, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5900) 
+* TapNet: Multivariate Time Series Classification with Attentional Prototype Network, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/6165) [\[official code\]](https://github.com/xuczhang/tapnet) 
+* RobustSTL: A Robust Seasonal-Trend Decomposition Procedure for Long Time Series, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/4480) [\[code\]](https://github.com/LeeDoYup/RobustSTL)
+* Estimating the Causal Effect from Partially Observed Time Series, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/4281)
+* Adversarial Unsupervised Representation Learning for Activity Time-Series, AAAI'19. [\[paper\]](https://arxiv.org/abs/1811.06847)
+* Fourier Feature Approximations for Periodic Kernels in Time-Series Modelling, AAAI'18. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/11696)
 
 #### Time Series Forecasting
-* Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Self-Attention ConvLSTM for Spatiotemporal Prediction, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI'20. [\[paper\]]() [\[official code\]]() 
-* Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting, AAAI'19. [\[paper\]]() [\[official code\]]() 
-* Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
-* Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
-* MRes-RGNN: A Novel Deep Learning based Framework for Traffic Prediction
-* DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis
-* Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting
-* Learning Heterogeneous Spatial-Temporal Representation for Bike-sharing Demand Prediction
-* Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting
-
+* Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values, AAAI'20. [\[paper\]](https://arxiv.org/abs/1911.10273)  
+* Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting, AAAI'20. [\[paper\]](https://arxiv.org/abs/2002.12135) [\[official code\]](https://github.com/yokotatsuya/BHT-ARIMA) 
+* Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5438) [\[official code\]](https://github.com/Davidham3/STSGCN) 
+* Self-Attention ConvLSTM for Spatiotemporal Prediction, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/6819) 
+* Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting, AAAI'20. [\[paper\]](https://arxiv.org/abs/1911.12093)  
+* Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI'20. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5470) 
+* GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI'20. [\[paper\]](https://arxiv.org/abs/1911.08415) [\[official code\]](https://github.com/zhengchuanpan/GMAN) 
+* Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/4383)  
+* Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/3877) 
+* Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting, AAAI'19. [\[paper\]](https://ojs.aaai.org//index.php/AAAI/article/view/3881) [\[official code\]](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
+* MRes-RGNN: A Novel Deep Learning based Framework for Traffic Prediction, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/3821)
+* DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/3892) [\[official code\]](https://github.com/FIBLAB/DeepSTN)
+* Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting, AAAI'19. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/main_AAAI2019.pdf) 
+* Learning Heterogeneous Spatial-Temporal Representation for Bike-sharing Demand Prediction, AAAI'19. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/3890)  
+* Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting, AAAI'19. [\[paper\]](https://ojs.aaai.org//index.php/AAAI/article/view/4247) 
 
 #### Time Series Anomaly Detection
-* A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data, AAAI'19. [\[paper\]]() [\[official code\]]()
-* Non-parametric Outliers Detection in Multiple Time Series A Case Study: Power Grid Data Analysis, AAAI'18. [\[paper\]]() [\[official code\]]()
-
+* A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data, AAAI'19. [\[paper\]](https://arxiv.org/abs/1811.08055)
+* Non-parametric Outliers Detection in Multiple Time Series A Case Study: Power Grid Data Analysis, AAAI'18. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/11632)
 
  
 ### IJCAI 201X-2020
+(TBD...)
 #### General Time Series Analysis
 * RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]]() [\[official code\]]()
 * E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation, IJCAI'19. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
