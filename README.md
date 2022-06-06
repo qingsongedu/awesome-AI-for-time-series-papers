@@ -659,13 +659,13 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 <!--    , Misc'20. [\[paper\]]() [\[official code\]]()   WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc. --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
-* STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks, WWW'19. [\[paper\]]()
+* STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks, WWW'19. [\[paper\]](https://arxiv.org/abs/1902.07849) [\[official code\]](https://github.com/yscacaca/STFNets)
 * GP-VAE: Deep probabilistic time series imputation, AISTATS'20. [\[paper\]](https://arxiv.org/abs/1907.04155) [\[official code\]](https://github.com/ratschlab/GP-VAE)
-* DYNOTEARS: Structure Learning from Time-Series Data, AISTATS'20. [\[paper\]]()
-* Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer, CIKM'20. [\[paper\]]()
+* DYNOTEARS: Structure Learning from Time-Series Data, AISTATS'20. [\[paper\]](https://arxiv.org/abs/2002.00498)
+* Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer, CIKM'20. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411879)
 * Order-Preserving Metric Learning for Mining Multivariate Time Series, ICDM'20. [\[paper\]](https://par.nsf.gov/servlets/purl/10233687)
 * Learning Periods from Incomplete Multivariate Time Series, ICDM'20. [\[paper\]](http://www.cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf)
-* Foundations of Sequence-to-Sequence Modeling for Time Series, AISTATS'19. [\[paper\]]()
+* Foundations of Sequence-to-Sequence Modeling for Time Series, AISTATS'19. [\[paper\]](https://arxiv.org/abs/1805.03714)
 
 #### Time Series Forecasting
 * Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting, WWW'20. [\[paper\]](https://dl.acm.org/doi/10.1145/3366423.3380296)
@@ -674,9 +674,9 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems, WWW'20. [\[paper\]](https://uconnuclab.github.io/publications/2020/Conference/he-www-2020-a.pdf) 
 * Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting, WWW'20. [\[paper\]](https://par.nsf.gov/servlets/purl/10161328)
 * Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting, ICDM'20. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9338303)
-* Probabilistic Forecasting with Spline Quantile Function RNNs, AISTATS'19. [\[paper\]]()
+* Probabilistic Forecasting with Spline Quantile Function RNNs, AISTATS'19. [\[paper\]](http://proceedings.mlr.press/v89/gasthaus19a.html)
 * DSANet: Dual self-attention network for multivariate time series forecasting, CIKM'19. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3357384.3358132)
-* RESTFul: Resolution-Aware Forecasting of Behavioral Time Series Data, CIKM'18. [\[paper\]]()
+* RESTFul: Resolution-Aware Forecasting of Behavioral Time Series Data, CIKM'18. [\[paper\]](https://www3.nd.edu/~dial/publications/xian2018restful.pdf)
 * Forecasting Wavelet Transformed Time Series with Attentive Neural Networks, ICDM'18. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8595010)
 * A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic, SIGIR'18. [\[paper\]](https://people.cs.pitt.edu/~milos/research/2018/SIGIR_18_Liu_Hierarchical_Seasonal_TS.pdf)
 * Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks, SIGIR'18. [\[paper\]](https://arxiv.org/abs/1703.07015) [\[official code\]](https://github.com/laiguokun/LSTNet) 
@@ -684,7 +684,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Anomaly Detection
 * Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [\[paper\]](https://arxiv.org/abs/2009.02040) [\[code\]](https://github.com/ML4ITS/mtad-gat-pytorch)
 * MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives, ICDM'20. [\[paper\]](https://www.cs.ucr.edu/~eamonn/MERLIN_Long_version_for_website.pdf) [\[official code\]](https://sites.google.com/view/merlin-find-anomalies/MERLIN) 
-* Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [\[paper\]]()
+* Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [\[paper\]](https://arxiv.org/abs/1802.03903) [\[official code\]](https://github.com/NetManAIOps/donut)
 
 
 
