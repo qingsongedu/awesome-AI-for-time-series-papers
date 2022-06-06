@@ -16,7 +16,7 @@ The top conferences including:
 - Misc: WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc.
 
 The top journals including (mainly for survey papers):
-TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, CSUR, IJF, arXiv(selected), etc.
+TPAMI, TKDE, TNNLS, TITS, TIST, JMLR, JAIR, DMKD, KAIS, CSUR, IJF, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -68,6 +68,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
 * Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, in *TIST* 2022. [\[paper\]](https://arxiv.org/abs/2008.08903)
+* Causal inference for time series analysis: problems, methods and evaluation, in *KAIS* 2022. [\[paper\]](https://scholar.google.com/scholar?cluster=15831734748668637115&hl=en&as_sdt=5,48&sciodt=0,48)
 * Survey and Evaluation of Causal Discovery Methods for Time Series, in *JAIR* 2022. [\[paper\]](https://www.jair.org/index.php/jair/article/view/13428/26775)
 * A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, in *NeurIPS Workshop* 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
@@ -601,11 +602,11 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
  
 ### IJCAI 201X-2020
-(TBD...)
+
 #### General Time Series Analysis
-* RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]]() [\[official code\]]()
+* RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]](https://arxiv.org/abs/1906.03751) 
 * E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation, IJCAI'19. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
-* Causal Inference in Time Series via Supervised Learning, IJCAI'18. [\[paper\]]() [\[official code\]]()
+* Causal Inference in Time Series via Supervised Learning, IJCAI'18. [\[paper\]](https://www.ijcai.org/proceedings/2018/282)
 #### Time Series Forecasting
 * LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks, IJCAI'20. [\[paper\]]() [\[official code\]]()
 * PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction, IJCAI'20. [\[paper\]]() [\[official code\]]()
