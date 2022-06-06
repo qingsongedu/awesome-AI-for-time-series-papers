@@ -607,29 +607,35 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering, IJCAI'19. [\[paper\]](https://arxiv.org/abs/1906.03751) 
 * E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation, IJCAI'19. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
 * Causal Inference in Time Series via Supervised Learning, IJCAI'18. [\[paper\]](https://www.ijcai.org/proceedings/2018/282)
+
 #### Time Series Forecasting
-* LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks, IJCAI'20. [\[paper\]]() [\[official code\]]()
-* PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction, IJCAI'20. [\[paper\]]() [\[official code\]]()
-* Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction, IJCAI'20. [\[paper\]]() [\[official code\]]()
+* PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction, IJCAI'20. [\[paper\]](https://www.ijcai.org/proceedings/2020/610) [\[official code\]](https://github.com/NingxuanFeng/PewLSTM)
+* LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks, IJCAI'20. [\[paper\]](https://www.ijcai.org/proceedings/2020/326)
+* Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction, IJCAI'20. [\[paper\]](https://www.ijcai.org/proceedings/2020/601)
 * Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting, IJCAI'19. [\[paper\]](https://arxiv.org/abs/2102.00397)
-* Explainable Deep Neural Networks for Multivariate Time Series Predictions, IJCAI'19. [\[paper\]]() [\[official code\]]()
-* Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns. [\[paper\]]() [\[official code\]]()
-* Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting. [\[paper\]]() [\[official code\]]()
-* LC-RNN: A Deep Learning Model for Traffic Speed Prediction. [\[paper\]]() [\[official code\]]()
-* GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction, IJCAI'18. [\[paper\]]() [\[official code\]]()
-* Hierarchical Electricity Time Series Forecasting for Integrating Consumption Patterns Analysis and Aggregation Consistency, IJCAI'18. [\[paper\]]() [\[official code\]]()
-* NeuCast: Seasonal Neural Forecast of Power Grid Time Series, IJCAI'18. [\[paper\]]() [\[official code\]]()
+* Explainable Deep Neural Networks for Multivariate Time Series Predictions, IJCAI'19. [\[paper\]](https://www.ijcai.org/proceedings/2019/932)
+* Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns. [\[paper\]](https://www.ijcai.org/proceedings/2018/519)
+* Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting. [\[paper\]](https://arxiv.org/abs/1709.04875) [\[official code\]](https://github.com/VeritasYin/STGCN_IJCAI-18)
+* LC-RNN: A Deep Learning Model for Traffic Speed Prediction. [\[paper\]](https://www.ijcai.org/proceedings/2018/482)
+* GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction, IJCAI'18. [\[paper\]](https://www.ijcai.org/proceedings/2018/476) [\[official code\]](https://github.com/yoshall/GeoMAN)
+* Hierarchical Electricity Time Series Forecasting for Integrating Consumption Patterns Analysis and Aggregation Consistency, IJCAI'18. [\[paper\]](https://www.ijcai.org/proceedings/2018/487)
+* NeuCast: Seasonal Neural Forecast of Power Grid Time Series, IJCAI'18. [\[paper\]](https://www.ijcai.org/Proceedings/2018/460) [\[official code\]](https://github.com/chenpudigege/NeuCast)
 * A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction, IJCAI'17. [\[paper\]](https://arxiv.org/abs/1704.02971) [\[code\]](https://paperswithcode.com/paper/a-dual-stage-attention-based-recurrent-neural)
-* Hybrid Neural Networks for Learning the Trend in Time Series, IJCAI'17. [\[paper\]]() [\[official code\]]()
+* Hybrid Neural Networks for Learning the Trend in Time Series, IJCAI'17. [\[paper\]](https://www.ijcai.org/proceedings/2017/316)
+
 #### Time Series Anomaly Detection
-* BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series, IJCAI'19. [\[paper\]]() [\[official code\]]() 
-* Outlier Detection for Time Series with Recurrent Autoencoder Ensembles, IJCAI'19. [\[paper\]]() [\[official code\]]() 
-* Stochastic Online Anomaly Analysis for Streaming Time Series, IJCAI'17. [\[paper\]]() [\[official code\]]()
+* BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series, IJCAI'19. [\[paper\]](https://www.ijcai.org/proceedings/2019/616) [\[official code\]](https://github.com/hi-bingo/BeatGAN) 
+* Outlier Detection for Time Series with Recurrent Autoencoder Ensembles, IJCAI'19. [\[paper\]](https://www.ijcai.org/proceedings/2019/378) [\[official code\]](https://github.com/tungk/OED) 
+* Stochastic Online Anomaly Analysis for Streaming Time Series, IJCAI'17. [\[paper\]](https://www.ijcai.org/proceedings/2017/0445.pdf)
+
+
 #### Time Series Clustering
-* Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest, IJCAI'19. [\[paper\]]() [\[official code\]]()
-* Similarity Preserving Representation Learning for Time Series Clustering, IJCAI'19. [\[paper\]]() [\[official code\]]()
+* Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest, IJCAI'19. [\[paper\]](https://www.ijcai.org/proceedings/2019/406)
+* Similarity Preserving Representation Learning for Time Series Clustering, IJCAI'19. [\[paper\]](https://arxiv.org/abs/1702.03584)
+
+
 #### Time Series Classification
-* A new attention mechanism to classify multivariate time series, IJCAI'20. [\[paper\]]() [\[official code\]]()
+* A new attention mechanism to classify multivariate time series, IJCAI'20. [\[paper\]](https://www.ijcai.org/proceedings/2020/277)
 
  
 ### SIGMOD VLDB ICDE 201X-2020
