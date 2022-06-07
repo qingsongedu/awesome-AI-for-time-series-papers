@@ -68,10 +68,11 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 #### General Time Series Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
-* Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
-* Generative Adversarial Networks for Spatio-temporal Data: A Survey, in *TIST* 2022. [\[paper\]](https://arxiv.org/abs/2008.08903)
 * Causal inference for time series analysis: problems, methods and evaluation, in *KAIS* 2022. [\[paper\]](https://scholar.google.com/scholar?cluster=15831734748668637115&hl=en&as_sdt=5,48&sciodt=0,48)
 * Survey and Evaluation of Causal Discovery Methods for Time Series, in *JAIR* 2022. [\[paper\]](https://www.jair.org/index.php/jair/article/view/13428/26775)
+* Deep learning for spatio-temporal data mining: A survey, in *TKDE* 2020. [\[paper\]](https://arxiv.org/abs/1906.04928)
+* Generative Adversarial Networks for Spatio-temporal Data: A Survey, in *TIST* 2022. [\[paper\]](https://arxiv.org/abs/2008.08903)
+* Spatio-Temporal Data Mining: A Survey of Problems and Methods, in *CSUR* 2018. [\[paper\]](https://dl.acm.org/doi/10.1145/3161602) 
 * A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, in *NeurIPS Workshop* 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
