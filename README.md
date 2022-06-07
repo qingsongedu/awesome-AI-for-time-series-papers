@@ -53,12 +53,14 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Robust Time Series Analysis: from Theory to Applications in the AI Era, in *IJCAI* 2022. [\[Link\]](https://sites.google.com/site/qingsongwen8/tutorials)
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
+* Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications, in *AAAI* 2021. [\[Link\]](https://yue-ning.github.io/aaai-21-tutorial.html)
 * Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond, *NeurIPS* 2020. [\[Link\]](http://implicit-layers-tutorial.org/)
 * Machine Learning with Signal Processing, *ICML* 2020. [\[Link\]](https://users.aalto.fi/~asolin/teaching/#tutorials)
 * Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
 * Building Forecasting Solutions Using Open-Source and Azure Machine Learning, in *KDD* 2020. [\[Link\]](https://chenhuims.github.io/forecasting/)
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
 * Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
+* Spatio-Temporal Event Forecasting and Precursor Identification, *KDD* 2019. [\[Link\]](http://mason.gmu.edu/~lzhao9/projects/event_forecasting_tutorial_KDD)
 * Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
 
 
@@ -78,6 +80,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Forecasting: theory and practice, in *IJF* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 * Time-series forecasting with deep learning: a survey, in *Philosophical Transactions of the Royal Society A* 2021. [\[paper\]](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2020.0209)
 * Deep Learning on Traffic Prediction: Methods, Analysis, and Future Directions, in *TITS* 2022. [\[paper\]](https://arxiv.org/abs/2004.08555)
+* Event prediction in the big data era: A systematic survey, in *CSUR* 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3450287)
 * A brief history of forecasting competitions, in *IJF* 2020. [\[paper\]](https://www.monash.edu/business/ebs/our-research/publications/ebs/wp03-2019.pdf)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
 
@@ -426,6 +429,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * AdaRNN: Adaptive Learning and Forecasting of Time Series, CIKM'21. [\[paper\]](https://arxiv.org/abs/2108.04443) [\[official code\]](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn)
 * Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction, CIKM'21. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482271)  
 * Stock Trend Prediction with Multi-Granularity Data: A Contrastive Learning Approach with Adaptive Fusion, CIKM'21. [\[paper\]](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2021/Min-Hou-CIKM.pdf)  
+* DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction, CIKM'21. [\[paper\]](https://arxiv.org/abs/2108.09091) [\[official code1\]](https://github.com/deepkashiwa20/dl-traff-graph) [\[official code2\]](https://github.com/deepkashiwa20/dl-traff-grid)
 * Long Horizon Forecasting With Temporal Point Processes, WSDM'21. [\[paper\]](https://arxiv.org/abs/2101.02815) [\[official code\]](https://github.com/pratham16cse/DualTPP)
 * Time-Series Event Prediction with Evolutionary State Graph, WSDM'21. [\[paper\]](https://arxiv.org/abs/1905.05006) [\[official code\]](https://github.com/VachelHU/EvoNet).
 
@@ -553,6 +557,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Regularized Regression for Hierarchical Forecasting Without Unbiasedness Conditions, KDD'19. [\[paper\]](https://souhaib-bentaieb.com/papers/2019_kdd_hts_reg.pdf)
 * Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units, KDD'19. [\[paper\]](https://arxiv.org/abs/1906.09926) [\[official code\]](https://github.com/pratham16/ARU)
 * Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [\[paper\]](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/PUBLICATIONS/kdd19-orbitmap.pdf) [\[official code\]](https://github.com/yasuko-matsubara/orbitmap)
+* DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events, KDD'19. [\[paper\]](https://www.researchgate.net/profile/Renhe-Jiang/publication/334714928_DeepUrbanEvent_A_System_for_Predicting_Citywide_Crowd_Dynamics_at_Big_Events/links/5d417167299bf1995b597f28/DeepUrbanEvent-A-System-for-Predicting-Citywide-Crowd-Dynamics-at-Big-Events.pdf) [\[official code\]](https://github.com/deepkashiwa20/DeepUrbanEvent)
 * Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [\[official code\]](https://github.com/z331565360/State-Frequency-Memory-stock-prediction)
 
 #### Time Series Anomaly Detection
