@@ -45,6 +45,9 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [SIGMOD VLDB ICDE 201X-2020](#SIGMOD-VLDB-ICDE-201X-2020)
   * [Misc 201X-2020](#Misc-201X-2020)
 
+- [Related AI Tutorials and Surveys for AI4TS](#Related-AI-Tutorials-and-Surveys-for-AI4TS)
+  * [Related AI Tutorials](#Related-AI-Tutorials),     [Related AI Surveys](#Related-AI-Surveys)
+
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
 
@@ -691,6 +694,38 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [\[paper\]](https://arxiv.org/abs/2009.02040) [\[code\]](https://github.com/ML4ITS/mtad-gat-pytorch)
 * MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives, ICDM'20. [\[paper\]](https://www.cs.ucr.edu/~eamonn/MERLIN_Long_version_for_website.pdf) [\[official code\]](https://sites.google.com/view/merlin-find-anomalies/MERLIN) 
 * Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [\[paper\]](https://arxiv.org/abs/1802.03903) [\[official code\]](https://github.com/NetManAIOps/donut)
+
+
+- [Related AI Tutorials and Surveys for AI4TS](#Related-AI-Tutorials-and-Surveys-for-AI4TS)
+  * [Related AI Tutorials](#Related-AI-Tutorials),     [Related AI Surveys](#Related-AI-Surveys)
+
+## Related AI Tutorials and Surveys for AI4TS
+### Related AI Tutorials
+
+
+
+### Related AI Surveys
+#### Transformer and Attention
+* A survey on visual transformer, in *IEEE TPAMI* 2022. [\[paper\]](https://arxiv.org/abs/2012.12556)
+* Transformers in vision: A survey, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2101.01169)
+* Efficient transformers: A survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2009.06732)
+* A General Survey on Attention Mechanisms in Deep Learning, in *IEEE TKDE* 2022. [\[paper\]](https://personal.eur.nl/frasincar/papers/TKDE2022/tkde2022.pdf)
+* Attention, please! A survey of neural attention models in deep learning, in *Artificial Intelligence Review* 2022. [\[paper\]](https://link.springer.com/article/10.1007/s10462-022-10148-x)
+* An attentive survey of attention models, in *ACM TIST* 2021. [\[paper\]](https://arxiv.org/abs/1904.02874)
+* Attention in natural language processing, in *IEEE TNNLS* 2020. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194070)
+
+#### Self-Supervised Learning
+* Self-supervised visual feature learning with deep neural networks: A survey_TPAMI'20
+* Self-supervised Learning: Generative or Contrastive_TKDE'21
+* Self-Supervised Representation Learning: Introduction, advances, and challenges
+
+#### Graph Neural Networks
+* Self-Supervised Learning of Graph Neural Networks: A Unified Review
+* Graph Self-Supervised Learning: A Survey
+
+#### Others
+* A continual learning survey: Defying forgetting in classification tasks, in *IEEE TPAMI* 2021. [\[paper\]](https://arxiv.org/abs/1909.08383)
+* Learning under concept drift: A review, in *IEEE TKDE* 2018. [\[paper\]](https://arxiv.org/abs/2004.05785)
 
 
 
