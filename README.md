@@ -25,7 +25,8 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 ## Table of Contents
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
-  * [AI4TS Tutorials](#AI4TS-Tutorials),     [AI4TS Surveys](#AI4TS-Surveys)
+  * [AI4TS Tutorials](#AI4TS-Tutorials)
+  * [AI4TS Surveys](#AI4TS-Surveys)
  
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022), [ICML 2022](#ICML-2022), [ICLR 2022](#ICLR-2022)
