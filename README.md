@@ -13,10 +13,10 @@ The top conferences including:
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc.
+- Misc (selected): WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, ACL, etc.
 
 The top journals including (mainly for survey papers):
-PIEEE, CACM, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
+CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -57,6 +57,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 * Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications, in *AAAI* 2021. [\[Link\]](https://yue-ning.github.io/aaai-21-tutorial.html)
+* Physics-Guided AI for Large-Scale Spatiotemporal Data, in *KDD* 2021. [\[Link\]](https://sites.google.com/view/kdd2021tutorial/home)
 * Building Forecasting Solutions Using Open-Source and Azure Machine Learning, in *KDD* 2020. [\[Link\]](https://chenhuims.github.io/forecasting/)
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
 * Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
@@ -698,36 +699,71 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 ## Related AI Tutorials and Surveys
 ### Related AI Tutorials
+#### 2022
+* Facilitating a smoother transition to Renewable Energy with AI (AI4Renewables), *ICLR* 2022 Social. [\[Link\]](https://www.ai4renewables.org/) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8733_OpISyMy.pdf) 
+* Optimization in ML and DL - A discussion on theory and practice, *ICLR* 2022 Social. [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8739_DhSLTHw.pdf)
+* Beyond Convolutional Neural Networks, *CVPR* 2022. [\[Link TBD\]]()
+* Evaluating Models Beyond the Textbook: Out-of-distribution and Without Labels, *CVPR* 2022. [\[Link TBD\]]()
+* Sparsity Learning in Neural Networks and Robust Statistical Analysis, *CVPR* 2022. [\[Link TBD\]]()
+* Representation Learning and Algorithmic Fairness, *CVPR* 2022. [\[Link TBD\]]()
+* On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding & Engineering Practices, *AAAI* 2022. [\[Link\]](https://xaitutorial2022.github.io/)
+* Bayesian Optimization: From Foundations to Advanced Topics, *AAAI* 2022. [\[Link\]](https://bayesopt-tutorial.github.io/syllabus/)
+* Deep Learning on Graphs for Natural Language Processing, *AAAI* 2022. [\[Link\]](https://dlg4nlp.github.io/tutorial_Deep%20Learning%20on%20Graphs%20for%20Natural%20Language%20Processing%20AAAI%202022.html)
+
+
+#### 2021
+* The Art of Gaussian Processes: Classic and Contemporary, *NeurIPS* 2021. [\[Link\]](https://github.com/GAMES-UChile/The_Art_of_Gaussian_Processes) [\[slides\]](https://nips.cc/media/neurips-2021/Slides/21890_AZNeRaA.pdf)
+* Self-Supervised Learning: Self-Prediction and Contrastive Learning, , *NeurIPS* 2021. [\[slides\]](https://nips.cc/media/neurips-2021/Slides/21895.pdf) [\[vedio\]](https://www.youtube.com/watch?v=7l6fttRJzeU)
+* Self-Attention for Computer Vision, *ICML* 2021. [\[Link\]](https://icml.cc/virtual/2021/tutorial/10842)
+* Continual Learning with Deep Architectures, *ICML* 2021. [\[Link\]](https://icml.cc/virtual/2021/tutorial/10833)
+* Responsible AI in Industry: Practical Challenges and Lessons Learned, *ICML* 2021. [\[Link\]](https://icml.cc/virtual/2021/tutorial/10841)
+* Self-Supervision for Learning from the Bottom Up, *ICLR* 2021 Talk. [\[Link\]](https://iclr.cc/virtual/2021/invited-talk/3720)
+* Geometric Deep Learning: the Erlangen Programme of ML, *ICLR* 2021 Talk. [\[Link\]](https://iclr.cc/virtual/2021/invited-talk/3717)
+* Moving beyond the fairness rhetoric in machine learning, *ICLR* 2021 Talk. [\[Link\]](https://iclr.cc/virtual/2021/invited-talk/3718)
+* Is My Dataset Biased, *ICLR* 2021 Talk. [\[Link\]](https://iclr.cc/virtual/2021/invited-talk/3721)
+* Interpretability with skeptical and user-centric mind, *ICLR* 2021 Talk. [\[Link\]](https://iclr.cc/ExpoConferences/2021/talk%20panel/4381)
+* AutoML: A Perspective where Industry Meets Academy, *KDD* 2021. [\[Link\]](https://joneswong.github.io/KDD21AutoMLTutorial/)
+* Automated Machine Learning on Graph, *KDD* 2021. [\[Link\]](http://mn.cs.tsinghua.edu.cn/xinwang/kdd2021Tutorial.htm)
+* Toward Explainable Deep Anomaly Detection, *KDD* 2021. [\[Link\]](https://sites.google.com/site/gspangsite/kdd21_tutorial)
+* Fairness and Explanation in Clustering and Outlier Detection, *KDD* 2021. [\[Link\]](https://www.cs.ucdavis.edu/~davidson/KDD2021/overview.htm)
+* Real-time Event Detection for Emergency Response, *KDD* 2021. [\[Link\]](https://www.cs.rochester.edu/~tetreaul/kdd2021-tutorial.html)
+* Machine Learning Explainability and Robustness: Connected at the Hip, *KDD* 2021. [\[Link\]](https://sites.google.com/andrew.cmu.edu/kdd-2021-tutorial-expl-robust/)
+* Machine Learning Robustness, Fairness, and their Convergence, *KDD* 2021. [\[Link\]](https://kdd21tutorial-robust-fair-learning.github.io/)
+* Counterfactual Explanations in Explainable AI: A Tutorial, *KDD* 2021. [\[Link\]](https://sites.google.com/view/kdd-2021-counterfactual)
+* Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber, *KDD* 2021. [\[Link\]](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+* Normalization Techniques in Deep Learning: Methods, Analyses, and Applications, *CVPR* 2021. [\[Link\]](https://normalization-dnn.github.io/)
+* Normalizing Flows and Invertible Neural Networks in Computer Vision, *CVPR* 2021. [\[Link\]](https://mbrubake.github.io/cvpr2021-nf_in_cv-tutorial/)
+* Theory and Application of Energy-Based Generative Models, *CVPR* 2021. [\[Link\]](https://energy-based-models.github.io/)
+* Adversarial Machine Learning in Computer Vision, *CVPR* 2021. [\[Link\]](https://advmlincv.github.io/cvpr21-tutorial/)
+* Practical Adversarial Robustness in Deep Learning: Problems and Solutions, *CVPR* 2021. [\[Link\]](https://sites.google.com/view/par-2021)
+* Leave those nets alone: advances in self-supervised learning, *CVPR* 2021. [\[Link\]](https://gidariss.github.io/self-supervised-learning-cvpr2021/)
+* Interpretable Machine Learning for Computer Vision, *CVPR* 2021. [\[Link\]](https://interpretablevision.github.io/)
+* Learning Representations via Graph-structured Networks, *CVPR* 2021. [\[Link\]](https://xiaolonw.github.io/graphnnv3/)
+* Reviewing the Review Process, *ICCV* 2021. [\[Link\]](https://sites.google.com/view/reviewing-the-review-process/)
+* Meta Learning and Its Applications to Natural Language Processing, *ACL* 2021. [\[Link\]](https://ai.ntu.edu.tw/mlss2021/wp-content/uploads/2021/08/0812-Thang-Vu-Shang-Wen-Li.pdf)
+
+
+<!-- , *ICML* 2020. [\[slides\]]() [\[video\]]() -->
+#### 2020
 * Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond, *NeurIPS* 2020. [\[Link\]](http://implicit-layers-tutorial.org/)
+* Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning, *NeurIPS* 2020. [\[Link\]](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
+* Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities, *NeurIPS* 2020. [\[Link\]](https://nips.cc/virtual/2020/public/tutorial_59e711d152de7bec7304a8c2ecaf9f0f.html)
+* Advances in Approximate Inference, *NeurIPS* 2020. [\[Link\]](https://nips.cc/virtual/2020/public/tutorial_b5a5e2e8958e765c2822d5cf7c60df7d.html)
+* There and Back Again: A Tale of Slopes and Expectations, *NeurIPS* 2020. [\[Link\]](https://nips.cc/virtual/2020/public/tutorial_880c6de112a048b0fc4ddb0a8b513e17.html)
+* Federated Learning and Analytics: Industry Meets Academia, *NeurIPS* 2020. [\[Link\]](https://nips.cc/virtual/2020/public/tutorial_f31c147335274c56d801f833d3c26a70.html)
 * Machine Learning with Signal Processing, *ICML* 2020. [\[Link\]](https://users.aalto.fi/~asolin/teaching/#tutorials)
+* Bayesian Deep Learning and a Probabilistic Perspective of Model Construction, *ICML* 2020. [\[slides\]](https://cims.nyu.edu/~andrewgw/bayesdlicml2020.pdf) [\[video\]](https://www.youtube.com/watch?v=E1qhGw8QxqY)
+* Representation Learning Without Labels, *ICML* 2020. [\[slides\]](https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf) [\[video\]](https://www.youtube.com/watch?v=_9rGTWfpo_4)
+* Recent Advances in High-Dimensional Robust Statistics, *ICML* 2020. [\[Link\]](http://www.iliasdiakonikolas.org/icml-robust-tutorial.html)
+* Submodular Optimization: From Discrete to Continuous and Back, *ICML* 2020. [\[Link\]](http://iid.yale.edu/icml/icml-20.md/)
 * Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
 
 
+
+
+
 <!--    [\[paper\]]()      [\[official code\]]()   --> 
-
 ### Related AI Surveys
-#### Anomaly detection and OOD
-* A unifying review of deep and shallow anomaly detection, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9347460) 
-* Deep learning for anomaly detection: A review, CSUR'20. [\[paper\]](https://arxiv.org/abs/2007.02500) 
-* A Comprehensive Survey on Graph Anomaly Detection with Deep Learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/2106.07178)  
-* Graph based anomaly detection and description: a survey, DMKD'15. [\[paper\]](https://arxiv.org/abs/1404.4679)
-* Anomaly detection in dynamic networks: a survey, WICS'15. [\[paper\]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347) 
-* Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
-* A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
-
-#### XAI
-* Explaining deep neural networks and beyond: A review of methods and applications, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9369420)
-* Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI, Information Fusion'20. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
-* A survey on the explainability of supervised machine learning, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/download/12228/26647)
-* Techniques for Interpretable Machine Learning, CACM'19. [\[paper\]](https://arxiv.org/abs/1808.00033) 
-
-#### autoML
-* AutoML: A survey of the state-of-the-art, Knowledge-Based Systems'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307516)  
-* Benchmark and survey of automated machine learning frameworks, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/view/11854)
-* AutoML to Date and Beyond: Challenges and Opportunities, CSUR'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3470918)
-* Automated Machine Learning on Graphs: A Survey, IJCAI'21. [\[paper\]](https://www.ijcai.org/proceedings/2021/637)
-* Others: awesome-automl-papers. [\[repo\]](https://github.com/hibayesian/awesome-automl-papers)
-
 
 #### Transformer and Attention
 * A survey on visual transformer, in *IEEE TPAMI* 2022. [\[paper\]](https://arxiv.org/abs/2012.12556)
@@ -741,7 +777,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Self-Supervised Learning
 * Self-supervised visual feature learning with deep neural networks: A survey, in *IEEE TPAMI* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9086055)
 * Self-supervised Learning: Generative or Contrastive, TKDE'21. [\[paper\]](https://arxiv.org/abs/2006.08218)
-* Self-Supervised Representation Learning: Introduction, advances, and challenges, SPG'22. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9770283/)
+* Self-Supervised Representation Learning: Introduction, advances, and challenges, SPM'22. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9770283/)
 
 #### Graph Neural Networks 
 * A comprehensive survey on graph neural networks, TNNLS'20. [\[paper\]](https://arxiv.org/abs/1901.00596)
@@ -758,7 +794,35 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * A comprehensive survey of privacy-preserving federated learning: A taxonomy, review, and future directions, CSUR'21. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3460427)
 * A survey on federated learning, Knowledge-Based Systems'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000381)
 * A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, JIOT'20. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9220780)
-* Federated learning: Challenges, methods, and future directions, SPG'20. [\[paper\]](https://ieeexplore.ieee.org/document/9084352)
+* Federated learning: Challenges, methods, and future directions, SPM'20. [\[paper\]](https://ieeexplore.ieee.org/document/9084352)
+
+#### XAI
+* Explaining deep neural networks and beyond: A review of methods and applications, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9369420)
+* Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI, Information Fusion'20. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
+* A survey on the explainability of supervised machine learning, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/download/12228/26647)
+* Techniques for Interpretable Machine Learning, CACM'19. [\[paper\]](https://arxiv.org/abs/1808.00033) 
+
+#### AutoML
+* AutoML: A survey of the state-of-the-art, Knowledge-Based Systems'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307516)  
+* Benchmark and survey of automated machine learning frameworks, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/view/11854)
+* AutoML to Date and Beyond: Challenges and Opportunities, CSUR'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3470918)
+* Automated Machine Learning on Graphs: A Survey, IJCAI'21. [\[paper\]](https://www.ijcai.org/proceedings/2021/637)
+* Others: awesome-automl-papers. [\[repo\]](https://github.com/hibayesian/awesome-automl-papers)
+
+#### Deep generative models: GAN, VAE, NF
+
+
+
+
+#### Anomaly detection and OOD
+* A unifying review of deep and shallow anomaly detection, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9347460) 
+* Deep learning for anomaly detection: A review, CSUR'20. [\[paper\]](https://arxiv.org/abs/2007.02500) 
+* A Comprehensive Survey on Graph Anomaly Detection with Deep Learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/2106.07178)  
+* Graph based anomaly detection and description: a survey, DMKD'15. [\[paper\]](https://arxiv.org/abs/1404.4679)
+* Anomaly detection in dynamic networks: a survey, WICS'15. [\[paper\]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347) 
+* Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
+* A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
+
 
 <!-- [\[paper\]]() -->
 #### Others
