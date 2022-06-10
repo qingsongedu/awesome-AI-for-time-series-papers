@@ -16,7 +16,7 @@ The top conferences including:
 - Misc: WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc.
 
 The top journals including (mainly for survey papers):
-PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
+PIEEE, CACM, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
 If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -764,11 +764,19 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Others
 * A continual learning survey: Defying forgetting in classification tasks, in *IEEE TPAMI* 2021. [\[paper\]](https://arxiv.org/abs/1909.08383)
 * Learning under concept drift: A review, in *IEEE TKDE* 2018. [\[paper\]](https://arxiv.org/abs/2004.05785)
+* Learning in nonstationary environments: A survey, MCI'15. [\[paper\]](https://arxiv.org/abs/2004.05785)
+* Generalizing to unseen domains: A survey on domain generalization, TKDE'22. [\[paper\]](https://arxiv.org/abs/2103.03097)
+* A survey of unsupervised deep domain adaptation, TIST'21. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3400066)
+* A review of domain adaptation without target labels, TPAMI'19. [\[paper\]](https://arxiv.org/abs/1901.05335)
 * Online learning: A comprehensive survey, Neucom'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006706)
 * Classification in the presence of label noise: a survey, TNNLS'13. [\[paper\]](https://romisatriawahono.net/lecture/rm/survey/machine%20learning/Frenay%20-%20Classification%20in%20the%20Presence%20of%20Label%20Noise%20-%202014.pdf)
-* Learning from imbalanced data, TKDE'09. [\[paper\]]()
+* Learning from imbalanced data, TKDE'09. [\[paper\]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.3478&rep=rep1&type=pdf)
 * A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions, CSUR'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3343440)
 * Imbalance problems in object detection: A review, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1909.00169)
+* A survey on transfer learning, TKDE'09. [\[paper\]](http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+* A Comprehensive Survey on Transfer Learning, PIEEE'21. [\[paper\]](https://arxiv.org/abs/1911.02685)
+* A survey on multi-task learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/1707.08114)
+* Meta-learning in neural networks: A survey, arXiv'21. [\[paper\]](https://arxiv.org/abs/2004.05439)
 * Learning to optimize: A primer and a benchmark, arXiv'21. [\[paper\]](https://arxiv.org/abs/2103.12828)
 
 
