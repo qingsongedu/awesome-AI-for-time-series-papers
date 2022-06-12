@@ -18,7 +18,9 @@ The top conferences including:
 The top journals including (mainly for survey papers):
 CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
-If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. 
+
+For more **Tutorials and Surveys in other AI areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Most Recent Update Note
 - [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
@@ -75,7 +77,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, in *CSUR* 2018. [\[paper\]](https://dl.acm.org/doi/10.1145/3161602) 
 * A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, in *NeurIPS Workshop* 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
-* Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125)
+* Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 
 #### Time Series Forecasting Survey
 * Forecasting: theory and practice, in *IJF* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
