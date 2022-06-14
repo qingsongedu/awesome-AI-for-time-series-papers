@@ -76,6 +76,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Generative Adversarial Networks for Spatio-temporal Data: A Survey, in *TIST* 2022. [\[paper\]](https://arxiv.org/abs/2008.08903)
 * Spatio-Temporal Data Mining: A Survey of Problems and Methods, in *CSUR* 2018. [\[paper\]](https://dl.acm.org/doi/10.1145/3161602) 
 * A Survey on Principles, Models and Methods for Learning from Irregularly Sampled Time Series, in *NeurIPS Workshop* 2020. [\[paper\]](https://arxiv.org/abs/2012.00168)
+* Count Time-Series Analysis: A signal processing perspective, in *SPM* 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8700675)
+* Wavelet transform application for/in non-stationary time-series analysis: a review, in *Applied Sciences* 2019. [\[paper\]](https://www.mdpi.com/2076-3417/9/7/1345)
+* Granger Causality: A Review and Recent Advances, in *Annual Review of Statistics and Its Application* 2014. [\[paper\]](https://www.annualreviews.org/doi/epdf/10.1146/annurev-statistics-040120-010930)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2206.02353)
 * Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
@@ -87,6 +90,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Event prediction in the big data era: A systematic survey, in *CSUR* 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3450287)
 * A brief history of forecasting competitions, in *IJF* 2020. [\[paper\]](https://www.monash.edu/business/ebs/our-research/publications/ebs/wp03-2019.pdf)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
+* Probabilistic forecasting, in *Annual Review of Statistics and Its Application* 2014. [\[paper\]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-062713-085831)
 
 #### Time Series Anomaly Detection Survey
 * A review on outlier/anomaly detection in time series data, in *CSUR* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
