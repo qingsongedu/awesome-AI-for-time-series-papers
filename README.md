@@ -23,7 +23,8 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Most Recent Update Note
-- [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
+- [Jul. 14, 2022] Add papers accepted by KDD'22!
+- [Jun. 02, 2022] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
 
 ## Table of Contents
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
