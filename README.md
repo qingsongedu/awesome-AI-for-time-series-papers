@@ -166,7 +166,31 @@ Not yet announced
 
 
 ### KDD 2022
-Not yet announced
+ 
+#### Time Series Forecasting
+* Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+* Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
+* Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+* Multi-Variate Time Series Forecasting on Variable Subset
+* Greykite: Deploying Flexible Forecasting at Scale in LinkedIn
+
+#### Time Series Anomaly Detection
+* Local Evaluation of Time Series Anomaly Detection Algorithms
+* Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+
+#### Other Time-Series/Spatio-Temporal Analysis
+* Task-Aware Reconstruction for Time-Series Transformer
+* Towards Learning Disentangled Representations for Time Series
+* ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+* Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
+* MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
+* Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction
+* Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models
+* Robust Event Forecasting with Spatiotemporal Confounder Learning
+* Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning
+* Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer
+* Characterizing Covid waves via spatio-temporal decomposition
+
 
 ### AAAI 2022
 #### Time Series Forecasting
