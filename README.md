@@ -23,6 +23,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Most Recent Update Note
+- [Sep. 18, 2022] Add papers accepted by NeurIPS'22!
 - [Jul. 14, 2022] Add papers accepted by KDD'22!
 - [Jun. 02, 2022] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
 
@@ -109,10 +110,49 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## AI4TS Papers 2022
 ### NeurIPS 2022
-Not yet announced
+#### Time Series Forecasting
+* FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM)
+* SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [\[paper\]](https://arxiv.org/abs/2106.09305) [\[official code\]](https://github.com/cure-lab/SCINet)
+* Learning Latent Seasonal-Trend Representations for Time Series Forecasting
+* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting
+* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting
+* Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement
+ 
+* WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
+ 
+* Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
+ 
+* Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
+ 
+* C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting
+ 
+* Meta-Learning Dynamics Forecasting Using Task Inference
+ 
+* Conformal Prediction with Temporal Quantile Adjustments
+ 
+
+
+
+#### Other Time Series Analysis
+* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency
+* Causal Disentanglement for Time Series
+* BILCO: An Efficient Algorithm for Joint Alignment of Time Series
+* Dynamic Sparse Network for Time Series Classification: Learning What to “See”
+* AutoST: Towards the Universal Modeling of Spatio-temporal Sequences
+ 
+* GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks
+ 
+* Efficient learning of nonlinear prediction models with time-series privileged information
+ 
+* Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models
+ 
+
+
+
+
 ### ICML 2022
 #### Time Series Forecasting
-* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
+* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)
 * TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) 
 * Domain Adaptation for Time Series Forecasting via Attention Sharing [\[paper\]](https://arxiv.org/abs/2102.06828) 
 * Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes
