@@ -237,6 +237,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 #### Time Series Forecasting
 * CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
 * Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8424)
+* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA)
 * PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi7128)
 * LIMREF: Local Interpretable Model Agnostic Rule-Based Explanations for Forecasting, with an Application to
 Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi8802)  
