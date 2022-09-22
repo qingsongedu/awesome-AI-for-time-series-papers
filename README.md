@@ -148,25 +148,25 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 
-
+[\[paper\]]() [\[official code\]]()
 ### ICML 2022
 #### Time Series Forecasting
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)
-* TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) 
+* TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) [\[official code\]](https://github.com/ServiceNow/tactis)
+* Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes [\[paper\]](https://arxiv.org/abs/2207.06544) [\[official code\]](https://github.com/g-benton/volt)
 * Domain Adaptation for Time Series Forecasting via Attention Sharing [\[paper\]](https://arxiv.org/abs/2102.06828) 
-* Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes
-* DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting
+* DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting [\[paper\]](https://proceedings.mlr.press/v162/lan22a.html) [\[official code\]](https://github.com/SYLan2019/DSTAGNN)
 
 #### Time Series Anomaly Detection
-* Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection
+* Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html)
 
 #### Other Time Series Analysis
 * Adaptive Conformal Predictions for Time Series [\[paper\]](https://arxiv.org/abs/2202.07282) [\[official code\]](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
-* Modeling Irregular Time Series with Continuous Recurrent Units [\[paper\]](https://arxiv.org/abs/2111.11344) 
+* Modeling Irregular Time Series with Continuous Recurrent Units [\[paper\]](https://arxiv.org/abs/2111.11344) [\[official code\]](https://github.com/boschresearch/continuous-recurrent-units)
 * Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion [\[paper\]](https://arxiv.org/abs/2202.04770) 
-* Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922)
-* Utilizing Expert Features for Contrastive Learning of Time-Series Representations
-* Learning of Cluster-based Feature Importance for Electronic Health Record Time-series
+* Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922) [\[official code\]](https://github.com/durstewitzlab/mmplrnn)
+* Utilizing Expert Features for Contrastive Learning of Time-Series Representations [\[paper\]](https://arxiv.org/abs/2206.11517) [\[official code\]](https://github.com/boschresearch/expclr)
+* Learning of Cluster-based Feature Importance for Electronic Health Record Time-series [\[paper\]](https://proceedings.mlr.press/v162/aguiar22a.html)
 
 ### ICLR 2022
 #### Time Series Forecasting
