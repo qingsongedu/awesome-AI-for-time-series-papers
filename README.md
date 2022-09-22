@@ -56,7 +56,6 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 * Robust Time Series Analysis and Applications: An Industrial Perspective, in *KDD* 2022. [\[Link\]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 * Time Series in Healthcare: Challenges and Solutions, in *AAAI* 2022. [\[Link\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
-* Robust Time Series Analysis: from Theory to Applications in the AI Era, in *IJCAI* 2022. [\[Link\]](https://sites.google.com/site/qingsongwen8/tutorials)
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 * Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications, in *AAAI* 2021. [\[Link\]](https://yue-ning.github.io/aaai-21-tutorial.html)
@@ -113,11 +112,11 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 #### Time Series Forecasting
 * FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM)
 * SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [\[paper\]](https://arxiv.org/abs/2106.09305) [\[official code\]](https://github.com/cure-lab/SCINet)
-* Learning Latent Seasonal-Trend Representations for Time Series Forecasting
-* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting
-* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting
+
+* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.14415)
+* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [\[paper\]](https://arxiv.org/abs/2207.05833)
 * Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement
- 
+* Learning Latent Seasonal-Trend Representations for Time Series Forecasting
 * WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
  
 * Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
@@ -126,7 +125,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
  
 * C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting
  
-* Meta-Learning Dynamics Forecasting Using Task Inference
+* Meta-Learning Dynamics Forecasting Using Task Inference [\[paper\]](https://arxiv.org/abs/2102.10271)
  
 * Conformal Prediction with Temporal Quantile Adjustments
  
@@ -134,7 +133,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 #### Other Time Series Analysis
-* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency
+* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, [\[paper\]](https://arxiv.org/abs/2206.08496) [\[official code\]](https://github.com/mims-harvard/TFC-pretraining)
 * Causal Disentanglement for Time Series
 * BILCO: An Efficient Algorithm for Joint Alignment of Time Series
 * Dynamic Sparse Network for Time Series Classification: Learning What to “See”
