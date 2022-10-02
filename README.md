@@ -60,13 +60,12 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 * Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications, in *AAAI* 2021. [\[Link\]](https://yue-ning.github.io/aaai-21-tutorial.html)
 * Physics-Guided AI for Large-Scale Spatiotemporal Data, in *KDD* 2021. [\[Link\]](https://sites.google.com/view/kdd2021tutorial/home)
-* Deep Learning for Anomaly Detection, in *WSDM* 2020. [\[Link\]](https://sites.google.com/view/wsdm2020dlad)
-* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI)
+* Deep Learning for Anomaly Detection, in *KDD & WSDM* 2020. [\[Link1\]](https://sites.google.com/view/wsdm2020dlad) [\[Link2\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI)
 * Building Forecasting Solutions Using Open-Source and Azure Machine Learning, in *KDD* 2020. [\[Link\]](https://chenhuims.github.io/forecasting/)
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
 * Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
 * Spatio-Temporal Event Forecasting and Precursor Identification, *KDD* 2019. [\[Link\]](http://mason.gmu.edu/~lzhao9/projects/event_forecasting_tutorial_KDD)
-* Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
+* Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link1\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
 
 
 ### AI4TS Surveys
