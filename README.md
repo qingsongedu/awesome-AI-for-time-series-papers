@@ -110,6 +110,30 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## AI4TS Papers 2022
 ### NeurIPS 2022
+
+### ICML 2022
+[\[paper\]]() [\[official code\]]()
+
+### ICLR 2022
+#### Time Series Forecasting
+* Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting [\[paper\]]() [\[official code\]](https://openreview.net/forum?id=vSVLM2j9eie)
+
+
+* MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting [\[paper\]]()
+* Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting [\[paper\]](https://openreview.net/forum?id=7C9aRX2nBf2) [\[official code\]]()
+
+
+
+
+*  [\[paper\]]() [\[official code\]]()
+*  [\[paper\]]() [\[official code\]]()
+*  [\[paper\]]() [\[official code\]]()
+* Unsupervised Model Selection for Time Series Anomaly Detection [\[paper\]](https://openreview.net/forum?id=gOZ_pKANaPW) [\[official code\]]()
+
+
+
+## AI4TS Papers 2022
+### NeurIPS 2022
 #### Time Series Forecasting
 * FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM)
 * SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [\[paper\]](https://arxiv.org/abs/2106.09305) [\[official code\]](https://github.com/cure-lab/SCINet)
