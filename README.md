@@ -147,14 +147,21 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * CUTS: Neural Causal Discovery from Unstructured Time-Series Data [\[paper\]](https://openreview.net/forum?id=UG8bQcD3Emv) [\[official code\]]()
 * Temporal Dependencies in Feature Importance for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=C0q9oBc3n4) [\[official code\]]()
 
+
+
 *  [\[paper\]]() [\[official code\]]()
 ### AAAI 2023
 #### Time Series Forecasting
-* Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
-* WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
+* AirFormer: Predicting Nationwide Air Quality in China with Transformers [\[paper\]](https://arxiv.org/abs/2211.15979) [\[official code\]](https://github.com/yoshall/AirFormer)
+* Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting [\[paper\]]() [\[official code\]]()
+* WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series [\[paper\]]() [\[official code\]]() 
 * Are Transformers Effective for Time Series Forecasting [\[paper\]]() [\[official code\]]()
-* Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose
+* Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose [\[paper\]]() [\[official code\]]()
 * An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks [\[paper\]](https://arxiv.org/abs/2211.15891) [\[official code\]]()
+*  Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [\[paper\]]() [\[official code\]]()
+
+
+
 
 #### Other Time Series Analysis
 * Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning [\[paper\]]() [\[official code\]]()
