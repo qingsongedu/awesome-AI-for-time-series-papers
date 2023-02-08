@@ -147,11 +147,22 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * CUTS: Neural Causal Discovery from Unstructured Time-Series Data [\[paper\]](https://openreview.net/forum?id=UG8bQcD3Emv) [\[official code\]]()
 * Temporal Dependencies in Feature Importance for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=C0q9oBc3n4) [\[official code\]]()
 
-
+*  [\[paper\]]() [\[official code\]]()
 ### AAAI 2023
 #### Time Series Forecasting
-*  [\[paper\]]() [\[official code\]]()
-*  [\[paper\]]() [\[official code\]]()
+* Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
+* WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series
+* Are Transformers Effective for Time Series Forecasting [\[paper\]]() [\[official code\]]()
+* Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose
+* An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks [\[paper\]](https://arxiv.org/abs/2211.15891) [\[official code\]]()
+
+#### Other Time Series Analysis
+* Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning [\[paper\]]() [\[official code\]]()
+* SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation [\[paper\]]() [\[official code\]]()
+* Causal Recurrent Variational Autoencoder for Medical Time Series Generation [\[paper\]]() [\[official code\]]()
+* AEC-GAN: Adversarial Error Correction GANs for Auto-Regressive Long Time-series Generation [\[paper\]]() [\[official code\]]()
+* SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification [\[paper\]]() [\[official code\]]()
+
 
 
 
