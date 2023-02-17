@@ -382,6 +382,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 #### Time Series Anomaly Detection
+* TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis, CIKM'22. [\[paper\]](https://arxiv.org/abs/2210.09693) [\[official code\]](https://github.com/DAMO-DI-ML/CIKM22-TFAD)
 * Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection, AISTATS'22. [\[paper\]](https://arxiv.org/abs/2202.07586) [\[official code\]](https://github.com/cchallu/dghl)
 * A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems, WWW'22. [\[paper\]](https://dl.acm.org/doi/10.1145/3485447.3511984) 
 
