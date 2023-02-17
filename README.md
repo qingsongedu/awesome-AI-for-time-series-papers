@@ -584,6 +584,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding, WWW'21. [\[paper\]](https://arxiv.org/abs/2011.14097) [\[official code\]](https://github.com/cruiseresearchgroup/TSCP2)
 * FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection, WSDM'21. [\[paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823) 
 * Weakly Supervised Temporal Anomaly Segmentation with Dynamic Time Warping, ICCV'21. [\[paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823) [\[official code\]](https://github.com/donalee/wetas)
+* Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems, ATC'21. [\[paper\]](https://www.usenix.org/conference/atc21/presentation/ma)
 
 
 
@@ -807,7 +808,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * User-driven error detection for time series with events, ICDE'20. [\[paper\]](https://www.eurecom.fr/en/publication/6192/download/data-publi-6192.pdf)
 
 
-<!--    , Misc'20. [\[paper\]]() [\[official code\]]()   WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc. --> 
+<!--    , Misc'20. [\[paper\]]() [\[official code\]]()   WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ATC, etc. --> 
 ### Misc 201X-2020
 #### General Time Series Analysis
 * STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks, WWW'19. [\[paper\]](https://arxiv.org/abs/1902.07849) [\[official code\]](https://github.com/yscacaca/STFNets)
@@ -835,7 +836,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 #### Time Series Anomaly Detection
 * Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [\[paper\]](https://arxiv.org/abs/2009.02040) [\[code\]](https://github.com/ML4ITS/mtad-gat-pytorch)
 * MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives, ICDM'20. [\[paper\]](https://www.cs.ucr.edu/~eamonn/MERLIN_Long_version_for_website.pdf) [\[official code\]](https://sites.google.com/view/merlin-find-anomalies/MERLIN) 
+* Cross-dataset Time Series Anomaly Detection for Cloud Systems, ATC'19. [\[paper\]](https://www.usenix.org/conference/atc19/presentation/zhang-xu) 
 * Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [\[paper\]](https://arxiv.org/abs/1802.03903) [\[official code\]](https://github.com/NetManAIOps/donut)
 
-
+ 
 
