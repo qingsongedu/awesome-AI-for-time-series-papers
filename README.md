@@ -123,7 +123,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
  
 ### ICLR 2023
 #### Time Series Forecasting
-* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[official code\]]()
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[official code\]](https://github.com/yuqinie98/PatchTST)
 * Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie) [\[official code\]]()
 * Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE) [\[official code\]]()
 * MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting [\[paper\]](https://openreview.net/forum?id=zt53IDUR1U) [\[official code\]]()
@@ -276,7 +276,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 ### KDD 2022
  
 #### Time Series Forecasting
-* Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+* Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting [\[code\]](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
 * Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
 * Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
 * Multi-Variate Time Series Forecasting on Variable Subset
