@@ -77,6 +77,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### AI4TS Surveys
 #### General Time Series Survey
+* Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528)
 * Causal inference for time series analysis: problems, methods and evaluation, in *KAIS* 2022. [\[paper\]](https://scholar.google.com/scholar?cluster=15831734748668637115&hl=en&as_sdt=5,48&sciodt=0,48)
@@ -90,7 +91,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Granger Causality: A Review and Recent Advances, in *Annual Review of Statistics and Its Application* 2014. [\[paper\]](https://www.annualreviews.org/doi/epdf/10.1146/annurev-statistics-040120-010930)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2206.02353)
-* Transformers in Time Series: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
+
 
 #### Time Series Forecasting Survey
 * Forecasting: theory and practice, in *IJF* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
