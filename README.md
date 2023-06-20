@@ -123,17 +123,22 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 ### ICML 2023 
+#### Time Series Forecasting
 * Learning Deep Time-index Models for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=pgcfCCNQXO)
 * Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts [\[paper\]](https://openreview.net/forum?id=gTGFxnBymb) 
 * Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=YbYMRZbO1Y) 
 * Feature Programming for Multivariate Time Series Prediction [\[paper\]](https://openreview.net/forum?id=LVARH5wXM9) 
-* Non-autoregressive Conditional Diffusion Models for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=wZsnZkviro) 
-* Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion [\[paper\]](https://openreview.net/forum?id=OUWckW2g3j) 
+* Non-autoregressive Conditional Diffusion Models for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=wZsnZkviro)
+  
+#### Time Series Anomaly Detection, Classification, and XAI
 * Prototype-oriented unsupervised anomaly detection for multivariate time series [\[paper\]](https://openreview.net/forum?id=3vO4lS6PuF) 
 * Probabilistic Imputation for Time-series Classification with Missing Data [\[paper\]](https://openreview.net/forum?id=7pcZLgulIV) 
 * Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation [\[paper\]](https://openreview.net/forum?id=HRmSGZZ1FY) 
-* Self-Interpretable Time Series Prediction with Counterfactual Explanations [\[paper\]](Self-Interpretable Time Series Prediction with Counterfactual Explanations) 
-* Learning Perturbations to Explain Time Series Predictions [\[paper\]](https://openreview.net/forum?id=WpeZu6WzTB) 
+* Self-Interpretable Time Series Prediction with Counterfactual Explanations [\[paper\]](https://openreview.net/forum?id=JPMT9kjeJi) 
+* Learning Perturbations to Explain Time Series Predictions [\[paper\]](https://openreview.net/forum?id=WpeZu6WzTB)
+  
+#### Other Time Series Analysis
+* Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion [\[paper\]](https://openreview.net/forum?id=OUWckW2g3j) 
 * Neural Stochastic Differential Games for Time-series Analysis [\[paper\]]() 
 * Sequential Monte Carlo Learning for Time Series Structure Discovery [\[paper\]]() 
 * Context Consistency Regularization for Label Sparsity in Time Series [\[paper\]]() 
