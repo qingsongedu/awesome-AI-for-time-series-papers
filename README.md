@@ -130,7 +130,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Feature Programming for Multivariate Time Series Prediction [\[paper\]](https://openreview.net/forum?id=LVARH5wXM9) 
 * Non-autoregressive Conditional Diffusion Models for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=wZsnZkviro)
   
-#### Time Series Anomaly Detection, Classification, and XAI
+#### Time Series Anomaly Detection, Classification, Imputation, and XAI
 * Prototype-oriented unsupervised anomaly detection for multivariate time series [\[paper\]](https://openreview.net/forum?id=3vO4lS6PuF) 
 * Probabilistic Imputation for Time-series Classification with Missing Data [\[paper\]](https://openreview.net/forum?id=7pcZLgulIV) 
 * Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation [\[paper\]](https://openreview.net/forum?id=HRmSGZZ1FY) 
