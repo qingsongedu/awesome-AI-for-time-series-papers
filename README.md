@@ -23,6 +23,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Main Recent Update Note
+- [Jul. 05, 2023] Add papers accepted by KDD'23!
 - [Jun. 20, 2023] Add papers accepted by ICML'23!
 - [Feb. 07, 2023] Add papers accepted by ICLR'23 and AAAI'23!
 - [Sep. 18, 2022] Add papers accepted by NeurIPS'22!
@@ -184,9 +185,34 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * CUTS: Neural Causal Discovery from Unstructured Time-Series Data [\[paper\]](https://openreview.net/forum?id=UG8bQcD3Emv) [\[official code\]]()
 * Temporal Dependencies in Feature Importance for Time Series Prediction [\[paper\]](https://openreview.net/forum?id=C0q9oBc3n4) [\[official code\]]()
 
+### KDD 2023
+#### Time Series Anomaly Detection
+* DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2306.10347) [\[official code\]](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)
+* Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models [\[paper\]](https://github.com/ChunjingXiao/DiffAD/blob/main/KDD_23_DiffAD.pdf) [\[official code\]](https://github.com/ChunjingXiao/DiffAD)
+* Precursor-of-Anomaly Detection for Irregular Time Series [\[paper\]](https://arxiv.org/abs/2306.15489)  
+#### Time Series Forecasting
+* When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting
+* TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2306.09364)
+* Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting
+* Sparse Binary Transformers for Multivariate Time Series Modeling [\[paper\]]() [\[official code\]]()
+* Interactive Generalized Additive Model and Its Applications in Electric Load Forecasting
+#### Time Series Forecasting (Traffic)
+* Frigate: Frugal Spatio-temporal Forecasting on Road Networks [\[paper\]]() [\[official code\]]()
+* Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities
+* Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training
+* Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction
+#### Time Series Imputation
+* Source-Free Domain Adaptation with Temporal Imputation for Time Series Data [\[paper\]]() [\[official code\]]()
+* Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders
+* An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series
+#### Others
+* Online Few-Shot Time Series Classification for Aftershock Detection [\[paper\]]() [\[official code\]]()
+* Self-supervised Classification of Clinical Multivariate Time Series using Time Series Dynamics
+* Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series
+* Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation
+* FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework
+* WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis
 
-
-*  [\[paper\]]() [\[official code\]]()
 ### AAAI 2023
 #### Time Series Forecasting
 * AirFormer: Predicting Nationwide Air Quality in China with Transformers [\[paper\]](https://arxiv.org/abs/2211.15979) [\[official code\]](https://github.com/yoshall/AirFormer)
@@ -195,10 +221,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Are Transformers Effective for Time Series Forecasting [\[paper\]]() [\[official code\]]()
 * Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose [\[paper\]]() [\[official code\]]()
 * An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks [\[paper\]](https://arxiv.org/abs/2211.15891) [\[official code\]]()
-*  Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [\[paper\]]() [\[official code\]]()
-
-
-
+* Spatio-Temporal Meta-Graph Learning for Traffic Forecasting [\[paper\]]() [\[official code\]]()
 
 #### Other Time Series Analysis
 * Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning [\[paper\]]() [\[official code\]]()
