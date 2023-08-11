@@ -92,7 +92,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Wavelet transform application for/in non-stationary time-series analysis: a review, in *Applied Sciences* 2019. [\[paper\]](https://www.mdpi.com/2076-3417/9/7/1345)
 * Granger Causality: A Review and Recent Advances, in *Annual Review of Statistics and Its Application* 2014. [\[paper\]](https://www.annualreviews.org/doi/epdf/10.1146/annurev-statistics-040120-010930)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
-* Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2206.02353)
+* Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2206.02353)
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759)
+* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125)
 
 
 #### Time Series Forecasting Survey
