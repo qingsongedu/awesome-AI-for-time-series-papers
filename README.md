@@ -93,8 +93,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Granger Causality: A Review and Recent Advances, in *Annual Review of Statistics and Its Application* 2014. [\[paper\]](https://www.annualreviews.org/doi/epdf/10.1146/annurev-statistics-040120-010930)
 * A Review of Deep Learning Methods for Irregularly Sampled Medical Time Series Data, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2010.12493)
 * Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2206.02353)
-* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759)
-* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125)
+* A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.10716) [\[link\]](https://github.com/qianlima-lab/time-series-ptms)
+* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]]([https://arxiv.org/abs/2306.10125](https://arxiv.org/abs/2307.03759)) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 
 
 #### Time Series Forecasting Survey
