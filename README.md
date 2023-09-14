@@ -95,7 +95,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2206.02353)
 * A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.10716) [\[link\]](https://github.com/qianlima-lab/time-series-ptms)
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
-* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]]([https://arxiv.org/abs/2306.10125](https://arxiv.org/abs/2307.03759)) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 
 
 #### Time Series Forecasting Survey
