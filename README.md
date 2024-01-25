@@ -10,7 +10,7 @@ A professionally curated list of papers (with available code), tutorials, and su
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
-- Data Mining: KDD
+- Data Mining: KDD, WWW
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
 - Misc (selected): WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, etc.
