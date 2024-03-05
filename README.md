@@ -254,6 +254,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection [\[paper\]](https://neurips.cc/virtual/2023/poster/71195)
 * Nominality Score Conditioned Time Series Anomaly Detection by Point/Sequential Reconstruction [\[paper\]](https://neurips.cc/virtual/2023/poster/70582)
 * MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection [\[paper\]](https://neurips.cc/virtual/2023/poster/71519)
+* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series [\[paper\]](https://neurips.cc/virtual/2023/poster/71219)
 * Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels [\[paper\]](https://neurips.cc/virtual/2023/poster/72608)
   
 #### Others
@@ -262,7 +263,6 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency [\[paper\]](https://neurips.cc/virtual/2023/poster/69958)
 * Sparse Deep Learning for Time Series Data: Theory and Applications [\[paper\]](https://neurips.cc/virtual/2023/poster/72629)
 * CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement [\[paper\]](https://neurips.cc/virtual/2023/poster/70010)
-* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series [\[paper\]](https://neurips.cc/virtual/2023/poster/71219)
 * WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction [\[paper\]](https://neurips.cc/virtual/2023/poster/73593)
 * Conformal Prediction for Time Series with Modern Hopfield Networks [\[paper\]](https://neurips.cc/virtual/2023/poster/72007)
 * Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings [\[paper\]](https://neurips.cc/virtual/2023/poster/71521)
