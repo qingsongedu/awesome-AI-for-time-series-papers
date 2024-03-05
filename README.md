@@ -23,7 +23,7 @@ If you find any missed resources (paper/code) or errors, please feel free to ope
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Main Recent Update Note
-- [Mar. 04, 2024] Add papers accepted by ICLR'24, WWW'24!
+- [Mar. 04, 2024] Add papers accepted by ICLR'24, AAAI'24, WWW'24!
 - [Jul. 05, 2023] Add papers accepted by KDD'23!
 - [Jun. 20, 2023] Add papers accepted by ICML'23!
 - [Feb. 07, 2023] Add papers accepted by ICLR'23 and AAAI'23!
@@ -200,15 +200,39 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2310.05668)
 * Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective [\[paper\]](https://arxiv.org/abs/2402.02820)
 * Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection [\[paper\]]()
-* 
+
 #### Others
 * Dynamic Multi-Network Mining of Tensor Time Series [\[paper\]]()
 * E2USD: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series [\[paper\]](https://arxiv.org/abs/2402.14041)
 
   
 ### AAAI 2024
+#### Time Series Forecasting
+* U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2401.02236)
+* HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting [\[paper\]]()
+* Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting [\[paper\]]()
+* Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2312.08763)
+* MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2401.00423)
+* Latent Diffusion Transformer for Probabilistic Time Series Forecasting [\[paper\]]()
+* Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting [\[paper\]]()
 
+#### Time Series Classification, Clustering, Anomaly Detection
+* Graph-Aware Contrasting for Multivariate Time-Series Classification [\[paper\]](https://arxiv.org/abs/2309.05202)
+* Diffusion Language-Shapelets for Semisupervised Time-series Classification [\[paper\]]()
+*  Energy-efficient Streaming Time Series Classification with Attentive Power Iteration [\[paper\]]()
+* Cross-Domain Contrastive Learning for Time Series Clustering [\[paper\]]()
+* When Model Meets New Normals: Test-time Adaptation for Unsupervised Time-series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2312.11976)
+  
+#### Others
+* TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning [\[paper\]](https://arxiv.org/abs/2312.15709)
+* GraFITi: Graphs for Forecasting Irregularly Sampled Time Series [\[paper\]](https://arxiv.org/abs/2305.12932)
+* IVP-VAE: Modeling EHR Time Series with Initial Value Problem Solvers [\[paper\]](https://arxiv.org/abs/2305.06741)
+* SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation [\[paper\]](https://arxiv.org/abs/2312.05790)
+* CGS-Mask: Making Time Series Predictions Intuitive for All [\[paper\]](https://arxiv.org/abs/2312.09513)
+* CUTS+: High-dimensional Causal Discovery from Irregular Time-series [\[paper\]](https://arxiv.org/abs/2305.05890)
+* Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data [\[paper\]](https://arxiv.org/abs/2309.05305)
 
+  
 ## AI4TS Papers 2023
 ### NeurIPS 2023
 #### Time Series Forecasting
