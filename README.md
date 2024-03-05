@@ -145,12 +145,12 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [\[paper\]](https://openreview.net/forum?id=Tuh4nZVb0g) [\[official code\]](https://github.com/scxsunchenxi/test)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=YH5w12OUuU)
 * DAM: A Foundation Model for Forecasting [\[paper\]](https://openreview.net/forum?id=4NhMhElWqP)
-* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=MJksrOhurE)
-* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW)
+* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card)
+* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
+* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=JePfAI8fah) [\[official code\]](https://github.com/thuml/iTransformer)
 * GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
 * Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=qae04YACHs)
-* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=JePfAI8fah)
-* RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies [\[paper\]](https://openreview.net/forum?id=ltZ9ianMth)
+* RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies [\[paper\]](https://openreview.net/forum?id=ltZ9ianMth) [\[official code\]](https://github.com/haochenglouis/RobustTSF)
 * ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis [\[paper\]](https://openreview.net/forum?id=vpJMJerXHU)
 * TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=7oLshfEIC2)
 * FITS: Modeling Time Series with 10k Parameters [\[paper\]](https://openreview.net/forum?id=bWcnvZ3qMb)
@@ -169,8 +169,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Periodicity Decoupling Framework for Long-term Series Forecasting [\[paper\]](https://openreview.net/forum?id=dp27P5HBBt)
 * Self-Supervised Contrastive Forecasting [\[paper\]](https://openreview.net/forum?id=nBCuRzjqK7)
 
-#### Others
-* Explaining Time Series via Contrastive and Locally Sparse Perturbations [\[paper\]](https://openreview.net/forum?id=qDdSRaOiyb)
+#### Others  
+* Explaining Time Series via Contrastive and Locally Sparse Perturbations [\[paper\]](https://openreview.net/forum?id=qDdSRaOiyb) [\[official code\]](https://github.com/zichuan-liu/ContraLSP)
+* CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [\[paper\]](https://openreview.net/forum?id=iad1yyyGme) [\[official code\]](https://www.causaltime.cc/)
 * SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series [\[paper\]](https://openreview.net/forum?id=s9z0HzWJJp)
 * Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns [\[paper\]](https://openreview.net/forum?id=CdjnzWsQax)
 * Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data [\[paper\]](https://openreview.net/forum?id=4VIgNuQ1pY)
@@ -183,7 +184,6 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Conditional Information Bottleneck Approach for Time Series Imputation [\[paper\]](https://openreview.net/forum?id=K1mcPiDdOJ)
 * Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs [\[paper\]](https://openreview.net/forum?id=eY7sLb0dVF)
 * Learning to Embed Time Series Patches Independently [\[paper\]](https://openreview.net/forum?id=WS7GuBDFa2)
-* CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [\[paper\]](https://openreview.net/forum?id=iad1yyyGme)
 * Parametric Augmentation for Time Series Contrastive Learning [\[paper\]](https://openreview.net/forum?id=EIPLdFy3vp)
 * Inherently Interpretable Time Series Classification via Multiple Instance Learning [\[paper\]](https://openreview.net/forum?id=xriGRsoAza)
 
