@@ -124,10 +124,56 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Approaches and Applications of Early Classification of Time Series: A Review, in *IEEE Transactions on Artificial Intelligence* 2020. [\[paper\]](https://arxiv.org/abs/2005.02595)
 
 
+## AI4TS Papers 2024
+### NeurIPS 2024
 
+### ICML 2024
+
+### ICLR 2024
+
+
+
+
+
+[\[paper\]]()
 ## AI4TS Papers 2023
 ### NeurIPS 2023
+#### Time Series Forecasting
+* OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling [\[paper\]](https://neurips.cc/virtual/2023/poster/71725)
+* One Fits All: Power General Time Series Analysis by Pretrained LM [\[paper\]](https://neurips.cc/virtual/2023/poster/70856)
+* Large Language Models Are Zero Shot Time Series Forecasters [\[paper\]](https://neurips.cc/virtual/2023/poster/70543)
+* BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis [\[paper\]](https://neurips.cc/virtual/2023/poster/69976)
+* ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling [\[paper\]](https://neurips.cc/virtual/2023/poster/71304)
+* FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective [\[paper\]](https://neurips.cc/virtual/2023/poster/71159)
+* Frequency-domain MLPs are More Effective Learners in Time Series Forecasting [\[paper\]](https://neurips.cc/virtual/2023/poster/70726)
+* Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective [\[paper\]](https://neurips.cc/virtual/2023/poster/72816)
+* WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting [\[paper\]](https://neurips.cc/virtual/2023/poster/69972)
+* Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting [\[paper\]](https://neurips.cc/virtual/2023/poster/70377)
+* Conformal PID Control for Time Series Prediction [\[paper\]](https://neurips.cc/virtual/2023/poster/69896)
+* SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling [\[paper\]](https://neurips.cc/virtual/2023/poster/70829)
+* Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors [\[paper\]](https://neurips.cc/virtual/2023/poster/72562)
 
+#### Time Series Anomaly Detection, Classification
+* Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection [\[paper\]](https://neurips.cc/virtual/2023/poster/71195)
+* Nominality Score Conditioned Time Series Anomaly Detection by Point/Sequential Reconstruction [\[paper\]](https://neurips.cc/virtual/2023/poster/70582)
+* MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection [\[paper\]](https://neurips.cc/virtual/2023/poster/71519)
+* Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels [\[paper\]](https://neurips.cc/virtual/2023/poster/72608)
+  
+#### Others
+* Causal Discovery from Subsampled Time Series with Proxy Variables [\[paper\]](https://neurips.cc/virtual/2023/poster/70936)
+* Causal Discovery in Semi-Stationary Time Series [\[paper\]](https://neurips.cc/virtual/2023/poster/71016)
+* Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency [\[paper\]](https://neurips.cc/virtual/2023/poster/69958)
+* Sparse Deep Learning for Time Series Data: Theory and Applications [\[paper\]](https://neurips.cc/virtual/2023/poster/72629)
+* CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement [\[paper\]](https://neurips.cc/virtual/2023/poster/70010)
+* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series [\[paper\]](https://neurips.cc/virtual/2023/poster/71219)
+* WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction [\[paper\]](https://neurips.cc/virtual/2023/poster/73593)
+* Conformal Prediction for Time Series with Modern Hopfield Networks [\[paper\]](https://neurips.cc/virtual/2023/poster/72007)
+* Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings [\[paper\]](https://neurips.cc/virtual/2023/poster/71521)
+* On the Constrained Time-Series Generation Problem [\[paper\]](https://neurips.cc/virtual/2023/poster/72006)
+* Contrast Everything: Multi-Granularity Representation Learning for Medical Time-Series [\[paper\]](https://neurips.cc/virtual/2023/poster/70272)
+* Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning [\[paper\]](https://neurips.cc/virtual/2023/poster/71014)
+* FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space [\[paper\]](https://neurips.cc/virtual/2023/poster/70617)
+* BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series [\[paper\]](https://neurips.cc/virtual/2023/poster/73499
 
 ### ICML 2023 
 #### Time Series Forecasting
@@ -161,8 +207,6 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Learning the Dynamics of Sparsely Observed Interacting Systems [\[paper\]]() 
 * Markovian Gaussian Process Variational Autoencoders [\[paper\]](https://openreview.net/forum?id=Z8QlQ207V6) 
 * ClimaX: A foundation model for weather and climate [\[paper\]](https://openreview.net/forum?id=TowCaiz7Ui) 
-
-
 
 
 ### ICLR 2023
@@ -235,10 +279,6 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Causal Recurrent Variational Autoencoder for Medical Time Series Generation [\[paper\]]() [\[official code\]]()
 * AEC-GAN: Adversarial Error Correction GANs for Auto-Regressive Long Time-series Generation [\[paper\]]() [\[official code\]]()
 * SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification [\[paper\]]() [\[official code\]]()
-
-
-
-
 
 
 ## AI4TS Papers 2022
