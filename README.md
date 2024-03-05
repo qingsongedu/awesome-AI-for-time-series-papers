@@ -13,16 +13,17 @@ The top conferences including:
 - Data Mining: KDD, WWW
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc (selected): WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, etc.
+- Misc (selected): AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, etc.
 
 The top journals including (mainly for survey papers):
 CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
-If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. 
+If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. 
 
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 ## Main Recent Update Note
+- [Mar. 04, 2024] Add papers accepted by ICLR'24, WWW'24!
 - [Jul. 05, 2023] Add papers accepted by KDD'23!
 - [Jun. 20, 2023] Add papers accepted by ICML'23!
 - [Feb. 07, 2023] Add papers accepted by ICLR'23 and AAAI'23!
@@ -34,6 +35,12 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
   * [AI4TS Tutorials](#AI4TS-Tutorials)
   * [AI4TS Surveys](#AI4TS-Surveys)
+
+- [AI4TS Papers 2024](#AI4TS-Papers-2024)
+  * [NeurIPS 2024](#NeurIPS-2024), [ICML 2024](#ICML-2024), [ICLR 2024](#ICLR-2024)
+  * [KDD 2024](#KDD-2024), [WWW 2024](#WWW-2024), [AAAI 2024](#AAAI-2024), [IJCAI 2024](#IJCAI-2024)
+  * [SIGMOD VLDB ICDE 2024](#SIGMOD-VLDB-ICDE-2024)
+  * [Misc 2024](#Misc-2024)
  
 - [AI4TS Papers 2023](#AI4TS-Papers-2023)
   * [NeurIPS 2023](#NeurIPS-2023), [ICML 2023](#ICML-2023), [ICLR 2023](#ICLR-2023)
@@ -62,7 +69,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
-
+* Out-of-Distribution Generalization in Time Series, in *AAAI* 2024. [\[Link\]](https://ood-timeseries.github.io/)
+* Robust Time Series Analysis and Applications: An Interdisciplinary Approach, in *ICDM* 2023. [\[Link\]](https://sites.google.com/view/timeseries-tutorial-icdm2023)
 * Robust Time Series Analysis and Applications: An Industrial Perspective, in *KDD* 2022. [\[Link\]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 * Time Series in Healthcare: Challenges and Solutions, in *AAAI* 2022. [\[Link\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
@@ -79,7 +87,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### AI4TS Surveys
 #### General Time Series Survey
+* What Can Large Language Models Tell Us about Time Series Analysis, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.02713)
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
+* Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation)
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
@@ -123,19 +133,82 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 * Approaches and Applications of Early Classification of Time Series: A Review, in *IEEE Transactions on Artificial Intelligence* 2020. [\[paper\]](https://arxiv.org/abs/2005.02595)
 
-
+[\[paper\]]()
 ## AI4TS Papers 2024
 ### NeurIPS 2024
 
 ### ICML 2024
 
 ### ICLR 2024
+#### Time Series Forecasting
+* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [\[paper\]](https://openreview.net/forum?id=Unb5CVPtae) [\[official code\]](https://github.com/kimmeen/time-llm/)
+* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [\[paper\]](https://openreview.net/forum?id=Tuh4nZVb0g) [\[official code\]](https://github.com/scxsunchenxi/test)
+* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=YH5w12OUuU)
+* DAM: A Foundation Model for Forecasting [\[paper\]](https://openreview.net/forum?id=4NhMhElWqP)
+* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=MJksrOhurE)
+* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW)
+* GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
+* Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=qae04YACHs)
+* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=JePfAI8fah)
+* RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies [\[paper\]](https://openreview.net/forum?id=ltZ9ianMth)
+* ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis [\[paper\]](https://openreview.net/forum?id=vpJMJerXHU)
+* TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=7oLshfEIC2)
+* FITS: Modeling Time Series with 10k Parameters [\[paper\]](https://openreview.net/forum?id=bWcnvZ3qMb)
+* Multi-Resolution Diffusion Models for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=mmjnr0G8ZY)
+* MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process [\[paper\]](https://openreview.net/forum?id=CZiY6OLktd)
+* Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction [\[paper\]](https://openreview.net/forum?id=aFWUY3E7ws)
+* TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series [\[paper\]](https://openreview.net/forum?id=xtOydkE1Ku)
+* Towards Transparent Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=TYXtXLYHpR)
+* Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values [\[paper\]](https://openreview.net/forum?id=O9nZCwdGcG)
+* Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators [\[paper\]](https://openreview.net/forum?id=JiTVtCUOpS)
+* VQ-TR: Vector Quantized Attention for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=IxpTsFS7mh)
+* Copula Conformal prediction for multi-step time series prediction [\[paper\]](https://openreview.net/forum?id=ojIJZDNIBj)
+* ClimODE: Climate Forecasting With Physics-informed Neural ODEs [\[paper\]](https://openreview.net/forum?id=xuY33XhEGR)
+* STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction [\[paper\]](https://openreview.net/forum?id=6iwg437CZs)
+* T-Rep: Representation Learning for Time Series using Time-Embeddings [\[paper\]](https://openreview.net/forum?id=3y2TfP966N)
+* Periodicity Decoupling Framework for Long-term Series Forecasting [\[paper\]](https://openreview.net/forum?id=dp27P5HBBt)
+* Self-Supervised Contrastive Forecasting [\[paper\]](https://openreview.net/forum?id=nBCuRzjqK7)
+
+#### Others
+* Explaining Time Series via Contrastive and Locally Sparse Perturbations [\[paper\]](https://openreview.net/forum?id=qDdSRaOiyb)
+* SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series [\[paper\]](https://openreview.net/forum?id=s9z0HzWJJp)
+* Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns [\[paper\]](https://openreview.net/forum?id=CdjnzWsQax)
+* Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data [\[paper\]](https://openreview.net/forum?id=4VIgNuQ1pY)
+* Soft Contrastive Learning for Time Series [\[paper\]](https://openreview.net/forum?id=pAsQSWlDUf)
+* Retrieval-Based Reconstruction For Time-series Contrastive Learning [\[paper\]](https://openreview.net/forum?id=3zQo5oUvia)
+* Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach [\[paper\]](https://openreview.net/forum?id=K2c04ulKXn)
+* Diffusion-TS: Interpretable Diffusion for General Time Series Generation [\[paper\]](https://openreview.net/forum?id=4h1apFjO99)
+* Disentangling Time Series Representations via Contrastive based l-Variational Inference [\[paper\]](https://openreview.net/forum?id=iI7hZSczxE)
+* Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data [\[paper\]](https://openreview.net/forum?id=9zhHVyLY4K)
+* Conditional Information Bottleneck Approach for Time Series Imputation [\[paper\]](https://openreview.net/forum?id=K1mcPiDdOJ)
+* Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs [\[paper\]](https://openreview.net/forum?id=eY7sLb0dVF)
+* Learning to Embed Time Series Patches Independently [\[paper\]](https://openreview.net/forum?id=WS7GuBDFa2)
+* CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery [\[paper\]](https://openreview.net/forum?id=iad1yyyGme)
+* Parametric Augmentation for Time Series Contrastive Learning [\[paper\]](https://openreview.net/forum?id=EIPLdFy3vp)
+* Inherently Interpretable Time Series Classification via Multiple Instance Learning [\[paper\]](https://openreview.net/forum?id=xriGRsoAza)
 
 
+### KDD 2024
+
+### WWW 2024
+
+#### Time Series Forecasting
+* UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2310.09751)
+* Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations [\[paper\]](https://arxiv.org/abs/2402.01231)
+
+#### Time Series Anomaly Detection
+* LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2310.05668)
+* Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective [\[paper\]](https://arxiv.org/abs/2402.02820)
+* Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection [\[paper\]]()
+* 
+#### Others
+* Dynamic Multi-Network Mining of Tensor Time Series [\[paper\]]()
+* E2USD: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series [\[paper\]](https://arxiv.org/abs/2402.14041)
+
+  
+### AAAI 2024
 
 
-
-[\[paper\]]()
 ## AI4TS Papers 2023
 ### NeurIPS 2023
 #### Time Series Forecasting
