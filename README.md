@@ -146,7 +146,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=YH5w12OUuU)
 * DAM: A Foundation Model for Forecasting [\[paper\]](https://openreview.net/forum?id=4NhMhElWqP)
 * CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card)
-* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
+* Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
 * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=JePfAI8fah) [\[official code\]](https://github.com/thuml/iTransformer)
 * GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
 * Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=qae04YACHs)
